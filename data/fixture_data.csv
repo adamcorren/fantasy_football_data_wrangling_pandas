@@ -1,0 +1,2281 @@
+game_week,week_day,date,kickoff_time,home_team,away_team,home_xg,away_xg,score,season,game_id
+1,Fri,11/08/2017,19:45,Arsenal,Leicester City,2.5,1.5,4–3,2017-2018,0
+1,Sat,12/08/2017,12:30,Watford,Liverpool,2.1,2.6,3–3,2017-2018,1
+1,Sat,12/08/2017,15:00,Crystal Palace,Huddersfield,1.1,1.5,0–3,2017-2018,2
+1,Sat,12/08/2017,15:00,West Brom,Bournemouth,1.3,0.5,1–0,2017-2018,3
+1,Sat,12/08/2017,15:00,Chelsea,Burnley,1.5,0.6,2–3,2017-2018,4
+1,Sat,12/08/2017,15:00,Everton,Stoke City,0.6,0.4,1–0,2017-2018,5
+1,Sat,12/08/2017,15:00,Southampton,Swansea City,2,0.3,0–0,2017-2018,6
+1,Sat,12/08/2017,17:30,Brighton,Manchester City,0.3,1.9,0–2,2017-2018,7
+1,Sun,13/08/2017,13:30,Newcastle Utd,Tottenham,0.8,2.5,0–2,2017-2018,8
+1,Sun,13/08/2017,16:00,Manchester Utd,West Ham,2.1,0.5,4–0,2017-2018,9
+2,Sat,19/08/2017,12:30,Swansea City,Manchester Utd,0.4,3,0–4,2017-2018,10
+2,Sat,19/08/2017,15:00,Bournemouth,Watford,1,2.4,0–2,2017-2018,11
+2,Sat,19/08/2017,15:00,Southampton,West Ham,2.1,2,3–2,2017-2018,12
+2,Sat,19/08/2017,15:00,Leicester City,Brighton,2,0.2,2–0,2017-2018,13
+2,Sat,19/08/2017,15:00,Burnley,West Brom,1.3,0.9,0–1,2017-2018,14
+2,Sat,19/08/2017,15:00,Liverpool,Crystal Palace,2.5,0.7,1–0,2017-2018,15
+2,Sat,19/08/2017,17:30,Stoke City,Arsenal,0.7,1.5,1–0,2017-2018,16
+2,Sun,20/08/2017,13:30,Huddersfield,Newcastle Utd,0.3,0.7,1–0,2017-2018,17
+2,Sun,20/08/2017,16:00,Tottenham,Chelsea,0.7,0.7,1–2,2017-2018,18
+2,Mon,21/08/2017,20:00,Manchester City,Everton,1.1,0.6,1–1,2017-2018,19
+3,Sat,26/08/2017,12:30,Bournemouth,Manchester City,0.5,1.4,1–2,2017-2018,20
+3,Sat,26/08/2017,15:00,Huddersfield,Southampton,1.4,0.7,0–0,2017-2018,21
+3,Sat,26/08/2017,15:00,Watford,Brighton,0.3,1.1,0–0,2017-2018,22
+3,Sat,26/08/2017,15:00,Crystal Palace,Swansea City,0.9,0.7,0–2,2017-2018,23
+3,Sat,26/08/2017,15:00,Newcastle Utd,West Ham,2.3,0.6,3–0,2017-2018,24
+3,Sat,26/08/2017,17:30,Manchester Utd,Leicester City,2.8,0.9,2–0,2017-2018,25
+3,Sun,27/08/2017,13:30,Chelsea,Everton,1,0.4,2–0,2017-2018,26
+3,Sun,27/08/2017,13:30,West Brom,Stoke City,0.8,1.3,1–1,2017-2018,27
+3,Sun,27/08/2017,16:00,Tottenham,Burnley,2.3,0.9,1–1,2017-2018,28
+3,Sun,27/08/2017,16:00,Liverpool,Arsenal,3.1,0.6,4–0,2017-2018,29
+4,Sat,09/09/2017,12:30,Manchester City,Liverpool,2.4,0.7,5–0,2017-2018,30
+4,Sat,09/09/2017,15:00,Everton,Tottenham,0.9,1.8,0–3,2017-2018,31
+4,Sat,09/09/2017,15:00,Arsenal,Bournemouth,2.2,0.6,3–0,2017-2018,32
+4,Sat,09/09/2017,15:00,Leicester City,Chelsea,1.4,0.8,1–2,2017-2018,33
+4,Sat,09/09/2017,15:00,Brighton,West Brom,0.4,1,3–1,2017-2018,34
+4,Sat,09/09/2017,15:00,Southampton,Watford,0.3,0.7,0–2,2017-2018,35
+4,Sat,09/09/2017,17:30,Stoke City,Manchester Utd,1.2,2.1,2–2,2017-2018,36
+4,Sun,10/09/2017,13:30,Burnley,Crystal Palace,0.3,2,1–0,2017-2018,37
+4,Sun,10/09/2017,16:00,Swansea City,Newcastle Utd,1.2,1,0–1,2017-2018,38
+4,Mon,11/09/2017,20:00,West Ham,Huddersfield,1.7,0.4,2–0,2017-2018,39
+5,Fri,15/09/2017,20:00,Bournemouth,Brighton,1.2,0.9,2–1,2017-2018,40
+5,Sat,16/09/2017,12:30,Crystal Palace,Southampton,2,1,0–1,2017-2018,41
+5,Sat,16/09/2017,15:00,Newcastle Utd,Stoke City,2,0.7,2–1,2017-2018,42
+5,Sat,16/09/2017,15:00,Huddersfield,Leicester City,0.7,1.3,1–1,2017-2018,43
+5,Sat,16/09/2017,15:00,Liverpool,Burnley,2.2,0.2,1–1,2017-2018,44
+5,Sat,16/09/2017,15:00,West Brom,West Ham,0.7,0.3,0–0,2017-2018,45
+5,Sat,16/09/2017,15:00,Watford,Manchester City,0.5,3.3,0–6,2017-2018,46
+5,Sat,16/09/2017,17:30,Tottenham,Swansea City,1.1,0.2,0–0,2017-2018,47
+5,Sun,17/09/2017,13:30,Chelsea,Arsenal,0.8,1.4,0–0,2017-2018,48
+5,Sun,17/09/2017,16:00,Manchester Utd,Everton,2.9,1.1,4–0,2017-2018,49
+6,Sat,23/09/2017,12:30,West Ham,Tottenham,0.6,1.2,2–3,2017-2018,50
+6,Sat,23/09/2017,15:00,Southampton,Manchester Utd,1,1.2,0–1,2017-2018,51
+6,Sat,23/09/2017,15:00,Stoke City,Chelsea,0.8,1.4,0–4,2017-2018,52
+6,Sat,23/09/2017,15:00,Manchester City,Crystal Palace,4.5,0.6,5–0,2017-2018,53
+6,Sat,23/09/2017,15:00,Burnley,Huddersfield,0.3,0.3,0–0,2017-2018,54
+6,Sat,23/09/2017,15:00,Swansea City,Watford,1.7,1.2,1–2,2017-2018,55
+6,Sat,23/09/2017,15:00,Everton,Bournemouth,2,0.3,2–1,2017-2018,56
+6,Sat,23/09/2017,17:30,Leicester City,Liverpool,2.8,1.7,2–3,2017-2018,57
+6,Sun,24/09/2017,16:00,Brighton,Newcastle Utd,1,1.5,1–0,2017-2018,58
+6,Mon,25/09/2017,20:00,Arsenal,West Brom,2.2,0.9,2–0,2017-2018,59
+7,Sat,30/09/2017,12:30,Huddersfield,Tottenham,0.2,1.5,0–4,2017-2018,60
+7,Sat,30/09/2017,15:00,Stoke City,Southampton,2.4,1.4,2–1,2017-2018,61
+7,Sat,30/09/2017,15:00,West Ham,Swansea City,0.7,0.2,1–0,2017-2018,62
+7,Sat,30/09/2017,15:00,Manchester Utd,Crystal Palace,2.8,0.4,4–0,2017-2018,63
+7,Sat,30/09/2017,15:00,Bournemouth,Leicester City,1.4,0.6,0–0,2017-2018,64
+7,Sat,30/09/2017,15:00,West Brom,Watford,1.9,1.4,2–2,2017-2018,65
+7,Sat,30/09/2017,17:30,Chelsea,Manchester City,0.5,0.9,0–1,2017-2018,66
+7,Sun,01/10/2017,12:00,Arsenal,Brighton,2.4,0.4,2–0,2017-2018,67
+7,Sun,01/10/2017,14:15,Everton,Burnley,1.1,0.4,0–1,2017-2018,68
+7,Sun,01/10/2017,16:30,Newcastle Utd,Liverpool,0.3,1.3,1–1,2017-2018,69
+8,Sat,14/10/2017,12:30,Liverpool,Manchester Utd,1.5,0.2,0–0,2017-2018,70
+8,Sat,14/10/2017,15:00,Tottenham,Bournemouth,1.8,0.2,1–0,2017-2018,71
+8,Sat,14/10/2017,15:00,Burnley,West Ham,1.2,0.9,1–1,2017-2018,72
+8,Sat,14/10/2017,15:00,Crystal Palace,Chelsea,1.7,0.8,2–1,2017-2018,73
+8,Sat,14/10/2017,15:00,Swansea City,Huddersfield,1.5,0.7,2–0,2017-2018,74
+8,Sat,14/10/2017,15:00,Manchester City,Stoke City,3.8,0.5,7–2,2017-2018,75
+8,Sat,14/10/2017,17:30,Watford,Arsenal,1.6,1,2–1,2017-2018,76
+8,Sun,15/10/2017,13:30,Brighton,Everton,1,1.5,1–1,2017-2018,77
+8,Sun,15/10/2017,16:00,Southampton,Newcastle Utd,1.5,1.2,2–2,2017-2018,78
+8,Mon,16/10/2017,20:00,Leicester City,West Brom,1.3,0.2,1–1,2017-2018,79
+9,Fri,20/10/2017,20:00,West Ham,Brighton,0.7,1.4,0–3,2017-2018,80
+9,Sat,21/10/2017,12:30,Chelsea,Watford,1.9,1.9,4–2,2017-2018,81
+9,Sat,21/10/2017,15:00,Manchester City,Burnley,3.1,0.2,3–0,2017-2018,82
+9,Sat,21/10/2017,15:00,Huddersfield,Manchester Utd,1.2,0.8,2–1,2017-2018,83
+9,Sat,21/10/2017,15:00,Swansea City,Leicester City,0.8,1.9,1–2,2017-2018,84
+9,Sat,21/10/2017,15:00,Stoke City,Bournemouth,1.2,1.1,1–2,2017-2018,85
+9,Sat,21/10/2017,15:00,Newcastle Utd,Crystal Palace,0.3,0.5,1–0,2017-2018,86
+9,Sat,21/10/2017,17:30,Southampton,West Brom,2,0.4,1–0,2017-2018,87
+9,Sun,22/10/2017,13:30,Everton,Arsenal,1,3.5,2–5,2017-2018,88
+9,Sun,22/10/2017,16:00,Tottenham,Liverpool,2,0.6,4–1,2017-2018,89
+10,Sat,28/10/2017,12:30,Manchester Utd,Tottenham,0.8,1.2,1–0,2017-2018,90
+10,Sat,28/10/2017,15:00,Arsenal,Swansea City,2,0.9,2–1,2017-2018,91
+10,Sat,28/10/2017,15:00,Crystal Palace,West Ham,2.6,0.8,2–2,2017-2018,92
+10,Sat,28/10/2017,15:00,Watford,Stoke City,1.2,1.1,0–1,2017-2018,93
+10,Sat,28/10/2017,15:00,Liverpool,Huddersfield,2.1,0.1,3–0,2017-2018,94
+10,Sat,28/10/2017,15:00,West Brom,Manchester City,1.5,2.3,2–3,2017-2018,95
+10,Sat,28/10/2017,17:30,Bournemouth,Chelsea,0.5,1.6,0–1,2017-2018,96
+10,Sun,29/10/2017,13:30,Brighton,Southampton,1.2,0.3,1–1,2017-2018,97
+10,Sun,29/10/2017,16:00,Leicester City,Everton,1.3,0.6,2–0,2017-2018,98
+10,Mon,30/10/2017,20:00,Burnley,Newcastle Utd,0.9,0.5,1–0,2017-2018,99
+11,Sat,04/11/2017,12:30,Stoke City,Leicester City,1,1.5,2–2,2017-2018,100
+11,Sat,04/11/2017,15:00,Southampton,Burnley,0.7,0.2,0–1,2017-2018,101
+11,Sat,04/11/2017,15:00,Swansea City,Brighton,1.3,0.9,0–1,2017-2018,102
+11,Sat,04/11/2017,15:00,Huddersfield,West Brom,0.3,0.4,1–0,2017-2018,103
+11,Sat,04/11/2017,15:00,Newcastle Utd,Bournemouth,0.7,1.5,0–1,2017-2018,104
+11,Sat,04/11/2017,17:30,West Ham,Liverpool,1.2,2.7,1–4,2017-2018,105
+11,Sun,05/11/2017,12:00,Tottenham,Crystal Palace,0.9,0.8,1–0,2017-2018,106
+11,Sun,05/11/2017,14:15,Manchester City,Arsenal,1.8,0.3,3–1,2017-2018,107
+11,Sun,05/11/2017,16:30,Everton,Watford,2.1,2,3–2,2017-2018,108
+11,Sun,05/11/2017,16:30,Chelsea,Manchester Utd,1.6,0.7,1–0,2017-2018,109
+12,Sat,18/11/2017,12:30,Arsenal,Tottenham,2.1,0.7,2–0,2017-2018,110
+12,Sat,18/11/2017,15:00,West Brom,Chelsea,0.8,1.6,0–4,2017-2018,111
+12,Sat,18/11/2017,15:00,Bournemouth,Huddersfield,0.7,1.2,4–0,2017-2018,112
+12,Sat,18/11/2017,15:00,Liverpool,Southampton,2,0.4,3–0,2017-2018,113
+12,Sat,18/11/2017,15:00,Burnley,Swansea City,1.6,0.6,2–0,2017-2018,114
+12,Sat,18/11/2017,15:00,Crystal Palace,Everton,2,1.8,2–2,2017-2018,115
+12,Sat,18/11/2017,15:00,Leicester City,Manchester City,0.2,1.9,0–2,2017-2018,116
+12,Sat,18/11/2017,17:30,Manchester Utd,Newcastle Utd,3.1,1.1,4–1,2017-2018,117
+12,Sun,19/11/2017,16:00,Watford,West Ham,1,1.6,2–0,2017-2018,118
+12,Mon,20/11/2017,20:00,Brighton,Stoke City,0.5,1,2–2,2017-2018,119
+13,Fri,24/11/2017,20:00,West Ham,Leicester City,0.9,0.4,1–1,2017-2018,120
+13,Sat,25/11/2017,15:00,Tottenham,West Brom,1.8,0.7,1–1,2017-2018,121
+13,Sat,25/11/2017,15:00,Manchester Utd,Brighton,1.2,0.5,1–0,2017-2018,122
+13,Sat,25/11/2017,15:00,Swansea City,Bournemouth,0.9,0.4,0–0,2017-2018,123
+13,Sat,25/11/2017,15:00,Crystal Palace,Stoke City,1.4,0.7,2–1,2017-2018,124
+13,Sat,25/11/2017,15:00,Newcastle Utd,Watford,0.9,2,0–3,2017-2018,125
+13,Sat,25/11/2017,17:30,Liverpool,Chelsea,1.2,0.8,1–1,2017-2018,126
+13,Sun,26/11/2017,13:30,Southampton,Everton,2,0.2,4–1,2017-2018,127
+13,Sun,26/11/2017,14:00,Burnley,Arsenal,0.4,1.8,0–1,2017-2018,128
+13,Sun,26/11/2017,16:00,Huddersfield,Manchester City,0.6,2.6,1–2,2017-2018,129
+14,Tue,28/11/2017,19:45,Brighton,Crystal Palace,0.6,0.5,0–0,2017-2018,130
+14,Tue,28/11/2017,19:45,Leicester City,Tottenham,0.6,2.4,2–1,2017-2018,131
+14,Tue,28/11/2017,20:00,Watford,Manchester Utd,1.4,1.2,2–4,2017-2018,132
+14,Tue,28/11/2017,20:00,West Brom,Newcastle Utd,1.5,0.9,2–2,2017-2018,133
+14,Wed,29/11/2017,19:45,Chelsea,Swansea City,1.5,0.1,1–0,2017-2018,134
+14,Wed,29/11/2017,19:45,Bournemouth,Burnley,1.2,1.1,1–2,2017-2018,135
+14,Wed,29/11/2017,19:45,Arsenal,Huddersfield,4,0.5,5–0,2017-2018,136
+14,Wed,29/11/2017,20:00,Stoke City,Liverpool,0.9,2.9,0–3,2017-2018,137
+14,Wed,29/11/2017,20:00,Everton,West Ham,1.5,1.1,4–0,2017-2018,138
+14,Wed,29/11/2017,20:00,Manchester City,Southampton,1.4,1.3,2–1,2017-2018,139
+15,Sat,02/12/2017,12:30,Chelsea,Newcastle Utd,3.2,0.6,3–1,2017-2018,140
+15,Sat,02/12/2017,15:00,Watford,Tottenham,0.4,0.8,1–1,2017-2018,141
+15,Sat,02/12/2017,15:00,West Brom,Crystal Palace,1.9,0.6,0–0,2017-2018,142
+15,Sat,02/12/2017,15:00,Stoke City,Swansea City,1.1,0.4,2–1,2017-2018,143
+15,Sat,02/12/2017,15:00,Brighton,Liverpool,1.7,1.8,1–5,2017-2018,144
+15,Sat,02/12/2017,15:00,Everton,Huddersfield,0.7,0.3,2–0,2017-2018,145
+15,Sat,02/12/2017,15:00,Leicester City,Burnley,1.4,1,1–0,2017-2018,146
+15,Sat,02/12/2017,17:30,Arsenal,Manchester Utd,4.7,1.8,1–3,2017-2018,147
+15,Sun,03/12/2017,13:30,Bournemouth,Southampton,0.9,1.5,1–1,2017-2018,148
+15,Sun,03/12/2017,16:00,Manchester City,West Ham,2.3,0.6,2–1,2017-2018,149
+16,Sat,09/12/2017,12:30,West Ham,Chelsea,0.3,1.2,1–0,2017-2018,150
+16,Sat,09/12/2017,15:00,Huddersfield,Brighton,2.2,0.3,2–0,2017-2018,151
+16,Sat,09/12/2017,15:00,Crystal Palace,Bournemouth,3.9,0.7,2–2,2017-2018,152
+16,Sat,09/12/2017,15:00,Tottenham,Stoke City,3.6,0.5,5–1,2017-2018,153
+16,Sat,09/12/2017,15:00,Burnley,Watford,0.5,1.1,1–0,2017-2018,154
+16,Sat,09/12/2017,15:00,Swansea City,West Brom,1.5,0.3,1–0,2017-2018,155
+16,Sat,09/12/2017,17:30,Newcastle Utd,Leicester City,0.9,0.5,2–3,2017-2018,156
+16,Sun,10/12/2017,12:00,Southampton,Arsenal,1.3,0.7,1–1,2017-2018,157
+16,Sun,10/12/2017,14:15,Liverpool,Everton,1.6,0.9,1–1,2017-2018,158
+16,Sun,10/12/2017,16:30,Manchester Utd,Manchester City,1.4,1.7,1–2,2017-2018,159
+17,Tue,12/12/2017,19:45,Burnley,Stoke City,0.4,1.1,1–0,2017-2018,160
+17,Tue,12/12/2017,20:00,Crystal Palace,Watford,1.2,1.2,2–1,2017-2018,161
+17,Tue,12/12/2017,20:00,Huddersfield,Chelsea,0.7,1.5,1–3,2017-2018,162
+17,Wed,13/12/2017,19:45,Newcastle Utd,Everton,0.8,1.2,0–1,2017-2018,163
+17,Wed,13/12/2017,19:45,Southampton,Leicester City,1.5,1.8,1–4,2017-2018,164
+17,Wed,13/12/2017,19:45,Swansea City,Manchester City,0.6,2.7,0–4,2017-2018,165
+17,Wed,13/12/2017,20:00,Liverpool,West Brom,2.1,0.4,0–0,2017-2018,166
+17,Wed,13/12/2017,20:00,West Ham,Arsenal,0.4,1,0–0,2017-2018,167
+17,Wed,13/12/2017,20:00,Tottenham,Brighton,1.5,0.4,2–0,2017-2018,168
+17,Wed,13/12/2017,20:00,Manchester Utd,Bournemouth,1.1,0.8,1–0,2017-2018,169
+18,Sat,16/12/2017,12:30,Leicester City,Crystal Palace,0.9,1.7,0–3,2017-2018,170
+18,Sat,16/12/2017,15:00,Watford,Huddersfield,0.6,3.4,1–4,2017-2018,171
+18,Sat,16/12/2017,15:00,Arsenal,Newcastle Utd,1.8,0.3,1–0,2017-2018,172
+18,Sat,16/12/2017,15:00,Brighton,Burnley,1.5,1.2,0–0,2017-2018,173
+18,Sat,16/12/2017,15:00,Chelsea,Southampton,1.4,0.5,1–0,2017-2018,174
+18,Sat,16/12/2017,16:00,Stoke City,West Ham,1.1,3.1,0–3,2017-2018,175
+18,Sat,16/12/2017,17:30,Manchester City,Tottenham,3.4,0.2,4–1,2017-2018,176
+18,Sun,17/12/2017,14:15,West Brom,Manchester Utd,1.1,0.7,1–2,2017-2018,177
+18,Sun,17/12/2017,16:30,Bournemouth,Liverpool,0.6,2.5,0–4,2017-2018,178
+18,Mon,18/12/2017,20:00,Everton,Swansea City,2,0.8,3–1,2017-2018,179
+19,Fri,22/12/2017,19:45,Arsenal,Liverpool,1.2,2,3–3,2017-2018,180
+19,Sat,23/12/2017,12:30,Everton,Chelsea,0.3,1.8,0–0,2017-2018,181
+19,Sat,23/12/2017,15:00,Stoke City,West Brom,1.4,2,3–1,2017-2018,182
+19,Sat,23/12/2017,15:00,Brighton,Watford,1.1,1.5,1–0,2017-2018,183
+19,Sat,23/12/2017,15:00,Swansea City,Crystal Palace,0.5,1.3,1–1,2017-2018,184
+19,Sat,23/12/2017,15:00,Southampton,Huddersfield,1.3,1.1,1–1,2017-2018,185
+19,Sat,23/12/2017,15:00,Manchester City,Bournemouth,1.5,0.4,4–0,2017-2018,186
+19,Sat,23/12/2017,15:00,West Ham,Newcastle Utd,2.1,1.7,2–3,2017-2018,187
+19,Sat,23/12/2017,17:30,Burnley,Tottenham,0.2,3.1,0–3,2017-2018,188
+19,Sat,23/12/2017,19:45,Leicester City,Manchester Utd,1.4,1.9,2–2,2017-2018,189
+20,Tue,26/12/2017,12:30,Tottenham,Southampton,3,0.8,5–2,2017-2018,190
+20,Tue,26/12/2017,15:00,Bournemouth,West Ham,2.9,1.7,3–3,2017-2018,191
+20,Tue,26/12/2017,15:00,Watford,Leicester City,1.2,1.3,2–1,2017-2018,192
+20,Tue,26/12/2017,15:00,West Brom,Everton,1.5,0.4,0–0,2017-2018,193
+20,Tue,26/12/2017,15:00,Manchester Utd,Burnley,2,0.5,2–2,2017-2018,194
+20,Tue,26/12/2017,15:00,Huddersfield,Stoke City,1.8,1.6,1–1,2017-2018,195
+20,Tue,26/12/2017,15:00,Chelsea,Brighton,2.1,0.5,2–0,2017-2018,196
+20,Tue,26/12/2017,17:30,Liverpool,Swansea City,3.1,0.4,5–0,2017-2018,197
+20,Wed,27/12/2017,19:45,Newcastle Utd,Manchester City,0.2,1.8,0–1,2017-2018,198
+20,Thu,28/12/2017,20:00,Crystal Palace,Arsenal,1.3,1.8,2–3,2017-2018,199
+21,Sat,30/12/2017,15:00,Huddersfield,Burnley,0.1,1.2,0–0,2017-2018,200
+21,Sat,30/12/2017,15:00,Chelsea,Stoke City,2.6,0.2,5–0,2017-2018,201
+21,Sat,30/12/2017,15:00,Bournemouth,Everton,1.5,0.5,2–1,2017-2018,202
+21,Sat,30/12/2017,15:00,Liverpool,Leicester City,2.9,0.7,2–1,2017-2018,203
+21,Sat,30/12/2017,15:00,Watford,Swansea City,1.2,1.1,1–2,2017-2018,204
+21,Sat,30/12/2017,15:00,Newcastle Utd,Brighton,0.5,0.5,0–0,2017-2018,205
+21,Sat,30/12/2017,17:30,Manchester Utd,Southampton,1.7,0.6,0–0,2017-2018,206
+21,Sun,31/12/2017,12:00,Crystal Palace,Manchester City,1.3,1.3,0–0,2017-2018,207
+21,Sun,31/12/2017,16:30,West Brom,Arsenal,1.5,0.9,1–1,2017-2018,208
+22,Mon,01/01/2018,12:30,Brighton,Bournemouth,2.4,1.5,2–2,2017-2018,209
+22,Mon,01/01/2018,15:00,Leicester City,Huddersfield,1.5,0.2,3–0,2017-2018,210
+22,Mon,01/01/2018,15:00,Burnley,Liverpool,1.3,1.7,1–2,2017-2018,211
+22,Mon,01/01/2018,15:00,Stoke City,Newcastle Utd,1.5,1.7,0–1,2017-2018,212
+22,Mon,01/01/2018,17:30,Everton,Manchester Utd,1.2,1.4,0–2,2017-2018,213
+22,Tue,02/01/2018,19:45,West Ham,West Brom,1.3,1,2–1,2017-2018,214
+22,Tue,02/01/2018,19:45,Swansea City,Tottenham,0.4,1.3,0–2,2017-2018,215
+22,Tue,02/01/2018,19:45,Southampton,Crystal Palace,0.4,1.3,1–2,2017-2018,216
+22,Tue,02/01/2018,20:00,Manchester City,Watford,2.1,1,3–1,2017-2018,217
+22,Wed,03/01/2018,19:45,Arsenal,Chelsea,1.2,3,2–2,2017-2018,218
+21,Thu,04/01/2018,20:00,Tottenham,West Ham,1.8,0.5,1–1,2017-2018,219
+23,Sat,13/01/2018,15:00,Newcastle Utd,Swansea City,1.4,1.3,1–1,2017-2018,220
+23,Sat,13/01/2018,15:00,Crystal Palace,Burnley,1.4,0.7,1–0,2017-2018,221
+23,Sat,13/01/2018,15:00,Chelsea,Leicester City,0.6,1.2,0–0,2017-2018,222
+23,Sat,13/01/2018,15:00,Huddersfield,West Ham,0.7,0.9,1–4,2017-2018,223
+23,Sat,13/01/2018,15:00,West Brom,Brighton,1,0.6,2–0,2017-2018,224
+23,Sat,13/01/2018,15:00,Watford,Southampton,2,0.9,2–2,2017-2018,225
+23,Sat,13/01/2018,17:30,Tottenham,Everton,3.8,0.3,4–0,2017-2018,226
+23,Sun,14/01/2018,13:30,Bournemouth,Arsenal,0.8,1.1,2–1,2017-2018,227
+23,Sun,14/01/2018,16:00,Liverpool,Manchester City,0.8,0.8,4–3,2017-2018,228
+23,Mon,15/01/2018,20:00,Manchester Utd,Stoke City,1.5,1.3,3–0,2017-2018,229
+24,Sat,20/01/2018,12:30,Brighton,Chelsea,0.8,1.3,0–4,2017-2018,230
+24,Sat,20/01/2018,15:00,Everton,West Brom,1.1,1.1,1–1,2017-2018,231
+24,Sat,20/01/2018,15:00,Leicester City,Watford,1.9,0.9,2–0,2017-2018,232
+24,Sat,20/01/2018,15:00,Stoke City,Huddersfield,1,0.3,2–0,2017-2018,233
+24,Sat,20/01/2018,15:00,Arsenal,Crystal Palace,2.9,0.6,4–1,2017-2018,234
+24,Sat,20/01/2018,15:00,West Ham,Bournemouth,0.8,0.5,1–1,2017-2018,235
+24,Sat,20/01/2018,15:00,Burnley,Manchester Utd,1,0.8,0–1,2017-2018,236
+24,Sat,20/01/2018,17:30,Manchester City,Newcastle Utd,2.1,1,3–1,2017-2018,237
+24,Sun,21/01/2018,16:00,Southampton,Tottenham,0.8,1.2,1–1,2017-2018,238
+24,Mon,22/01/2018,20:00,Swansea City,Liverpool,0.2,2.5,1–0,2017-2018,239
+25,Tue,30/01/2018,19:45,West Ham,Crystal Palace,1.1,0.9,1–1,2017-2018,240
+25,Tue,30/01/2018,19:45,Swansea City,Arsenal,2.1,1.3,3–1,2017-2018,241
+25,Tue,30/01/2018,20:00,Huddersfield,Liverpool,0.3,1.8,0–3,2017-2018,242
+25,Wed,31/01/2018,19:45,Southampton,Brighton,1.4,1.1,1–1,2017-2018,243
+25,Wed,31/01/2018,19:45,Chelsea,Bournemouth,1.2,1.1,0–3,2017-2018,244
+25,Wed,31/01/2018,19:45,Everton,Leicester City,1.2,2.2,2–1,2017-2018,245
+25,Wed,31/01/2018,19:45,Newcastle Utd,Burnley,2.2,1,1–1,2017-2018,246
+25,Wed,31/01/2018,20:00,Stoke City,Watford,0.9,0.7,0–0,2017-2018,247
+25,Wed,31/01/2018,20:00,Manchester City,West Brom,2.3,0.2,3–0,2017-2018,248
+25,Wed,31/01/2018,20:00,Tottenham,Manchester Utd,1.5,1,2–0,2017-2018,249
+26,Sat,03/02/2018,12:30,Burnley,Manchester City,0.9,1.8,1–1,2017-2018,250
+26,Sat,03/02/2018,15:00,West Brom,Southampton,0.8,0.9,2–3,2017-2018,251
+26,Sat,03/02/2018,15:00,Bournemouth,Stoke City,1.7,0.7,2–1,2017-2018,252
+26,Sat,03/02/2018,15:00,Manchester Utd,Huddersfield,1.6,0.2,2–0,2017-2018,253
+26,Sat,03/02/2018,15:00,Brighton,West Ham,1.7,0.4,3–1,2017-2018,254
+26,Sat,03/02/2018,15:00,Leicester City,Swansea City,1.7,0.3,1–1,2017-2018,255
+26,Sat,03/02/2018,17:30,Arsenal,Everton,2.6,1.2,5–1,2017-2018,256
+26,Sun,04/02/2018,14:15,Crystal Palace,Newcastle Utd,3,0.9,1–1,2017-2018,257
+26,Sun,04/02/2018,16:30,Liverpool,Tottenham,1.2,2.6,2–2,2017-2018,258
+26,Mon,05/02/2018,20:00,Watford,Chelsea,2.3,0.7,4–1,2017-2018,259
+27,Sat,10/02/2018,12:30,Tottenham,Arsenal,2.6,0.6,1–0,2017-2018,260
+27,Sat,10/02/2018,15:00,Everton,Crystal Palace,1.5,1.5,3–1,2017-2018,261
+27,Sat,10/02/2018,15:00,Swansea City,Burnley,0.7,0.5,1–0,2017-2018,262
+27,Sat,10/02/2018,15:00,Stoke City,Brighton,1.4,1.1,1–1,2017-2018,263
+27,Sat,10/02/2018,15:00,West Ham,Watford,1.5,0.6,2–0,2017-2018,264
+27,Sat,10/02/2018,17:30,Manchester City,Leicester City,2.5,0.1,5–1,2017-2018,265
+27,Sun,11/02/2018,12:00,Huddersfield,Bournemouth,2.2,0.3,4–1,2017-2018,266
+27,Sun,11/02/2018,14:15,Newcastle Utd,Manchester Utd,0.5,1.9,1–0,2017-2018,267
+27,Sun,11/02/2018,16:30,Southampton,Liverpool,0.9,1.9,0–2,2017-2018,268
+27,Mon,12/02/2018,20:00,Chelsea,West Brom,1.9,0.7,3–0,2017-2018,269
+28,Sat,24/02/2018,12:30,Leicester City,Stoke City,1.2,0.2,1–1,2017-2018,270
+28,Sat,24/02/2018,15:00,West Brom,Huddersfield,1.2,1.1,1–2,2017-2018,271
+28,Sat,24/02/2018,15:00,Bournemouth,Newcastle Utd,1.7,3,2–2,2017-2018,272
+28,Sat,24/02/2018,15:00,Liverpool,West Ham,4,0.4,4–1,2017-2018,273
+28,Sat,24/02/2018,15:00,Burnley,Southampton,1.3,0.8,1–1,2017-2018,274
+28,Sat,24/02/2018,15:00,Brighton,Swansea City,3,0.6,4–1,2017-2018,275
+28,Sat,24/02/2018,17:30,Watford,Everton,0.6,0.8,1–0,2017-2018,276
+28,Sun,25/02/2018,12:00,Crystal Palace,Tottenham,0.2,1.7,0–1,2017-2018,277
+28,Sun,25/02/2018,14:05,Manchester Utd,Chelsea,1.2,1.7,2–1,2017-2018,278
+28,Thu,01/03/2018,19:45,Arsenal,Manchester City,1.3,1.5,0–3,2017-2018,279
+29,Sat,03/03/2018,12:30,Burnley,Everton,2.1,1.5,2–1,2017-2018,280
+29,Sat,03/03/2018,15:00,Watford,West Brom,1.3,1.1,1–0,2017-2018,281
+29,Sat,03/03/2018,15:00,Swansea City,West Ham,1.8,0.4,4–1,2017-2018,282
+29,Sat,03/03/2018,15:00,Leicester City,Bournemouth,2.7,1.4,1–1,2017-2018,283
+29,Sat,03/03/2018,15:00,Southampton,Stoke City,0.9,0.8,0–0,2017-2018,284
+29,Sat,03/03/2018,15:00,Tottenham,Huddersfield,1.6,0.1,2–0,2017-2018,285
+29,Sat,03/03/2018,17:30,Liverpool,Newcastle Utd,1.5,0.3,2–0,2017-2018,286
+29,Sun,04/03/2018,13:30,Brighton,Arsenal,1.2,1.2,2–1,2017-2018,287
+29,Sun,04/03/2018,16:00,Manchester City,Chelsea,0.9,0.1,1–0,2017-2018,288
+29,Mon,05/03/2018,20:00,Crystal Palace,Manchester Utd,0.6,1.2,2–3,2017-2018,289
+30,Sat,10/03/2018,12:30,Manchester Utd,Liverpool,0.7,0.7,2–1,2017-2018,290
+30,Sat,10/03/2018,15:00,West Ham,Burnley,0.8,1.4,0–3,2017-2018,291
+30,Sat,10/03/2018,15:00,Newcastle Utd,Southampton,1.3,0.3,3–0,2017-2018,292
+30,Sat,10/03/2018,15:00,West Brom,Leicester City,0.3,2.1,1–4,2017-2018,293
+30,Sat,10/03/2018,15:00,Everton,Brighton,1.5,0.3,2–0,2017-2018,294
+30,Sat,10/03/2018,15:00,Huddersfield,Swansea City,1.4,0,0–0,2017-2018,295
+30,Sat,10/03/2018,17:30,Chelsea,Crystal Palace,3.1,1.1,2–1,2017-2018,296
+30,Sun,11/03/2018,13:30,Arsenal,Watford,2.2,1.4,3–0,2017-2018,297
+30,Sun,11/03/2018,16:00,Bournemouth,Tottenham,1.2,2.4,1–4,2017-2018,298
+30,Mon,12/03/2018,20:00,Stoke City,Manchester City,0.4,1.6,0–2,2017-2018,299
+31,Sat,17/03/2018,15:00,Stoke City,Everton,0.8,2.3,1–2,2017-2018,300
+31,Sat,17/03/2018,15:00,Bournemouth,West Brom,0.7,1.6,2–1,2017-2018,301
+31,Sat,17/03/2018,15:00,Huddersfield,Crystal Palace,0.3,2.7,0–2,2017-2018,302
+31,Sat,17/03/2018,17:30,Liverpool,Watford,2.3,0.4,5–0,2017-2018,303
+32,Sat,31/03/2018,12:30,Crystal Palace,Liverpool,1.9,1.8,1–2,2017-2018,304
+32,Sat,31/03/2018,15:00,Manchester Utd,Swansea City,2.2,0.2,2–0,2017-2018,305
+32,Sat,31/03/2018,15:00,Brighton,Leicester City,1.8,1.2,0–2,2017-2018,306
+32,Sat,31/03/2018,15:00,West Brom,Burnley,0.5,1.3,1–2,2017-2018,307
+32,Sat,31/03/2018,15:00,West Ham,Southampton,1.4,0.5,3–0,2017-2018,308
+32,Sat,31/03/2018,15:00,Newcastle Utd,Huddersfield,2.4,0.1,1–0,2017-2018,309
+32,Sat,31/03/2018,15:00,Watford,Bournemouth,0.7,1.7,2–2,2017-2018,310
+32,Sat,31/03/2018,17:30,Everton,Manchester City,0.9,1.5,1–3,2017-2018,311
+32,Sun,01/04/2018,13:30,Arsenal,Stoke City,3.3,0.4,3–0,2017-2018,312
+32,Sun,01/04/2018,16:00,Chelsea,Tottenham,1,1.4,1–3,2017-2018,313
+33,Sat,07/04/2018,12:30,Everton,Liverpool,0.6,0.9,0–0,2017-2018,314
+33,Sat,07/04/2018,15:00,Stoke City,Tottenham,1.4,1.7,1–2,2017-2018,315
+33,Sat,07/04/2018,15:00,Leicester City,Newcastle Utd,1.4,0.4,1–2,2017-2018,316
+33,Sat,07/04/2018,15:00,Watford,Burnley,1.2,1,1–2,2017-2018,317
+33,Sat,07/04/2018,15:00,Brighton,Huddersfield,1.5,1.5,1–1,2017-2018,318
+33,Sat,07/04/2018,15:00,Bournemouth,Crystal Palace,1.9,1.1,2–2,2017-2018,319
+33,Sat,07/04/2018,15:00,West Brom,Swansea City,1.2,0.8,1–1,2017-2018,320
+33,Sat,07/04/2018,17:30,Manchester City,Manchester Utd,2.6,1.1,2–3,2017-2018,321
+33,Sun,08/04/2018,14:15,Arsenal,Southampton,1.6,2,3–2,2017-2018,322
+33,Sun,08/04/2018,16:30,Chelsea,West Ham,1.7,0.3,1–1,2017-2018,323
+34,Sat,14/04/2018,12:30,Southampton,Chelsea,1,0.8,2–3,2017-2018,324
+34,Sat,14/04/2018,15:00,Crystal Palace,Brighton,2.1,1.5,3–2,2017-2018,325
+34,Sat,14/04/2018,15:00,Huddersfield,Watford,0.8,0.2,1–0,2017-2018,326
+34,Sat,14/04/2018,15:00,Burnley,Leicester City,0.9,1.9,2–1,2017-2018,327
+34,Sat,14/04/2018,15:00,Swansea City,Everton,1.3,1.6,1–1,2017-2018,328
+34,Sat,14/04/2018,17:30,Liverpool,Bournemouth,2,0.3,3–0,2017-2018,329
+34,Sat,14/04/2018,19:45,Tottenham,Manchester City,0.4,2.9,1–3,2017-2018,330
+34,Sun,15/04/2018,13:30,Newcastle Utd,Arsenal,0.8,1.2,2–1,2017-2018,331
+34,Sun,15/04/2018,16:00,Manchester Utd,West Brom,0.7,0.7,0–1,2017-2018,332
+34,Mon,16/04/2018,20:00,West Ham,Stoke City,0.8,1.7,1–1,2017-2018,333
+35,Tue,17/04/2018,19:45,Brighton,Tottenham,1.1,1.3,1–1,2017-2018,334
+35,Wed,18/04/2018,19:45,Bournemouth,Manchester Utd,1.2,1.3,0–2,2017-2018,335
+31,Thu,19/04/2018,19:45,Burnley,Chelsea,0.2,1.7,1–2,2017-2018,336
+35,Thu,19/04/2018,19:45,Leicester City,Southampton,0.6,0.8,0–0,2017-2018,337
+35,Sat,21/04/2018,12:30,West Brom,Liverpool,1.3,1.3,2–2,2017-2018,338
+35,Sat,21/04/2018,15:00,Watford,Crystal Palace,0.6,0.3,0–0,2017-2018,339
+35,Sun,22/04/2018,13:30,Arsenal,West Ham,1.8,0.8,4–1,2017-2018,340
+35,Sun,22/04/2018,13:30,Stoke City,Burnley,0.4,1.6,1–1,2017-2018,341
+35,Sun,22/04/2018,16:30,Manchester City,Swansea City,3.2,0.3,5–0,2017-2018,342
+35,Mon,23/04/2018,20:00,Everton,Newcastle Utd,0.7,0.8,1–0,2017-2018,343
+36,Sat,28/04/2018,12:30,Liverpool,Stoke City,1.9,0.6,0–0,2017-2018,344
+36,Sat,28/04/2018,15:00,Newcastle Utd,West Brom,1.8,0.7,0–1,2017-2018,345
+36,Sat,28/04/2018,15:00,Southampton,Bournemouth,1.5,0.7,2–1,2017-2018,346
+36,Sat,28/04/2018,15:00,Huddersfield,Everton,0.6,0.6,0–2,2017-2018,347
+36,Sat,28/04/2018,15:00,Crystal Palace,Leicester City,3,0.6,5–0,2017-2018,348
+36,Sat,28/04/2018,15:00,Burnley,Brighton,1.5,0.4,0–0,2017-2018,349
+36,Sat,28/04/2018,17:30,Swansea City,Chelsea,0.7,1.5,0–1,2017-2018,350
+36,Sun,29/04/2018,14:15,West Ham,Manchester City,0.2,2.4,1–4,2017-2018,351
+36,Sun,29/04/2018,16:30,Manchester Utd,Arsenal,1.7,0.5,2–1,2017-2018,352
+36,Mon,30/04/2018,20:00,Tottenham,Watford,1.4,1.3,2–0,2017-2018,353
+37,Fri,04/05/2018,20:00,Brighton,Manchester Utd,1,0.8,1–0,2017-2018,354
+37,Sat,05/05/2018,12:30,Stoke City,Crystal Palace,0.5,1.1,1–2,2017-2018,355
+37,Sat,05/05/2018,15:00,Leicester City,West Ham,0.5,1.6,0–2,2017-2018,356
+37,Sat,05/05/2018,15:00,West Brom,Tottenham,1.6,1.2,1–0,2017-2018,357
+37,Sat,05/05/2018,15:00,Bournemouth,Swansea City,1.9,1.3,1–0,2017-2018,358
+37,Sat,05/05/2018,15:00,Watford,Newcastle Utd,2.5,0.7,2–1,2017-2018,359
+37,Sat,05/05/2018,17:30,Everton,Southampton,0.5,0.7,1–1,2017-2018,360
+37,Sun,06/05/2018,13:30,Manchester City,Huddersfield,0.8,0.2,0–0,2017-2018,361
+37,Sun,06/05/2018,16:30,Chelsea,Liverpool,0.6,0.5,1–0,2017-2018,362
+37,Sun,06/05/2018,16:30,Arsenal,Burnley,2.6,0.3,5–0,2017-2018,363
+31,Tue,08/05/2018,19:45,Swansea City,Southampton,0.5,1.2,0–1,2017-2018,364
+31,Wed,09/05/2018,19:45,Leicester City,Arsenal,2.2,1.4,3–1,2017-2018,365
+35,Wed,09/05/2018,19:45,Chelsea,Huddersfield,1.9,0.7,1–1,2017-2018,366
+31,Wed,09/05/2018,20:00,Tottenham,Newcastle Utd,0.8,1,1–0,2017-2018,367
+31,Wed,09/05/2018,20:00,Manchester City,Brighton,1.6,1.2,3–1,2017-2018,368
+31,Thu,10/05/2018,19:45,West Ham,Manchester Utd,0.6,0.8,0–0,2017-2018,369
+38,Sun,13/05/2018,15:00,Swansea City,Stoke City,3,1.6,1–2,2017-2018,370
+38,Sun,13/05/2018,15:00,Liverpool,Brighton,2.8,0.1,4–0,2017-2018,371
+38,Sun,13/05/2018,15:00,Burnley,Bournemouth,1.1,1.3,1–2,2017-2018,372
+38,Sun,13/05/2018,15:00,Crystal Palace,West Brom,2.2,0.2,2–0,2017-2018,373
+38,Sun,13/05/2018,15:00,West Ham,Everton,1.1,1.6,3–1,2017-2018,374
+38,Sun,13/05/2018,15:00,Huddersfield,Arsenal,1.7,2,0–1,2017-2018,375
+38,Sun,13/05/2018,15:00,Newcastle Utd,Chelsea,2.2,1,3–0,2017-2018,376
+38,Sun,13/05/2018,15:00,Manchester Utd,Watford,0.4,0.6,1–0,2017-2018,377
+38,Sun,13/05/2018,15:00,Southampton,Manchester City,0.5,0.8,0–1,2017-2018,378
+38,Sun,13/05/2018,15:00,Tottenham,Leicester City,1.8,1.4,5–4,2017-2018,379
+1,Fri,10/08/2018,20:00,Manchester Utd,Leicester City,1.5,1.8,2–1,2018-2019,380
+1,Sat,11/08/2018,12:30,Newcastle Utd,Tottenham,1,2,1–2,2018-2019,381
+1,Sat,11/08/2018,15:00,Fulham,Crystal Palace,0.7,1,0–2,2018-2019,382
+1,Sat,11/08/2018,15:00,Bournemouth,Cardiff City,2.2,1.4,2–0,2018-2019,383
+1,Sat,11/08/2018,15:00,Watford,Brighton,1.2,0.3,2–0,2018-2019,384
+1,Sat,11/08/2018,15:00,Huddersfield,Chelsea,0.3,1.9,0–3,2018-2019,385
+1,Sat,11/08/2018,17:30,Wolves,Everton,1,1,2–2,2018-2019,386
+1,Sun,12/08/2018,13:30,Southampton,Burnley,1.1,1.4,0–0,2018-2019,387
+1,Sun,12/08/2018,13:30,Liverpool,West Ham,4,0.7,4–0,2018-2019,388
+1,Sun,12/08/2018,16:00,Arsenal,Manchester City,0.5,1.7,0–2,2018-2019,389
+2,Sat,18/08/2018,12:30,Cardiff City,Newcastle Utd,0.9,1.6,0–0,2018-2019,390
+2,Sat,18/08/2018,15:00,West Ham,Bournemouth,1.2,1.3,1–2,2018-2019,391
+2,Sat,18/08/2018,15:00,Everton,Southampton,1.5,1.7,2–1,2018-2019,392
+2,Sat,18/08/2018,15:00,Leicester City,Wolves,0.2,1.1,2–0,2018-2019,393
+2,Sat,18/08/2018,15:00,Tottenham,Fulham,2.9,1.6,3–1,2018-2019,394
+2,Sat,18/08/2018,17:30,Chelsea,Arsenal,1.6,2.4,3–2,2018-2019,395
+2,Sun,19/08/2018,13:30,Burnley,Watford,0.6,1.5,1–3,2018-2019,396
+2,Sun,19/08/2018,13:30,Manchester City,Huddersfield,4.2,0.7,6–1,2018-2019,397
+2,Sun,19/08/2018,16:00,Brighton,Manchester Utd,1.7,1.4,3–2,2018-2019,398
+2,Mon,20/08/2018,20:00,Crystal Palace,Liverpool,0.4,2.6,0–2,2018-2019,399
+3,Sat,25/08/2018,12:30,Wolves,Manchester City,1,1.6,1–1,2018-2019,400
+3,Sat,25/08/2018,15:00,Arsenal,West Ham,1.8,1.1,3–1,2018-2019,401
+3,Sat,25/08/2018,15:00,Southampton,Leicester City,0.5,0.6,1–2,2018-2019,402
+3,Sat,25/08/2018,15:00,Huddersfield,Cardiff City,0.2,0.9,0–0,2018-2019,403
+3,Sat,25/08/2018,15:00,Bournemouth,Everton,2.2,0.6,2–2,2018-2019,404
+3,Sat,25/08/2018,17:30,Liverpool,Brighton,1.6,0.6,1–0,2018-2019,405
+3,Sun,26/08/2018,13:30,Watford,Crystal Palace,1.2,1,2–1,2018-2019,406
+3,Sun,26/08/2018,16:00,Fulham,Burnley,1.3,1.5,4–2,2018-2019,407
+3,Sun,26/08/2018,16:00,Newcastle Utd,Chelsea,0.2,1.5,1–2,2018-2019,408
+3,Mon,27/08/2018,20:00,Manchester Utd,Tottenham,1.5,1.2,0–3,2018-2019,409
+4,Sat,01/09/2018,12:30,Leicester City,Liverpool,1,1,1–2,2018-2019,410
+4,Sat,01/09/2018,15:00,Crystal Palace,Southampton,2.4,2.7,0–2,2018-2019,411
+4,Sat,01/09/2018,15:00,Brighton,Fulham,2.8,1.6,2–2,2018-2019,412
+4,Sat,01/09/2018,15:00,Chelsea,Bournemouth,1.1,0.9,2–0,2018-2019,413
+4,Sat,01/09/2018,15:00,Everton,Huddersfield,0.8,0.4,1–1,2018-2019,414
+4,Sat,01/09/2018,15:00,West Ham,Wolves,1.1,1,0–1,2018-2019,415
+4,Sat,01/09/2018,17:30,Manchester City,Newcastle Utd,2,0.5,2–1,2018-2019,416
+4,Sun,02/09/2018,13:30,Cardiff City,Arsenal,1,1.7,2–3,2018-2019,417
+4,Sun,02/09/2018,16:00,Watford,Tottenham,0.4,0.6,2–1,2018-2019,418
+4,Sun,02/09/2018,16:00,Burnley,Manchester Utd,0.8,2.5,0–2,2018-2019,419
+5,Sat,15/09/2018,12:30,Tottenham,Liverpool,1,2.6,1–2,2018-2019,420
+5,Sat,15/09/2018,15:00,Manchester City,Fulham,4.8,0.4,3–0,2018-2019,421
+5,Sat,15/09/2018,15:00,Huddersfield,Crystal Palace,0.9,0.7,0–1,2018-2019,422
+5,Sat,15/09/2018,15:00,Newcastle Utd,Arsenal,0.4,1,1–2,2018-2019,423
+5,Sat,15/09/2018,15:00,Bournemouth,Leicester City,2.3,2.3,4–2,2018-2019,424
+5,Sat,15/09/2018,15:00,Chelsea,Cardiff City,2.6,0.7,4–1,2018-2019,425
+5,Sat,15/09/2018,17:30,Watford,Manchester Utd,1.3,1.9,1–2,2018-2019,426
+5,Sun,16/09/2018,13:30,Wolves,Burnley,2.6,0.3,1–0,2018-2019,427
+5,Sun,16/09/2018,16:00,Everton,West Ham,1.4,1.2,1–3,2018-2019,428
+5,Mon,17/09/2018,20:00,Southampton,Brighton,2,1.4,2–2,2018-2019,429
+6,Sat,22/09/2018,12:30,Fulham,Watford,1.7,1.4,1–1,2018-2019,430
+6,Sat,22/09/2018,15:00,Crystal Palace,Newcastle Utd,0.9,0.2,0–0,2018-2019,431
+6,Sat,22/09/2018,15:00,Cardiff City,Manchester City,0.1,2.5,0–5,2018-2019,432
+6,Sat,22/09/2018,15:00,Liverpool,Southampton,1.7,0.3,3–0,2018-2019,433
+6,Sat,22/09/2018,15:00,Burnley,Bournemouth,2.1,1,4–0,2018-2019,434
+6,Sat,22/09/2018,15:00,Manchester Utd,Wolves,0.6,1,1–1,2018-2019,435
+6,Sat,22/09/2018,15:00,Leicester City,Huddersfield,1.7,0.7,3–1,2018-2019,436
+6,Sat,22/09/2018,17:30,Brighton,Tottenham,0.8,1.9,1–2,2018-2019,437
+6,Sun,23/09/2018,13:30,West Ham,Chelsea,1,1.5,0–0,2018-2019,438
+6,Sun,23/09/2018,16:00,Arsenal,Everton,0.8,0.8,2–0,2018-2019,439
+7,Sat,29/09/2018,12:30,West Ham,Manchester Utd,1.4,0.7,3–1,2018-2019,440
+7,Sat,29/09/2018,15:00,Newcastle Utd,Leicester City,0.4,1.3,0–2,2018-2019,441
+7,Sat,29/09/2018,15:00,Everton,Fulham,2.3,0.5,3–0,2018-2019,442
+7,Sat,29/09/2018,15:00,Wolves,Southampton,1.6,0.8,2–0,2018-2019,443
+7,Sat,29/09/2018,15:00,Arsenal,Watford,1.4,2.8,2–0,2018-2019,444
+7,Sat,29/09/2018,15:00,Manchester City,Brighton,2.7,0.2,2–0,2018-2019,445
+7,Sat,29/09/2018,15:00,Huddersfield,Tottenham,0.4,2.1,0–2,2018-2019,446
+7,Sat,29/09/2018,17:30,Chelsea,Liverpool,1.1,1.6,1–1,2018-2019,447
+7,Sun,30/09/2018,16:00,Cardiff City,Burnley,1.7,0.3,1–2,2018-2019,448
+7,Mon,01/10/2018,20:00,Bournemouth,Crystal Palace,1.8,0.4,2–1,2018-2019,449
+8,Fri,05/10/2018,20:00,Brighton,West Ham,1.2,1.4,1–0,2018-2019,450
+8,Sat,06/10/2018,15:00,Leicester City,Everton,0.9,1.3,1–2,2018-2019,451
+8,Sat,06/10/2018,15:00,Burnley,Huddersfield,0.4,1,1–1,2018-2019,452
+8,Sat,06/10/2018,15:00,Tottenham,Cardiff City,2,1.2,1–0,2018-2019,453
+8,Sat,06/10/2018,15:00,Watford,Bournemouth,1,3.2,0–4,2018-2019,454
+8,Sat,06/10/2018,15:00,Crystal Palace,Wolves,1.4,0.7,0–1,2018-2019,455
+8,Sat,06/10/2018,17:30,Manchester Utd,Newcastle Utd,1.9,1.6,3–2,2018-2019,456
+8,Sun,07/10/2018,12:00,Fulham,Arsenal,1.4,1.1,1–5,2018-2019,457
+8,Sun,07/10/2018,14:15,Southampton,Chelsea,1.6,2.9,0–3,2018-2019,458
+8,Sun,07/10/2018,16:30,Liverpool,Manchester City,0.4,1,0–0,2018-2019,459
+9,Sat,20/10/2018,12:30,Chelsea,Manchester Utd,1.8,0.8,2–2,2018-2019,460
+9,Sat,20/10/2018,15:00,Bournemouth,Southampton,0.9,0.5,0–0,2018-2019,461
+9,Sat,20/10/2018,15:00,Manchester City,Burnley,4,0.4,5–0,2018-2019,462
+9,Sat,20/10/2018,15:00,West Ham,Tottenham,0.8,0.9,0–1,2018-2019,463
+9,Sat,20/10/2018,15:00,Newcastle Utd,Brighton,1.8,0.8,0–1,2018-2019,464
+9,Sat,20/10/2018,15:00,Wolves,Watford,0.7,1.1,0–2,2018-2019,465
+9,Sat,20/10/2018,15:00,Cardiff City,Fulham,1.5,0.7,4–2,2018-2019,466
+9,Sat,20/10/2018,17:30,Huddersfield,Liverpool,0.7,0.6,0–1,2018-2019,467
+9,Sun,21/10/2018,16:00,Everton,Crystal Palace,1.8,1.3,2–0,2018-2019,468
+9,Mon,22/10/2018,20:00,Arsenal,Leicester City,2.7,0.5,3–1,2018-2019,469
+10,Sat,27/10/2018,15:00,Brighton,Wolves,0.9,1.4,1–0,2018-2019,470
+10,Sat,27/10/2018,15:00,Southampton,Newcastle Utd,1.1,0.4,0–0,2018-2019,471
+10,Sat,27/10/2018,15:00,Fulham,Bournemouth,0.5,2,0–3,2018-2019,472
+10,Sat,27/10/2018,15:00,Liverpool,Cardiff City,2.4,0.8,4–1,2018-2019,473
+10,Sat,27/10/2018,15:00,Watford,Huddersfield,2,0.5,3–0,2018-2019,474
+10,Sat,27/10/2018,17:30,Leicester City,West Ham,1.7,1.4,1–1,2018-2019,475
+10,Sun,28/10/2018,13:30,Burnley,Chelsea,0.4,2.6,0–4,2018-2019,476
+10,Sun,28/10/2018,13:30,Crystal Palace,Arsenal,2.3,0.9,2–2,2018-2019,477
+10,Sun,28/10/2018,16:00,Manchester Utd,Everton,2.3,1.8,2–1,2018-2019,478
+10,Mon,29/10/2018,20:00,Tottenham,Manchester City,0.4,1.6,0–1,2018-2019,479
+11,Sat,03/11/2018,12:30,Bournemouth,Manchester Utd,1.6,3,1–2,2018-2019,480
+11,Sat,03/11/2018,15:00,Cardiff City,Leicester City,0.9,2.1,0–1,2018-2019,481
+11,Sat,03/11/2018,15:00,Everton,Brighton,2,0.5,3–1,2018-2019,482
+11,Sat,03/11/2018,15:00,Newcastle Utd,Watford,0.5,2,1–0,2018-2019,483
+11,Sat,03/11/2018,15:00,West Ham,Burnley,2.4,1.1,4–2,2018-2019,484
+11,Sat,03/11/2018,17:30,Arsenal,Liverpool,1.4,1.3,1–1,2018-2019,485
+11,Sat,03/11/2018,19:45,Wolves,Tottenham,2.7,1.4,2–3,2018-2019,486
+11,Sun,04/11/2018,15:00,Manchester City,Southampton,2.2,2,6–1,2018-2019,487
+11,Sun,04/11/2018,16:00,Chelsea,Crystal Palace,1.7,0.4,3–1,2018-2019,488
+11,Mon,05/11/2018,20:00,Huddersfield,Fulham,0.6,0.4,1–0,2018-2019,489
+12,Sat,10/11/2018,12:30,Cardiff City,Brighton,2.1,0.5,2–1,2018-2019,490
+12,Sat,10/11/2018,15:00,Newcastle Utd,Bournemouth,2.2,1.6,2–1,2018-2019,491
+12,Sat,10/11/2018,15:00,Huddersfield,West Ham,1.1,1.7,1–1,2018-2019,492
+12,Sat,10/11/2018,15:00,Leicester City,Burnley,1.8,0.4,0–0,2018-2019,493
+12,Sat,10/11/2018,15:00,Southampton,Watford,1.1,1.2,1–1,2018-2019,494
+12,Sat,10/11/2018,17:30,Crystal Palace,Tottenham,0.8,1.2,0–1,2018-2019,495
+12,Sun,11/11/2018,12:00,Liverpool,Fulham,1.8,0.5,2–0,2018-2019,496
+12,Sun,11/11/2018,14:15,Chelsea,Everton,1.2,0.3,0–0,2018-2019,497
+12,Sun,11/11/2018,16:30,Arsenal,Wolves,0.9,1.9,1–1,2018-2019,498
+12,Sun,11/11/2018,16:30,Manchester City,Manchester Utd,1.9,1.1,3–1,2018-2019,499
+13,Sat,24/11/2018,15:00,Manchester Utd,Crystal Palace,0.9,1.2,0–0,2018-2019,500
+13,Sat,24/11/2018,15:00,Fulham,Southampton,1.3,1.3,3–2,2018-2019,501
+13,Sat,24/11/2018,15:00,West Ham,Manchester City,0.9,2.7,0–4,2018-2019,502
+13,Sat,24/11/2018,15:00,Brighton,Leicester City,1,1.2,1–1,2018-2019,503
+13,Sat,24/11/2018,15:00,Everton,Cardiff City,2.1,1,1–0,2018-2019,504
+13,Sat,24/11/2018,15:00,Watford,Liverpool,0.4,1.2,0–3,2018-2019,505
+13,Sat,24/11/2018,17:30,Tottenham,Chelsea,3.1,1,3–1,2018-2019,506
+13,Sun,25/11/2018,13:30,Bournemouth,Arsenal,0.6,1.6,1–2,2018-2019,507
+13,Sun,25/11/2018,16:00,Wolves,Huddersfield,0.8,0.7,0–2,2018-2019,508
+13,Mon,26/11/2018,20:30,Burnley,Newcastle Utd,1.8,1.6,1–2,2018-2019,509
+14,Fri,30/11/2018,20:00,Cardiff City,Wolves,1,0.8,2–1,2018-2019,510
+14,Sat,01/12/2018,15:00,Newcastle Utd,West Ham,1,2.5,0–3,2018-2019,511
+14,Sat,01/12/2018,15:00,Crystal Palace,Burnley,1.6,0.7,2–0,2018-2019,512
+14,Sat,01/12/2018,15:00,Huddersfield,Brighton,0.6,1.2,1–2,2018-2019,513
+14,Sat,01/12/2018,15:00,Leicester City,Watford,1.3,1.2,2–0,2018-2019,514
+14,Sat,01/12/2018,15:00,Manchester City,Bournemouth,2.6,0.6,3–1,2018-2019,515
+14,Sat,01/12/2018,17:30,Southampton,Manchester Utd,0.7,1.1,2–2,2018-2019,516
+14,Sun,02/12/2018,12:00,Chelsea,Fulham,2.1,0.4,2–0,2018-2019,517
+14,Sun,02/12/2018,14:05,Arsenal,Tottenham,2.7,1.2,4–2,2018-2019,518
+14,Sun,02/12/2018,16:15,Liverpool,Everton,2.9,1.1,1–0,2018-2019,519
+15,Tue,04/12/2018,19:45,West Ham,Cardiff City,1.7,2.1,3–1,2018-2019,520
+15,Tue,04/12/2018,19:45,Brighton,Crystal Palace,1.3,1.7,3–1,2018-2019,521
+15,Tue,04/12/2018,19:45,Bournemouth,Huddersfield,0.9,1.8,2–1,2018-2019,522
+15,Tue,04/12/2018,20:00,Watford,Manchester City,1.8,2.5,1–2,2018-2019,523
+15,Wed,05/12/2018,19:45,Wolves,Chelsea,0.7,1.3,2–1,2018-2019,524
+15,Wed,05/12/2018,19:45,Fulham,Leicester City,1.4,1.2,1–1,2018-2019,525
+15,Wed,05/12/2018,19:45,Burnley,Liverpool,0.9,2.4,1–3,2018-2019,526
+15,Wed,05/12/2018,19:45,Everton,Newcastle Utd,1.8,1.5,1–1,2018-2019,527
+15,Wed,05/12/2018,20:00,Manchester Utd,Arsenal,1.1,1.1,2–2,2018-2019,528
+15,Wed,05/12/2018,20:00,Tottenham,Southampton,1.6,1.7,3–1,2018-2019,529
+16,Sat,08/12/2018,12:30,Bournemouth,Liverpool,0.3,1.6,0–4,2018-2019,530
+16,Sat,08/12/2018,15:00,West Ham,Crystal Palace,1.2,0.7,3–2,2018-2019,531
+16,Sat,08/12/2018,15:00,Manchester Utd,Fulham,2.3,1.2,4–1,2018-2019,532
+16,Sat,08/12/2018,15:00,Burnley,Brighton,1.4,1,1–0,2018-2019,533
+16,Sat,08/12/2018,15:00,Cardiff City,Southampton,1.5,0.7,1–0,2018-2019,534
+16,Sat,08/12/2018,15:00,Arsenal,Huddersfield,1.4,0.3,1–0,2018-2019,535
+16,Sat,08/12/2018,17:30,Chelsea,Manchester City,0.6,0.9,2–0,2018-2019,536
+16,Sat,08/12/2018,19:45,Leicester City,Tottenham,0.4,0.9,0–2,2018-2019,537
+16,Sun,09/12/2018,16:00,Newcastle Utd,Wolves,0.6,1.8,1–2,2018-2019,538
+16,Mon,10/12/2018,20:00,Everton,Watford,1.7,1.7,2–2,2018-2019,539
+17,Sat,15/12/2018,12:30,Manchester City,Everton,1.7,1.5,3–1,2018-2019,540
+17,Sat,15/12/2018,15:00,Watford,Cardiff City,1.4,0.9,3–2,2018-2019,541
+17,Sat,15/12/2018,15:00,Tottenham,Burnley,1.7,0.5,1–0,2018-2019,542
+17,Sat,15/12/2018,15:00,Huddersfield,Newcastle Utd,0.8,0.6,0–1,2018-2019,543
+17,Sat,15/12/2018,15:00,Crystal Palace,Leicester City,0.5,1,1–0,2018-2019,544
+17,Sat,15/12/2018,15:00,Wolves,Bournemouth,1.8,0.6,2–0,2018-2019,545
+17,Sat,15/12/2018,17:30,Fulham,West Ham,1.3,0.8,0–2,2018-2019,546
+17,Sun,16/12/2018,13:30,Southampton,Arsenal,1.3,1.9,3–2,2018-2019,547
+17,Sun,16/12/2018,13:30,Brighton,Chelsea,0.4,1.2,1–2,2018-2019,548
+17,Sun,16/12/2018,16:00,Liverpool,Manchester Utd,2.5,0.7,3–1,2018-2019,549
+18,Fri,21/12/2018,20:00,Wolves,Liverpool,0.9,1.9,0–2,2018-2019,550
+18,Sat,22/12/2018,12:30,Arsenal,Burnley,1.6,1.2,3–1,2018-2019,551
+18,Sat,22/12/2018,15:00,Bournemouth,Brighton,0.8,0.8,2–0,2018-2019,552
+18,Sat,22/12/2018,15:00,Manchester City,Crystal Palace,1.5,0.9,2–3,2018-2019,553
+18,Sat,22/12/2018,15:00,West Ham,Watford,2,2.3,0–2,2018-2019,554
+18,Sat,22/12/2018,15:00,Huddersfield,Southampton,0.8,2.5,1–3,2018-2019,555
+18,Sat,22/12/2018,15:00,Chelsea,Leicester City,2.4,0.5,0–1,2018-2019,556
+18,Sat,22/12/2018,15:00,Newcastle Utd,Fulham,0.4,0.2,0–0,2018-2019,557
+18,Sat,22/12/2018,17:30,Cardiff City,Manchester Utd,1.4,2.8,1–5,2018-2019,558
+18,Sun,23/12/2018,16:00,Everton,Tottenham,0.9,2,2–6,2018-2019,559
+19,Wed,26/12/2018,12:30,Fulham,Wolves,1.2,1.4,1–1,2018-2019,560
+19,Wed,26/12/2018,15:00,Burnley,Everton,2,1.5,1–5,2018-2019,561
+19,Wed,26/12/2018,15:00,Manchester Utd,Huddersfield,1.5,1.1,3–1,2018-2019,562
+19,Wed,26/12/2018,15:00,Liverpool,Newcastle Utd,2.9,0.5,4–0,2018-2019,563
+19,Wed,26/12/2018,15:00,Leicester City,Manchester City,1.3,1.4,2–1,2018-2019,564
+19,Wed,26/12/2018,15:00,Tottenham,Bournemouth,1.7,1.1,5–0,2018-2019,565
+19,Wed,26/12/2018,15:00,Crystal Palace,Cardiff City,2.1,0.9,0–0,2018-2019,566
+19,Wed,26/12/2018,17:15,Brighton,Arsenal,1.1,0.8,1–1,2018-2019,567
+19,Wed,26/12/2018,19:30,Watford,Chelsea,1.2,1.9,1–2,2018-2019,568
+19,Thu,27/12/2018,19:45,Southampton,West Ham,1.2,1.2,1–2,2018-2019,569
+20,Sat,29/12/2018,15:00,Watford,Newcastle Utd,1.3,0.7,1–1,2018-2019,570
+20,Sat,29/12/2018,15:00,Fulham,Huddersfield,1.8,0.4,1–0,2018-2019,571
+20,Sat,29/12/2018,15:00,Brighton,Everton,1.1,0.7,1–0,2018-2019,572
+20,Sat,29/12/2018,15:00,Leicester City,Cardiff City,1.8,0.6,0–1,2018-2019,573
+20,Sat,29/12/2018,15:00,Tottenham,Wolves,0.3,0.9,1–3,2018-2019,574
+20,Sat,29/12/2018,17:30,Liverpool,Arsenal,3.8,1,5–1,2018-2019,575
+20,Sun,30/12/2018,12:00,Crystal Palace,Chelsea,0.2,0.9,0–1,2018-2019,576
+20,Sun,30/12/2018,14:15,Southampton,Manchester City,0.2,2.5,1–3,2018-2019,577
+20,Sun,30/12/2018,14:15,Burnley,West Ham,2.7,0.8,2–0,2018-2019,578
+20,Sun,30/12/2018,16:30,Manchester Utd,Bournemouth,2.9,0.5,4–1,2018-2019,579
+21,Tue,01/01/2019,12:30,Everton,Leicester City,1,0.6,0–1,2018-2019,580
+21,Tue,01/01/2019,15:00,Arsenal,Fulham,4.5,1.4,4–1,2018-2019,581
+21,Tue,01/01/2019,17:30,Cardiff City,Tottenham,0.9,1.1,0–3,2018-2019,582
+21,Wed,02/01/2019,19:45,Wolves,Crystal Palace,0.5,1.9,0–2,2018-2019,583
+21,Wed,02/01/2019,19:45,West Ham,Brighton,0.8,0.7,2–2,2018-2019,584
+21,Wed,02/01/2019,19:45,Bournemouth,Watford,2.2,0.9,3–3,2018-2019,585
+21,Wed,02/01/2019,19:45,Chelsea,Southampton,0.9,0.2,0–0,2018-2019,586
+21,Wed,02/01/2019,19:45,Huddersfield,Burnley,0.9,2.4,1–2,2018-2019,587
+21,Wed,02/01/2019,20:00,Newcastle Utd,Manchester Utd,0.7,2.6,0–2,2018-2019,588
+21,Thu,03/01/2019,20:00,Manchester City,Liverpool,1.1,1.5,2–1,2018-2019,589
+22,Sat,12/01/2019,12:30,West Ham,Arsenal,0.6,0.7,1–0,2018-2019,590
+22,Sat,12/01/2019,15:00,Burnley,Fulham,0.8,0.8,2–1,2018-2019,591
+22,Sat,12/01/2019,15:00,Brighton,Liverpool,0.4,2,0–1,2018-2019,592
+22,Sat,12/01/2019,15:00,Crystal Palace,Watford,1.3,1.6,1–2,2018-2019,593
+22,Sat,12/01/2019,15:00,Cardiff City,Huddersfield,0.1,0.5,0–0,2018-2019,594
+22,Sat,12/01/2019,15:00,Leicester City,Southampton,1.7,1.5,1–2,2018-2019,595
+22,Sat,12/01/2019,17:30,Chelsea,Newcastle Utd,1.3,0.5,2–1,2018-2019,596
+22,Sun,13/01/2019,14:15,Everton,Bournemouth,1,1.9,2–0,2018-2019,597
+22,Sun,13/01/2019,16:30,Tottenham,Manchester Utd,1.8,0.8,0–1,2018-2019,598
+22,Mon,14/01/2019,20:00,Manchester City,Wolves,2.8,0.1,3–0,2018-2019,599
+23,Sat,19/01/2019,12:30,Wolves,Leicester City,1.9,1.9,4–3,2018-2019,600
+23,Sat,19/01/2019,15:00,Bournemouth,West Ham,1.1,1.1,2–0,2018-2019,601
+23,Sat,19/01/2019,15:00,Newcastle Utd,Cardiff City,2,0.3,3–0,2018-2019,602
+23,Sat,19/01/2019,15:00,Manchester Utd,Brighton,2.4,0.8,2–1,2018-2019,603
+23,Sat,19/01/2019,15:00,Southampton,Everton,0.7,0.9,2–1,2018-2019,604
+23,Sat,19/01/2019,15:00,Liverpool,Crystal Palace,2.6,0.7,4–3,2018-2019,605
+23,Sat,19/01/2019,15:00,Watford,Burnley,1.3,1.8,0–0,2018-2019,606
+23,Sat,19/01/2019,17:30,Arsenal,Chelsea,1.5,0.9,2–0,2018-2019,607
+23,Sun,20/01/2019,13:30,Huddersfield,Manchester City,0.9,2,0–3,2018-2019,608
+23,Sun,20/01/2019,16:00,Fulham,Tottenham,0.9,1.7,1–2,2018-2019,609
+24,Tue,29/01/2019,19:45,Fulham,Brighton,3.3,2.2,4–2,2018-2019,610
+24,Tue,29/01/2019,19:45,Huddersfield,Everton,0.7,1.1,0–1,2018-2019,611
+24,Tue,29/01/2019,19:45,Wolves,West Ham,2.2,0.2,3–0,2018-2019,612
+24,Tue,29/01/2019,19:45,Arsenal,Cardiff City,2.6,0.8,2–1,2018-2019,613
+24,Tue,29/01/2019,20:00,Newcastle Utd,Manchester City,1.1,1.4,2–1,2018-2019,614
+24,Tue,29/01/2019,20:00,Manchester Utd,Burnley,3.1,0.8,2–2,2018-2019,615
+24,Wed,30/01/2019,19:45,Bournemouth,Chelsea,2,0.7,4–0,2018-2019,616
+24,Wed,30/01/2019,19:45,Southampton,Crystal Palace,1.2,1.1,1–1,2018-2019,617
+24,Wed,30/01/2019,20:00,Tottenham,Watford,1.7,0.5,2–1,2018-2019,618
+24,Wed,30/01/2019,20:00,Liverpool,Leicester City,0.6,1.1,1–1,2018-2019,619
+25,Sat,02/02/2019,12:30,Tottenham,Newcastle Utd,2.2,0.4,1–0,2018-2019,620
+25,Sat,02/02/2019,15:00,Brighton,Watford,1.6,0.3,0–0,2018-2019,621
+25,Sat,02/02/2019,15:00,Chelsea,Huddersfield,2.6,0.3,5–0,2018-2019,622
+25,Sat,02/02/2019,15:00,Everton,Wolves,1.2,1.4,1–3,2018-2019,623
+25,Sat,02/02/2019,15:00,Burnley,Southampton,2.4,0.7,1–1,2018-2019,624
+25,Sat,02/02/2019,15:00,Crystal Palace,Fulham,2.2,0.6,2–0,2018-2019,625
+25,Sat,02/02/2019,17:30,Cardiff City,Bournemouth,2.1,0.5,2–0,2018-2019,626
+25,Sun,03/02/2019,14:05,Leicester City,Manchester Utd,1.5,1.3,0–1,2018-2019,627
+25,Sun,03/02/2019,16:30,Manchester City,Arsenal,2.7,0.7,3–1,2018-2019,628
+25,Mon,04/02/2019,20:00,West Ham,Liverpool,0.8,1.1,1–1,2018-2019,629
+27,Wed,06/02/2019,19:45,Everton,Manchester City,0.1,2.2,0–2,2018-2019,630
+26,Sat,09/02/2019,12:30,Fulham,Manchester Utd,2.2,1.9,0–3,2018-2019,631
+26,Sat,09/02/2019,15:00,Crystal Palace,West Ham,2.6,1.7,1–1,2018-2019,632
+26,Sat,09/02/2019,15:00,Liverpool,Bournemouth,2,0.4,3–0,2018-2019,633
+26,Sat,09/02/2019,15:00,Southampton,Cardiff City,1.5,0.8,1–2,2018-2019,634
+26,Sat,09/02/2019,15:00,Watford,Everton,1.3,0.7,1–0,2018-2019,635
+26,Sat,09/02/2019,15:00,Huddersfield,Arsenal,1.6,1.4,1–2,2018-2019,636
+26,Sat,09/02/2019,17:30,Brighton,Burnley,1.1,2.1,1–3,2018-2019,637
+26,Sun,10/02/2019,13:30,Tottenham,Leicester City,1.1,3.3,3–1,2018-2019,638
+26,Sun,10/02/2019,16:00,Manchester City,Chelsea,3,0.9,6–0,2018-2019,639
+26,Mon,11/02/2019,20:00,Wolves,Newcastle Utd,2.3,0.4,1–1,2018-2019,640
+27,Fri,22/02/2019,19:45,West Ham,Fulham,2.4,1.3,3–1,2018-2019,641
+27,Fri,22/02/2019,19:45,Cardiff City,Watford,2,2.1,1–5,2018-2019,642
+27,Sat,23/02/2019,12:30,Burnley,Tottenham,1.2,0.9,2–1,2018-2019,643
+27,Sat,23/02/2019,15:00,Bournemouth,Wolves,2.4,1.5,1–1,2018-2019,644
+27,Sat,23/02/2019,15:00,Newcastle Utd,Huddersfield,2.8,0.2,2–0,2018-2019,645
+27,Sat,23/02/2019,17:30,Leicester City,Crystal Palace,1.2,1.7,1–4,2018-2019,646
+27,Sun,24/02/2019,14:05,Arsenal,Southampton,2.1,0.8,2–0,2018-2019,647
+27,Sun,24/02/2019,14:05,Manchester Utd,Liverpool,0.3,0.5,0–0,2018-2019,648
+28,Tue,26/02/2019,19:45,Cardiff City,Everton,0.3,1,0–3,2018-2019,649
+28,Tue,26/02/2019,19:45,Huddersfield,Wolves,1.6,0.6,1–0,2018-2019,650
+28,Tue,26/02/2019,19:45,Leicester City,Brighton,1.8,1.2,2–1,2018-2019,651
+28,Tue,26/02/2019,20:00,Newcastle Utd,Burnley,1.4,1.6,2–0,2018-2019,652
+28,Wed,27/02/2019,19:45,Arsenal,Bournemouth,2.5,0.9,5–1,2018-2019,653
+28,Wed,27/02/2019,19:45,Southampton,Fulham,1.3,0.8,2–0,2018-2019,654
+28,Wed,27/02/2019,20:00,Crystal Palace,Manchester Utd,1.7,1,1–3,2018-2019,655
+28,Wed,27/02/2019,20:00,Chelsea,Tottenham,0.6,0.6,2–0,2018-2019,656
+28,Wed,27/02/2019,20:00,Liverpool,Watford,1.9,0.3,5–0,2018-2019,657
+28,Wed,27/02/2019,20:00,Manchester City,West Ham,3.5,0.4,1–0,2018-2019,658
+29,Sat,02/03/2019,12:30,Tottenham,Arsenal,1.6,2.6,1–1,2018-2019,659
+29,Sat,02/03/2019,15:00,Manchester Utd,Southampton,2.2,0.4,3–2,2018-2019,660
+29,Sat,02/03/2019,15:00,Wolves,Cardiff City,2.8,0.6,2–0,2018-2019,661
+29,Sat,02/03/2019,15:00,Bournemouth,Manchester City,0,1.2,0–1,2018-2019,662
+29,Sat,02/03/2019,15:00,Brighton,Huddersfield,1.2,0.2,1–0,2018-2019,663
+29,Sat,02/03/2019,15:00,Burnley,Crystal Palace,2.1,0.5,1–3,2018-2019,664
+29,Sat,02/03/2019,17:30,West Ham,Newcastle Utd,2,1.1,2–0,2018-2019,665
+29,Sun,03/03/2019,12:00,Watford,Leicester City,0.8,0.9,2–1,2018-2019,666
+29,Sun,03/03/2019,14:05,Fulham,Chelsea,0.8,1.2,1–2,2018-2019,667
+29,Sun,03/03/2019,16:15,Everton,Liverpool,0.3,1.1,0–0,2018-2019,668
+30,Sat,09/03/2019,12:30,Crystal Palace,Brighton,1.5,0.2,1–2,2018-2019,669
+30,Sat,09/03/2019,15:00,Newcastle Utd,Everton,2.4,1.1,3–2,2018-2019,670
+30,Sat,09/03/2019,15:00,Cardiff City,West Ham,3.5,0.3,2–0,2018-2019,671
+30,Sat,09/03/2019,15:00,Huddersfield,Bournemouth,0.3,1.9,0–2,2018-2019,672
+30,Sat,09/03/2019,15:00,Leicester City,Fulham,2,0.2,3–1,2018-2019,673
+30,Sat,09/03/2019,15:00,Southampton,Tottenham,2.1,1.3,2–1,2018-2019,674
+30,Sat,09/03/2019,17:30,Manchester City,Watford,3.4,0.2,3–1,2018-2019,675
+30,Sun,10/03/2019,12:00,Liverpool,Burnley,4,0.4,4–2,2018-2019,676
+30,Sun,10/03/2019,14:05,Chelsea,Wolves,1.1,0.5,1–1,2018-2019,677
+30,Sun,10/03/2019,16:30,Arsenal,Manchester Utd,1.7,2.3,2–0,2018-2019,678
+31,Sat,16/03/2019,15:00,West Ham,Huddersfield,1.7,1,4–3,2018-2019,679
+31,Sat,16/03/2019,15:00,Burnley,Leicester City,1,0.9,1–2,2018-2019,680
+31,Sat,16/03/2019,15:00,Bournemouth,Newcastle Utd,1.3,1.1,2–2,2018-2019,681
+31,Sun,17/03/2019,14:15,Fulham,Liverpool,1.1,2.6,1–2,2018-2019,682
+31,Sun,17/03/2019,16:30,Everton,Chelsea,2.3,1.4,2–0,2018-2019,683
+32,Sat,30/03/2019,12:30,Fulham,Manchester City,0.5,1.8,0–2,2018-2019,684
+32,Sat,30/03/2019,15:00,Burnley,Wolves,0.5,0.5,2–0,2018-2019,685
+32,Sat,30/03/2019,15:00,Crystal Palace,Huddersfield,2.7,1.1,2–0,2018-2019,686
+32,Sat,30/03/2019,15:00,Leicester City,Bournemouth,1.3,0.8,2–0,2018-2019,687
+32,Sat,30/03/2019,15:00,Brighton,Southampton,0.7,0.7,0–1,2018-2019,688
+32,Sat,30/03/2019,15:00,Manchester Utd,Watford,1.6,1.5,2–1,2018-2019,689
+32,Sat,30/03/2019,17:30,West Ham,Everton,0.1,1.8,0–2,2018-2019,690
+32,Sun,31/03/2019,14:05,Cardiff City,Chelsea,0.5,1.8,1–2,2018-2019,691
+32,Sun,31/03/2019,16:30,Liverpool,Tottenham,1,0.7,2–1,2018-2019,692
+32,Mon,01/04/2019,20:00,Arsenal,Newcastle Utd,0.8,0.1,2–0,2018-2019,693
+33,Tue,02/04/2019,19:45,Wolves,Manchester Utd,1.8,1.8,2–1,2018-2019,694
+33,Tue,02/04/2019,19:45,Watford,Fulham,1.2,1.6,4–1,2018-2019,695
+27,Wed,03/04/2019,19:45,Chelsea,Brighton,2.7,0.4,3–0,2018-2019,696
+31,Wed,03/04/2019,19:45,Tottenham,Crystal Palace,2.1,0.3,2–0,2018-2019,697
+33,Wed,03/04/2019,19:45,Manchester City,Cardiff City,3.2,0.1,2–0,2018-2019,698
+33,Fri,05/04/2019,20:00,Southampton,Liverpool,0.9,1.9,1–3,2018-2019,699
+33,Sat,06/04/2019,15:00,Huddersfield,Leicester City,1.7,3.5,1–4,2018-2019,700
+33,Sat,06/04/2019,15:00,Bournemouth,Burnley,1.1,1.2,1–3,2018-2019,701
+33,Sat,06/04/2019,15:00,Newcastle Utd,Crystal Palace,0.9,0.9,0–1,2018-2019,702
+33,Sun,07/04/2019,14:05,Everton,Arsenal,2.4,0.3,1–0,2018-2019,703
+33,Mon,08/04/2019,20:00,Chelsea,West Ham,1.9,0.6,2–0,2018-2019,704
+34,Fri,12/04/2019,20:00,Leicester City,Newcastle Utd,1,1.1,0–1,2018-2019,705
+34,Sat,13/04/2019,12:30,Tottenham,Huddersfield,2.5,0.8,4–0,2018-2019,706
+34,Sat,13/04/2019,15:00,Burnley,Cardiff City,2.6,0.9,2–0,2018-2019,707
+34,Sat,13/04/2019,15:00,Fulham,Everton,1.5,1.1,2–0,2018-2019,708
+34,Sat,13/04/2019,15:00,Southampton,Wolves,2.9,0.8,3–1,2018-2019,709
+34,Sat,13/04/2019,15:00,Brighton,Bournemouth,0.3,2.5,0–5,2018-2019,710
+34,Sat,13/04/2019,17:30,Manchester Utd,West Ham,2.5,1.4,2–1,2018-2019,711
+34,Sun,14/04/2019,14:05,Crystal Palace,Manchester City,0.4,2.5,1–3,2018-2019,712
+34,Sun,14/04/2019,16:30,Liverpool,Chelsea,1.2,0.7,2–0,2018-2019,713
+34,Mon,15/04/2019,20:00,Watford,Arsenal,1,2.3,0–1,2018-2019,714
+31,Tue,16/04/2019,19:45,Brighton,Cardiff City,0.6,0.9,0–2,2018-2019,715
+35,Sat,20/04/2019,12:30,Manchester City,Tottenham,1.9,1,1–0,2018-2019,716
+35,Sat,20/04/2019,15:00,West Ham,Leicester City,1.2,0.9,2–2,2018-2019,717
+35,Sat,20/04/2019,15:00,Bournemouth,Fulham,2.2,2.5,0–1,2018-2019,718
+35,Sat,20/04/2019,15:00,Huddersfield,Watford,1,0.9,1–2,2018-2019,719
+35,Sat,20/04/2019,15:00,Wolves,Brighton,2.7,0.2,0–0,2018-2019,720
+35,Sat,20/04/2019,17:30,Newcastle Utd,Southampton,1.4,1.2,3–1,2018-2019,721
+35,Sun,21/04/2019,13:30,Everton,Manchester Utd,1.6,0.3,4–0,2018-2019,722
+35,Sun,21/04/2019,16:00,Arsenal,Crystal Palace,1.2,1.6,2–3,2018-2019,723
+35,Sun,21/04/2019,16:00,Cardiff City,Liverpool,1.1,3,0–2,2018-2019,724
+35,Mon,22/04/2019,20:00,Chelsea,Burnley,1.3,0.7,2–2,2018-2019,725
+31,Tue,23/04/2019,19:45,Watford,Southampton,1.3,2,1–1,2018-2019,726
+33,Tue,23/04/2019,19:45,Tottenham,Brighton,1.3,0.3,1–0,2018-2019,727
+31,Wed,24/04/2019,19:45,Wolves,Arsenal,1.2,0.8,3–1,2018-2019,728
+31,Wed,24/04/2019,20:00,Manchester Utd,Manchester City,0.5,0.5,0–2,2018-2019,729
+36,Fri,26/04/2019,20:00,Liverpool,Huddersfield,3.1,0.2,5–0,2018-2019,730
+36,Sat,27/04/2019,12:30,Tottenham,West Ham,1.6,1.1,0–1,2018-2019,731
+36,Sat,27/04/2019,15:00,Watford,Wolves,0.8,2,1–2,2018-2019,732
+36,Sat,27/04/2019,15:00,Fulham,Cardiff City,0.5,1.1,1–0,2018-2019,733
+36,Sat,27/04/2019,15:00,Southampton,Bournemouth,2.5,2.3,3–3,2018-2019,734
+36,Sat,27/04/2019,15:00,Crystal Palace,Everton,0.3,1.5,0–0,2018-2019,735
+36,Sat,27/04/2019,17:30,Brighton,Newcastle Utd,1.3,0.4,1–1,2018-2019,736
+36,Sun,28/04/2019,12:00,Leicester City,Arsenal,3.3,0.6,3–0,2018-2019,737
+36,Sun,28/04/2019,14:05,Burnley,Manchester City,0.1,2.5,0–1,2018-2019,738
+36,Sun,28/04/2019,16:30,Manchester Utd,Chelsea,1.1,1.7,1–1,2018-2019,739
+37,Fri,03/05/2019,20:00,Everton,Burnley,1.7,0.3,2–0,2018-2019,740
+37,Sat,04/05/2019,12:30,Bournemouth,Tottenham,1.7,0.7,1–0,2018-2019,741
+37,Sat,04/05/2019,15:00,Wolves,Fulham,2,0.5,1–0,2018-2019,742
+37,Sat,04/05/2019,15:00,West Ham,Southampton,1.9,0.5,3–0,2018-2019,743
+37,Sat,04/05/2019,17:30,Cardiff City,Crystal Palace,1.9,1.6,2–3,2018-2019,744
+37,Sat,04/05/2019,19:45,Newcastle Utd,Liverpool,1.4,1.2,2–3,2018-2019,745
+37,Sun,05/05/2019,14:00,Huddersfield,Manchester Utd,1,1.8,1–1,2018-2019,746
+37,Sun,05/05/2019,14:00,Chelsea,Watford,2.3,1.7,3–0,2018-2019,747
+37,Sun,05/05/2019,16:30,Arsenal,Brighton,2.4,1.9,1–1,2018-2019,748
+37,Mon,06/05/2019,20:00,Manchester City,Leicester City,1,0.5,1–0,2018-2019,749
+38,Sun,12/05/2019,15:00,Southampton,Huddersfield,0.6,0.7,1–1,2018-2019,750
+38,Sun,12/05/2019,15:00,Brighton,Manchester City,0.5,1.6,1–4,2018-2019,751
+38,Sun,12/05/2019,15:00,Leicester City,Chelsea,0.4,1.5,0–0,2018-2019,752
+38,Sun,12/05/2019,15:00,Crystal Palace,Bournemouth,2.8,1.6,5–3,2018-2019,753
+38,Sun,12/05/2019,15:00,Burnley,Arsenal,1.7,2.7,1–3,2018-2019,754
+38,Sun,12/05/2019,15:00,Tottenham,Everton,0.6,2,2–2,2018-2019,755
+38,Sun,12/05/2019,15:00,Liverpool,Wolves,1.6,1.3,2–0,2018-2019,756
+38,Sun,12/05/2019,15:00,Manchester Utd,Cardiff City,1.5,1.6,0–2,2018-2019,757
+38,Sun,12/05/2019,15:00,Fulham,Newcastle Utd,0.7,2.1,0–4,2018-2019,758
+38,Sun,12/05/2019,15:00,Watford,West Ham,2.2,3.1,1–4,2018-2019,759
+1,Fri,09/08/2019,20:00,Liverpool,Norwich City,1.8,0.9,4–1,2019-2020,760
+1,Sat,10/08/2019,12:30,West Ham,Manchester City,1.1,3.2,0–5,2019-2020,761
+1,Sat,10/08/2019,15:00,Burnley,Southampton,0.9,1.2,3–0,2019-2020,762
+1,Sat,10/08/2019,15:00,Watford,Brighton,0.7,0.8,0–3,2019-2020,763
+1,Sat,10/08/2019,15:00,Crystal Palace,Everton,0.9,1.1,0–0,2019-2020,764
+1,Sat,10/08/2019,15:00,Bournemouth,Sheffield Utd,1.3,1.3,1–1,2019-2020,765
+1,Sat,10/08/2019,17:30,Tottenham,Aston Villa,2.4,0.7,3–1,2019-2020,766
+1,Sun,11/08/2019,14:00,Newcastle Utd,Arsenal,0.4,1.1,0–1,2019-2020,767
+1,Sun,11/08/2019,14:00,Leicester City,Wolves,0.7,0.7,0–0,2019-2020,768
+1,Sun,11/08/2019,16:30,Manchester Utd,Chelsea,2.2,1,4–0,2019-2020,769
+2,Sat,17/08/2019,12:30,Arsenal,Burnley,0.8,1.5,2–1,2019-2020,770
+2,Sat,17/08/2019,15:00,Norwich City,Newcastle Utd,1.7,0.9,3–1,2019-2020,771
+2,Sat,17/08/2019,15:00,Aston Villa,Bournemouth,2,1.6,1–2,2019-2020,772
+2,Sat,17/08/2019,15:00,Brighton,West Ham,2,0.8,1–1,2019-2020,773
+2,Sat,17/08/2019,15:00,Southampton,Liverpool,1.9,1.3,1–2,2019-2020,774
+2,Sat,17/08/2019,15:00,Everton,Watford,0.7,1.2,1–0,2019-2020,775
+2,Sat,17/08/2019,17:30,Manchester City,Tottenham,2.9,0.1,2–2,2019-2020,776
+2,Sun,18/08/2019,14:00,Sheffield Utd,Crystal Palace,2.2,0.3,1–0,2019-2020,777
+2,Sun,18/08/2019,16:30,Chelsea,Leicester City,1.1,0.8,1–1,2019-2020,778
+2,Mon,19/08/2019,20:00,Wolves,Manchester Utd,0.3,1.2,1–1,2019-2020,779
+3,Fri,23/08/2019,20:00,Aston Villa,Everton,1,1.3,2–0,2019-2020,780
+3,Sat,24/08/2019,12:30,Norwich City,Chelsea,1.1,1.5,2–3,2019-2020,781
+3,Sat,24/08/2019,15:00,Sheffield Utd,Leicester City,0.3,0.8,1–2,2019-2020,782
+3,Sat,24/08/2019,15:00,Manchester Utd,Crystal Palace,2.5,1.1,1–2,2019-2020,783
+3,Sat,24/08/2019,15:00,Watford,West Ham,2.3,3.5,1–3,2019-2020,784
+3,Sat,24/08/2019,15:00,Brighton,Southampton,0.8,1.7,0–2,2019-2020,785
+3,Sat,24/08/2019,17:30,Liverpool,Arsenal,2.5,1,3–1,2019-2020,786
+3,Sun,25/08/2019,14:00,Bournemouth,Manchester City,2.2,3,1–3,2019-2020,787
+3,Sun,25/08/2019,16:30,Wolves,Burnley,1.5,1.6,1–1,2019-2020,788
+3,Sun,25/08/2019,16:30,Tottenham,Newcastle Utd,1.1,0.8,0–1,2019-2020,789
+4,Sat,31/08/2019,12:30,Southampton,Manchester Utd,0.9,1.5,1–1,2019-2020,790
+4,Sat,31/08/2019,15:00,West Ham,Norwich City,2,1.4,2–0,2019-2020,791
+4,Sat,31/08/2019,15:00,Crystal Palace,Aston Villa,1.4,0.4,1–0,2019-2020,792
+4,Sat,31/08/2019,15:00,Leicester City,Bournemouth,2,0.6,3–1,2019-2020,793
+4,Sat,31/08/2019,15:00,Chelsea,Sheffield Utd,2,1.1,2–2,2019-2020,794
+4,Sat,31/08/2019,15:00,Newcastle Utd,Watford,1,1,1–1,2019-2020,795
+4,Sat,31/08/2019,15:00,Manchester City,Brighton,1.9,0.9,4–0,2019-2020,796
+4,Sat,31/08/2019,17:30,Burnley,Liverpool,0.9,1,0–3,2019-2020,797
+4,Sun,01/09/2019,14:00,Everton,Wolves,1.3,2,3–2,2019-2020,798
+4,Sun,01/09/2019,16:30,Arsenal,Tottenham,2.4,2,2–2,2019-2020,799
+5,Sat,14/09/2019,12:30,Liverpool,Newcastle Utd,3,0.3,3–1,2019-2020,800
+5,Sat,14/09/2019,15:00,Wolves,Chelsea,1.7,2.7,2–5,2019-2020,801
+5,Sat,14/09/2019,15:00,Brighton,Burnley,1.4,0.4,1–1,2019-2020,802
+5,Sat,14/09/2019,15:00,Tottenham,Crystal Palace,1,0.6,4–0,2019-2020,803
+5,Sat,14/09/2019,15:00,Manchester Utd,Leicester City,1.2,0.6,1–0,2019-2020,804
+5,Sat,14/09/2019,15:00,Sheffield Utd,Southampton,1.8,1.6,0–1,2019-2020,805
+5,Sat,14/09/2019,17:30,Norwich City,Manchester City,1.5,2.3,3–2,2019-2020,806
+5,Sun,15/09/2019,14:00,Bournemouth,Everton,1.4,1.5,3–1,2019-2020,807
+5,Sun,15/09/2019,16:30,Watford,Arsenal,2.7,0.8,2–2,2019-2020,808
+5,Mon,16/09/2019,20:00,Aston Villa,West Ham,1.3,0.6,0–0,2019-2020,809
+6,Fri,20/09/2019,20:00,Southampton,Bournemouth,2.5,1.2,1–3,2019-2020,810
+6,Sat,21/09/2019,12:30,Leicester City,Tottenham,1.3,1.1,2–1,2019-2020,811
+6,Sat,21/09/2019,15:00,Manchester City,Watford,5.9,0.4,8–0,2019-2020,812
+6,Sat,21/09/2019,15:00,Everton,Sheffield Utd,1,0.5,0–2,2019-2020,813
+6,Sat,21/09/2019,15:00,Burnley,Norwich City,2,0.8,2–0,2019-2020,814
+6,Sat,21/09/2019,17:30,Newcastle Utd,Brighton,0.9,1.4,0–0,2019-2020,815
+6,Sun,22/09/2019,14:00,Crystal Palace,Wolves,0.9,1.5,1–1,2019-2020,816
+6,Sun,22/09/2019,14:00,West Ham,Manchester Utd,0.4,0.9,2–0,2019-2020,817
+6,Sun,22/09/2019,16:30,Chelsea,Liverpool,1.3,0.6,1–2,2019-2020,818
+6,Sun,22/09/2019,16:30,Arsenal,Aston Villa,2.4,1.5,3–2,2019-2020,819
+7,Sat,28/09/2019,12:30,Sheffield Utd,Liverpool,1.3,1.9,0–1,2019-2020,820
+7,Sat,28/09/2019,15:00,Chelsea,Brighton,3.7,0.6,2–0,2019-2020,821
+7,Sat,28/09/2019,15:00,Tottenham,Southampton,1,1.5,2–1,2019-2020,822
+7,Sat,28/09/2019,15:00,Aston Villa,Burnley,1,1.5,2–2,2019-2020,823
+7,Sat,28/09/2019,15:00,Crystal Palace,Norwich City,1.5,0.7,2–0,2019-2020,824
+7,Sat,28/09/2019,15:00,Wolves,Watford,1.4,1.4,2–0,2019-2020,825
+7,Sat,28/09/2019,15:00,Bournemouth,West Ham,1.9,1.6,2–2,2019-2020,826
+7,Sat,28/09/2019,17:30,Everton,Manchester City,2.4,2.8,1–3,2019-2020,827
+7,Sun,29/09/2019,16:30,Leicester City,Newcastle Utd,1.6,0.1,5–0,2019-2020,828
+7,Mon,30/09/2019,20:00,Manchester Utd,Arsenal,0.9,1.9,1–1,2019-2020,829
+8,Sat,05/10/2019,12:30,Brighton,Tottenham,2.4,0.4,3–0,2019-2020,830
+8,Sat,05/10/2019,15:00,Watford,Sheffield Utd,1.4,0.4,0–0,2019-2020,831
+8,Sat,05/10/2019,15:00,Burnley,Everton,0.6,1.3,1–0,2019-2020,832
+8,Sat,05/10/2019,15:00,Liverpool,Leicester City,3.5,0.1,2–1,2019-2020,833
+8,Sat,05/10/2019,15:00,Norwich City,Aston Villa,2.6,3,1–5,2019-2020,834
+8,Sat,05/10/2019,17:30,West Ham,Crystal Palace,1.4,2.1,1–2,2019-2020,835
+8,Sun,06/10/2019,14:00,Manchester City,Wolves,1.4,1,0–2,2019-2020,836
+8,Sun,06/10/2019,14:00,Southampton,Chelsea,1.4,1.7,1–4,2019-2020,837
+8,Sun,06/10/2019,14:00,Arsenal,Bournemouth,1.2,0.6,1–0,2019-2020,838
+8,Sun,06/10/2019,16:30,Newcastle Utd,Manchester Utd,0.8,0.9,1–0,2019-2020,839
+9,Sat,19/10/2019,12:30,Everton,West Ham,2.1,0.8,2–0,2019-2020,840
+9,Sat,19/10/2019,15:00,Aston Villa,Brighton,3,1.2,2–1,2019-2020,841
+9,Sat,19/10/2019,15:00,Leicester City,Burnley,1,1.5,2–1,2019-2020,842
+9,Sat,19/10/2019,15:00,Tottenham,Watford,1,0.7,1–1,2019-2020,843
+9,Sat,19/10/2019,15:00,Wolves,Southampton,0.9,1.4,1–1,2019-2020,844
+9,Sat,19/10/2019,15:00,Chelsea,Newcastle Utd,2,0.4,1–0,2019-2020,845
+9,Sat,19/10/2019,15:00,Bournemouth,Norwich City,0.7,0.4,0–0,2019-2020,846
+9,Sat,19/10/2019,17:30,Crystal Palace,Manchester City,0.9,3.5,0–2,2019-2020,847
+9,Sun,20/10/2019,16:30,Manchester Utd,Liverpool,0.7,1.2,1–1,2019-2020,848
+9,Mon,21/10/2019,20:00,Sheffield Utd,Arsenal,0.9,1,1–0,2019-2020,849
+10,Fri,25/10/2019,20:00,Southampton,Leicester City,0.3,4.6,0–9,2019-2020,850
+10,Sat,26/10/2019,12:30,Manchester City,Aston Villa,2.9,1,3–0,2019-2020,851
+10,Sat,26/10/2019,15:00,Watford,Bournemouth,0.8,1,0–0,2019-2020,852
+10,Sat,26/10/2019,15:00,West Ham,Sheffield Utd,2.3,1,1–1,2019-2020,853
+10,Sat,26/10/2019,15:00,Brighton,Everton,1.2,0.9,3–2,2019-2020,854
+10,Sat,26/10/2019,17:30,Burnley,Chelsea,2.1,0.9,2–4,2019-2020,855
+10,Sun,27/10/2019,14:00,Newcastle Utd,Wolves,1,2.1,1–1,2019-2020,856
+10,Sun,27/10/2019,16:30,Arsenal,Crystal Palace,1.3,1.6,2–2,2019-2020,857
+10,Sun,27/10/2019,16:30,Liverpool,Tottenham,2.6,1.2,2–1,2019-2020,858
+10,Sun,27/10/2019,16:30,Norwich City,Manchester Utd,1,4.2,1–3,2019-2020,859
+11,Sat,02/11/2019,12:30,Bournemouth,Manchester Utd,1.9,0.8,1–0,2019-2020,860
+11,Sat,02/11/2019,15:00,Sheffield Utd,Burnley,2.3,0.8,3–0,2019-2020,861
+11,Sat,02/11/2019,15:00,Brighton,Norwich City,2.7,0.4,2–0,2019-2020,862
+11,Sat,02/11/2019,15:00,Aston Villa,Liverpool,0.4,2.4,1–2,2019-2020,863
+11,Sat,02/11/2019,15:00,Arsenal,Wolves,0.9,1.8,1–1,2019-2020,864
+11,Sat,02/11/2019,15:00,West Ham,Newcastle Utd,1.8,1.5,2–3,2019-2020,865
+11,Sat,02/11/2019,15:00,Manchester City,Southampton,2.9,0.9,2–1,2019-2020,866
+11,Sat,02/11/2019,17:30,Watford,Chelsea,1.3,2.1,1–2,2019-2020,867
+11,Sun,03/11/2019,14:00,Crystal Palace,Leicester City,0.5,1.1,0–2,2019-2020,868
+11,Sun,03/11/2019,16:30,Everton,Tottenham,1.1,0.6,1–1,2019-2020,869
+12,Fri,08/11/2019,20:00,Norwich City,Watford,0.7,1.3,0–2,2019-2020,870
+12,Sat,09/11/2019,12:30,Chelsea,Crystal Palace,3.6,0.2,2–0,2019-2020,871
+12,Sat,09/11/2019,15:00,Southampton,Everton,0.9,1.8,1–2,2019-2020,872
+12,Sat,09/11/2019,15:00,Burnley,West Ham,2.1,0.5,3–0,2019-2020,873
+12,Sat,09/11/2019,15:00,Newcastle Utd,Bournemouth,2.4,1.8,2–1,2019-2020,874
+12,Sat,09/11/2019,15:00,Tottenham,Sheffield Utd,1.8,0.9,1–1,2019-2020,875
+12,Sat,09/11/2019,17:30,Leicester City,Arsenal,1.2,1,2–0,2019-2020,876
+12,Sun,10/11/2019,14:00,Manchester Utd,Brighton,3.6,0.8,3–1,2019-2020,877
+12,Sun,10/11/2019,14:00,Wolves,Aston Villa,2.4,0.6,2–1,2019-2020,878
+12,Sun,10/11/2019,16:30,Liverpool,Manchester City,1.1,1.3,3–1,2019-2020,879
+13,Sat,23/11/2019,12:30,West Ham,Tottenham,0.7,2.1,2–3,2019-2020,880
+13,Sat,23/11/2019,15:00,Crystal Palace,Liverpool,1,1.4,1–2,2019-2020,881
+13,Sat,23/11/2019,15:00,Arsenal,Southampton,1.8,2.4,2–2,2019-2020,882
+13,Sat,23/11/2019,15:00,Bournemouth,Wolves,0.6,1.1,1–2,2019-2020,883
+13,Sat,23/11/2019,15:00,Everton,Norwich City,0.9,1.7,0–2,2019-2020,884
+13,Sat,23/11/2019,15:00,Brighton,Leicester City,0.6,3.6,0–2,2019-2020,885
+13,Sat,23/11/2019,15:00,Watford,Burnley,1,1.9,0–3,2019-2020,886
+13,Sat,23/11/2019,17:30,Manchester City,Chelsea,1,0.9,2–1,2019-2020,887
+13,Sun,24/11/2019,16:30,Sheffield Utd,Manchester Utd,1.3,1.3,3–3,2019-2020,888
+13,Mon,25/11/2019,20:00,Aston Villa,Newcastle Utd,2.3,0.6,2–0,2019-2020,889
+14,Sat,30/11/2019,12:30,Newcastle Utd,Manchester City,0.3,2.4,2–2,2019-2020,890
+14,Sat,30/11/2019,15:00,Tottenham,Bournemouth,2.3,1.1,3–2,2019-2020,891
+14,Sat,30/11/2019,15:00,Liverpool,Brighton,1.3,0.8,2–1,2019-2020,892
+14,Sat,30/11/2019,15:00,Burnley,Crystal Palace,1.9,0.7,0–2,2019-2020,893
+14,Sat,30/11/2019,15:00,Chelsea,West Ham,2.3,0.9,0–1,2019-2020,894
+14,Sat,30/11/2019,17:30,Southampton,Watford,2.1,0.6,2–1,2019-2020,895
+14,Sun,01/12/2019,14:00,Norwich City,Arsenal,0.8,1.9,2–2,2019-2020,896
+14,Sun,01/12/2019,14:00,Wolves,Sheffield Utd,1.3,1.5,1–1,2019-2020,897
+14,Sun,01/12/2019,16:30,Leicester City,Everton,2.2,1.1,2–1,2019-2020,898
+14,Sun,01/12/2019,16:30,Manchester Utd,Aston Villa,1.7,1.2,2–2,2019-2020,899
+15,Tue,03/12/2019,19:30,Crystal Palace,Bournemouth,0.3,0.4,1–0,2019-2020,900
+15,Tue,03/12/2019,20:15,Burnley,Manchester City,0.6,2.2,1–4,2019-2020,901
+15,Wed,04/12/2019,19:30,Wolves,West Ham,1.5,0.6,2–0,2019-2020,902
+15,Wed,04/12/2019,19:30,Southampton,Norwich City,1.7,0.9,2–1,2019-2020,903
+15,Wed,04/12/2019,19:30,Chelsea,Aston Villa,1.8,1,2–1,2019-2020,904
+15,Wed,04/12/2019,19:30,Manchester Utd,Tottenham,1.4,0.9,2–1,2019-2020,905
+15,Wed,04/12/2019,19:30,Leicester City,Watford,2.4,0.2,2–0,2019-2020,906
+15,Wed,04/12/2019,20:15,Liverpool,Everton,2,1.5,5–2,2019-2020,907
+15,Thu,05/12/2019,19:30,Sheffield Utd,Newcastle Utd,1.1,0.5,0–2,2019-2020,908
+15,Thu,05/12/2019,20:15,Arsenal,Brighton,0.9,1.7,1–2,2019-2020,909
+16,Sat,07/12/2019,12:30,Everton,Chelsea,1.8,1.1,3–1,2019-2020,910
+16,Sat,07/12/2019,15:00,Tottenham,Burnley,2.6,0.9,5–0,2019-2020,911
+16,Sat,07/12/2019,15:00,Watford,Crystal Palace,1.4,0.2,0–0,2019-2020,912
+16,Sat,07/12/2019,15:00,Bournemouth,Liverpool,0.1,2.4,0–3,2019-2020,913
+16,Sat,07/12/2019,17:30,Manchester City,Manchester Utd,2.2,1.4,1–2,2019-2020,914
+16,Sun,08/12/2019,14:00,Norwich City,Sheffield Utd,0.7,0.8,1–2,2019-2020,915
+16,Sun,08/12/2019,14:00,Aston Villa,Leicester City,1.2,4.6,1–4,2019-2020,916
+16,Sun,08/12/2019,14:00,Newcastle Utd,Southampton,0.9,1.7,2–1,2019-2020,917
+16,Sun,08/12/2019,16:30,Brighton,Wolves,1.2,1.5,2–2,2019-2020,918
+16,Mon,09/12/2019,20:00,West Ham,Arsenal,0.6,1.4,1–3,2019-2020,919
+17,Sat,14/12/2019,12:30,Liverpool,Watford,1.4,1,2–0,2019-2020,920
+17,Sat,14/12/2019,15:00,Leicester City,Norwich City,1.1,1.1,1–1,2019-2020,921
+17,Sat,14/12/2019,15:00,Burnley,Newcastle Utd,1.4,1,1–0,2019-2020,922
+17,Sat,14/12/2019,15:00,Sheffield Utd,Aston Villa,1.7,1.1,2–0,2019-2020,923
+17,Sat,14/12/2019,15:00,Chelsea,Bournemouth,2.1,1,0–1,2019-2020,924
+17,Sat,14/12/2019,17:30,Southampton,West Ham,0.9,0.9,0–1,2019-2020,925
+17,Sun,15/12/2019,14:00,Manchester Utd,Everton,1.4,0.3,1–1,2019-2020,926
+17,Sun,15/12/2019,14:00,Wolves,Tottenham,0.9,0.9,1–2,2019-2020,927
+17,Sun,15/12/2019,16:30,Arsenal,Manchester City,0.5,1.3,0–3,2019-2020,928
+17,Mon,16/12/2019,19:45,Crystal Palace,Brighton,0.7,2.3,1–1,2019-2020,929
+18,Sat,21/12/2019,12:30,Everton,Arsenal,0.5,0.6,0–0,2019-2020,930
+18,Sat,21/12/2019,15:00,Norwich City,Wolves,1.3,1.4,1–2,2019-2020,931
+18,Sat,21/12/2019,15:00,Brighton,Sheffield Utd,0.5,1.3,0–1,2019-2020,932
+18,Sat,21/12/2019,15:00,Newcastle Utd,Crystal Palace,0.5,1.3,1–0,2019-2020,933
+18,Sat,21/12/2019,15:00,Aston Villa,Southampton,1.1,2.8,1–3,2019-2020,934
+18,Sat,21/12/2019,15:00,Bournemouth,Burnley,0.1,0.2,0–1,2019-2020,935
+18,Sat,21/12/2019,17:30,Manchester City,Leicester City,3.3,1.1,3–1,2019-2020,936
+18,Sun,22/12/2019,14:00,Watford,Manchester Utd,1.5,1.8,2–0,2019-2020,937
+18,Sun,22/12/2019,16:30,Tottenham,Chelsea,0.3,1.3,0–2,2019-2020,938
+19,Thu,26/12/2019,12:30,Tottenham,Brighton,0.8,1,2–1,2019-2020,939
+19,Thu,26/12/2019,15:00,Aston Villa,Norwich City,0.6,1.2,1–0,2019-2020,940
+19,Thu,26/12/2019,15:00,Crystal Palace,West Ham,2.7,0.9,2–1,2019-2020,941
+19,Thu,26/12/2019,15:00,Bournemouth,Arsenal,2,1.4,1–1,2019-2020,942
+19,Thu,26/12/2019,15:00,Sheffield Utd,Watford,2.4,0.6,1–1,2019-2020,943
+19,Thu,26/12/2019,15:00,Everton,Burnley,1.4,0.3,1–0,2019-2020,944
+19,Thu,26/12/2019,15:00,Chelsea,Southampton,0.7,1.1,0–2,2019-2020,945
+19,Thu,26/12/2019,17:30,Manchester Utd,Newcastle Utd,1.9,0.8,4–1,2019-2020,946
+19,Thu,26/12/2019,20:00,Leicester City,Liverpool,0.1,3.2,0–4,2019-2020,947
+19,Fri,27/12/2019,19:45,Wolves,Manchester City,2.6,1.5,3–2,2019-2020,948
+20,Sat,28/12/2019,12:30,Brighton,Bournemouth,0.8,0.5,2–0,2019-2020,949
+20,Sat,28/12/2019,15:00,Watford,Aston Villa,2.8,0.6,3–0,2019-2020,950
+20,Sat,28/12/2019,15:00,Newcastle Utd,Everton,1.8,2.9,1–2,2019-2020,951
+20,Sat,28/12/2019,15:00,Southampton,Crystal Palace,1.4,0.3,1–1,2019-2020,952
+20,Sat,28/12/2019,17:30,West Ham,Leicester City,1,2.5,1–2,2019-2020,953
+20,Sat,28/12/2019,17:30,Norwich City,Tottenham,0.2,1.9,2–2,2019-2020,954
+20,Sat,28/12/2019,19:45,Burnley,Manchester Utd,0.5,2.2,0–2,2019-2020,955
+20,Sun,29/12/2019,14:00,Arsenal,Chelsea,0.5,1.4,1–2,2019-2020,956
+20,Sun,29/12/2019,16:30,Liverpool,Wolves,1.2,0.5,1–0,2019-2020,957
+20,Sun,29/12/2019,18:00,Manchester City,Sheffield Utd,1.1,1.1,2–0,2019-2020,958
+21,Wed,01/01/2020,12:30,Brighton,Chelsea,1.3,1.3,1–1,2019-2020,959
+21,Wed,01/01/2020,12:30,Burnley,Aston Villa,2.2,1.3,1–2,2019-2020,960
+21,Wed,01/01/2020,15:00,Newcastle Utd,Leicester City,0.7,2.6,0–3,2019-2020,961
+21,Wed,01/01/2020,15:00,Southampton,Tottenham,1.3,0.9,1–0,2019-2020,962
+21,Wed,01/01/2020,15:00,Watford,Wolves,1.1,1.2,2–1,2019-2020,963
+21,Wed,01/01/2020,17:30,Norwich City,Crystal Palace,1.4,1.3,1–1,2019-2020,964
+21,Wed,01/01/2020,17:30,West Ham,Bournemouth,2.4,0.6,4–0,2019-2020,965
+21,Wed,01/01/2020,17:30,Manchester City,Everton,1.5,1,2–1,2019-2020,966
+21,Wed,01/01/2020,20:00,Arsenal,Manchester Utd,1.5,0.7,2–0,2019-2020,967
+21,Thu,02/01/2020,20:00,Liverpool,Sheffield Utd,2.8,0.6,2–0,2019-2020,968
+22,Fri,10/01/2020,20:00,Sheffield Utd,West Ham,1.4,0.7,1–0,2019-2020,969
+22,Sat,11/01/2020,12:30,Crystal Palace,Arsenal,0.6,1.4,1–1,2019-2020,970
+22,Sat,11/01/2020,15:00,Chelsea,Burnley,2.7,0.8,3–0,2019-2020,971
+22,Sat,11/01/2020,15:00,Everton,Brighton,1.7,1.3,1–0,2019-2020,972
+22,Sat,11/01/2020,15:00,Leicester City,Southampton,0.7,2.1,1–2,2019-2020,973
+22,Sat,11/01/2020,15:00,Wolves,Newcastle Utd,1.6,0.2,1–1,2019-2020,974
+22,Sat,11/01/2020,15:00,Manchester Utd,Norwich City,2.9,0.3,4–0,2019-2020,975
+22,Sat,11/01/2020,17:30,Tottenham,Liverpool,1.2,1.2,0–1,2019-2020,976
+22,Sun,12/01/2020,14:00,Bournemouth,Watford,0.4,2,0–3,2019-2020,977
+22,Sun,12/01/2020,16:30,Aston Villa,Manchester City,1.1,2.8,1–6,2019-2020,978
+23,Sat,18/01/2020,12:30,Watford,Tottenham,2.5,1.9,0–0,2019-2020,979
+23,Sat,18/01/2020,15:00,Arsenal,Sheffield Utd,1.4,0.8,1–1,2019-2020,980
+23,Sat,18/01/2020,15:00,Norwich City,Bournemouth,1.8,0.7,1–0,2019-2020,981
+23,Sat,18/01/2020,15:00,Manchester City,Crystal Palace,2.6,0.4,2–2,2019-2020,982
+23,Sat,18/01/2020,15:00,Southampton,Wolves,0.7,2.4,2–3,2019-2020,983
+23,Sat,18/01/2020,15:00,Brighton,Aston Villa,1.1,0.6,1–1,2019-2020,984
+23,Sat,18/01/2020,15:00,West Ham,Everton,1.3,1.7,1–1,2019-2020,985
+23,Sat,18/01/2020,17:30,Newcastle Utd,Chelsea,0.6,2.4,1–0,2019-2020,986
+23,Sun,19/01/2020,14:00,Burnley,Leicester City,1.4,2.5,2–1,2019-2020,987
+23,Sun,19/01/2020,16:30,Liverpool,Manchester Utd,1.9,1.3,2–0,2019-2020,988
+24,Tue,21/01/2020,19:30,Crystal Palace,Southampton,0.6,1.1,0–2,2019-2020,989
+24,Tue,21/01/2020,19:30,Everton,Newcastle Utd,1.8,1.3,2–2,2019-2020,990
+24,Tue,21/01/2020,19:30,Aston Villa,Watford,1.3,1.8,2–1,2019-2020,991
+24,Tue,21/01/2020,19:30,Sheffield Utd,Manchester City,0.8,2.8,0–1,2019-2020,992
+24,Tue,21/01/2020,19:30,Bournemouth,Brighton,1.4,1.8,3–1,2019-2020,993
+24,Tue,21/01/2020,20:15,Chelsea,Arsenal,2.9,0.4,2–2,2019-2020,994
+24,Wed,22/01/2020,19:30,Leicester City,West Ham,2.8,1.6,4–1,2019-2020,995
+24,Wed,22/01/2020,19:30,Tottenham,Norwich City,2.1,1.5,2–1,2019-2020,996
+24,Wed,22/01/2020,20:15,Manchester Utd,Burnley,1.4,0.6,0–2,2019-2020,997
+24,Thu,23/01/2020,20:00,Wolves,Liverpool,1.8,1.1,1–2,2019-2020,998
+18,Wed,29/01/2020,19:45,West Ham,Liverpool,0.7,2.8,0–2,2019-2020,999
+25,Sat,01/02/2020,12:30,Leicester City,Chelsea,1.4,0.6,2–2,2019-2020,1000
+25,Sat,01/02/2020,15:00,West Ham,Brighton,0.8,1.9,3–3,2019-2020,1001
+25,Sat,01/02/2020,15:00,Watford,Everton,0.9,2.2,2–3,2019-2020,1002
+25,Sat,01/02/2020,15:00,Crystal Palace,Sheffield Utd,0.8,0.7,0–1,2019-2020,1003
+25,Sat,01/02/2020,15:00,Liverpool,Southampton,3.2,0.8,4–0,2019-2020,1004
+25,Sat,01/02/2020,15:00,Bournemouth,Aston Villa,2.2,1.7,2–1,2019-2020,1005
+25,Sat,01/02/2020,15:00,Newcastle Utd,Norwich City,1,2.2,0–0,2019-2020,1006
+25,Sat,01/02/2020,17:30,Manchester Utd,Wolves,1,1.3,0–0,2019-2020,1007
+25,Sun,02/02/2020,14:00,Burnley,Arsenal,1.9,1.2,0–0,2019-2020,1008
+25,Sun,02/02/2020,16:30,Tottenham,Manchester City,0.3,2.4,2–0,2019-2020,1009
+26,Sat,08/02/2020,12:30,Everton,Crystal Palace,2.5,1.1,3–1,2019-2020,1010
+26,Sat,08/02/2020,17:30,Brighton,Watford,0.8,0.2,1–1,2019-2020,1011
+26,Sun,09/02/2020,14:00,Sheffield Utd,Bournemouth,1.9,1.4,2–1,2019-2020,1012
+26,Fri,14/02/2020,20:00,Wolves,Leicester City,1,0.7,0–0,2019-2020,1013
+26,Sat,15/02/2020,12:30,Southampton,Burnley,0.8,0.8,1–2,2019-2020,1014
+26,Sat,15/02/2020,17:30,Norwich City,Liverpool,0.3,2,0–1,2019-2020,1015
+26,Sun,16/02/2020,14:00,Aston Villa,Tottenham,1.8,3.4,2–3,2019-2020,1016
+26,Sun,16/02/2020,16:30,Arsenal,Newcastle Utd,2.6,0.9,4–0,2019-2020,1017
+26,Mon,17/02/2020,20:00,Chelsea,Manchester Utd,0.9,0.6,0–2,2019-2020,1018
+26,Wed,19/02/2020,19:30,Manchester City,West Ham,2.1,0.1,2–0,2019-2020,1019
+27,Sat,22/02/2020,12:30,Chelsea,Tottenham,1.7,0.2,2–1,2019-2020,1020
+27,Sat,22/02/2020,15:00,Crystal Palace,Newcastle Utd,1.6,0.2,1–0,2019-2020,1021
+27,Sat,22/02/2020,15:00,Southampton,Aston Villa,2.6,0.5,2–0,2019-2020,1022
+27,Sat,22/02/2020,15:00,Burnley,Bournemouth,3.2,1.8,3–0,2019-2020,1023
+27,Sat,22/02/2020,15:00,Sheffield Utd,Brighton,1.6,1.2,1–1,2019-2020,1024
+27,Sat,22/02/2020,17:30,Leicester City,Manchester City,0.8,2.4,0–1,2019-2020,1025
+27,Sun,23/02/2020,14:00,Wolves,Norwich City,2.9,0.4,3–0,2019-2020,1026
+27,Sun,23/02/2020,14:00,Manchester Utd,Watford,2.4,0.3,3–0,2019-2020,1027
+27,Sun,23/02/2020,16:30,Arsenal,Everton,1.3,2.7,3–2,2019-2020,1028
+27,Mon,24/02/2020,20:00,Liverpool,West Ham,2.4,0.7,3–2,2019-2020,1029
+28,Fri,28/02/2020,20:00,Norwich City,Leicester City,0.6,1.3,1–0,2019-2020,1030
+28,Sat,29/02/2020,12:30,Brighton,Crystal Palace,2.2,2.5,0–1,2019-2020,1031
+28,Sat,29/02/2020,15:00,West Ham,Southampton,2.3,0.7,3–1,2019-2020,1032
+28,Sat,29/02/2020,15:00,Bournemouth,Chelsea,1.4,1.9,2–2,2019-2020,1033
+28,Sat,29/02/2020,15:00,Newcastle Utd,Burnley,1.1,0.7,0–0,2019-2020,1034
+28,Sat,29/02/2020,17:30,Watford,Liverpool,2.3,0.3,3–0,2019-2020,1035
+28,Sun,01/03/2020,14:00,Tottenham,Wolves,1.7,2.6,2–3,2019-2020,1036
+28,Sun,01/03/2020,14:00,Everton,Manchester Utd,2.1,1.1,1–1,2019-2020,1037
+29,Sat,07/03/2020,12:30,Liverpool,Bournemouth,1.8,1.4,2–1,2019-2020,1038
+29,Sat,07/03/2020,15:00,Wolves,Brighton,0.8,0.3,0–0,2019-2020,1039
+29,Sat,07/03/2020,15:00,Crystal Palace,Watford,0.8,0.6,1–0,2019-2020,1040
+29,Sat,07/03/2020,15:00,Southampton,Newcastle Utd,0.6,2.8,0–1,2019-2020,1041
+29,Sat,07/03/2020,15:00,Arsenal,West Ham,1.2,1.5,1–0,2019-2020,1042
+29,Sat,07/03/2020,15:00,Sheffield Utd,Norwich City,0.9,2.4,1–0,2019-2020,1043
+29,Sat,07/03/2020,17:30,Burnley,Tottenham,3,1.2,1–1,2019-2020,1044
+29,Sun,08/03/2020,14:00,Chelsea,Everton,1.8,0.5,4–0,2019-2020,1045
+29,Sun,08/03/2020,16:30,Manchester Utd,Manchester City,1.6,0.6,2–0,2019-2020,1046
+29,Mon,09/03/2020,20:00,Leicester City,Aston Villa,2.1,0.5,4–0,2019-2020,1047
+28,Wed,17/06/2020,18:00,Aston Villa,Sheffield Utd,1.4,0.3,0–0,2019-2020,1048
+28,Wed,17/06/2020,20:15,Manchester City,Arsenal,2.6,0.3,3–0,2019-2020,1049
+30,Fri,19/06/2020,18:00,Norwich City,Southampton,0.6,1.7,0–3,2019-2020,1050
+30,Fri,19/06/2020,20:15,Tottenham,Manchester Utd,0.4,1.7,1–1,2019-2020,1051
+30,Sat,20/06/2020,12:30,Watford,Leicester City,1.3,1,1–1,2019-2020,1052
+30,Sat,20/06/2020,15:00,Brighton,Arsenal,1,0.8,2–1,2019-2020,1053
+30,Sat,20/06/2020,17:30,West Ham,Wolves,0.5,1,0–2,2019-2020,1054
+30,Sat,20/06/2020,19:45,Bournemouth,Crystal Palace,0.5,0.8,0–2,2019-2020,1055
+30,Sun,21/06/2020,14:00,Newcastle Utd,Sheffield Utd,2,0.6,3–0,2019-2020,1056
+30,Sun,21/06/2020,16:15,Aston Villa,Chelsea,1,1.1,1–2,2019-2020,1057
+30,Sun,21/06/2020,19:00,Everton,Liverpool,0.9,0.7,0–0,2019-2020,1058
+30,Mon,22/06/2020,20:00,Manchester City,Burnley,2.4,0,5–0,2019-2020,1059
+31,Tue,23/06/2020,18:00,Leicester City,Brighton,0.6,1.1,0–0,2019-2020,1060
+31,Tue,23/06/2020,20:15,Tottenham,West Ham,2.3,1.2,2–0,2019-2020,1061
+31,Wed,24/06/2020,18:00,Norwich City,Everton,0.4,0.8,0–1,2019-2020,1062
+31,Wed,24/06/2020,18:00,Wolves,Bournemouth,1.7,0.1,1–0,2019-2020,1063
+31,Wed,24/06/2020,18:00,Manchester Utd,Sheffield Utd,2.4,0.1,3–0,2019-2020,1064
+31,Wed,24/06/2020,18:00,Newcastle Utd,Aston Villa,0.9,1.6,1–1,2019-2020,1065
+31,Wed,24/06/2020,20:15,Liverpool,Crystal Palace,2.4,0.1,4–0,2019-2020,1066
+31,Thu,25/06/2020,18:00,Southampton,Arsenal,0.9,1.9,0–2,2019-2020,1067
+31,Thu,25/06/2020,18:00,Burnley,Watford,0.9,0.7,1–0,2019-2020,1068
+31,Thu,25/06/2020,20:15,Chelsea,Manchester City,3.2,0.8,2–1,2019-2020,1069
+32,Sat,27/06/2020,12:30,Aston Villa,Wolves,0.6,0.7,0–1,2019-2020,1070
+32,Sun,28/06/2020,16:30,Watford,Southampton,0.5,1.3,1–3,2019-2020,1071
+32,Mon,29/06/2020,20:00,Crystal Palace,Burnley,0.9,0.4,0–1,2019-2020,1072
+32,Tue,30/06/2020,20:15,Brighton,Manchester Utd,0.4,1,0–3,2019-2020,1073
+32,Wed,01/07/2020,18:00,Bournemouth,Newcastle Utd,1.6,1.8,1–4,2019-2020,1074
+32,Wed,01/07/2020,18:00,Everton,Leicester City,1.2,1.8,2–1,2019-2020,1075
+32,Wed,01/07/2020,18:00,Arsenal,Norwich City,1.5,0.3,4–0,2019-2020,1076
+32,Wed,01/07/2020,20:15,West Ham,Chelsea,2.2,1.6,3–2,2019-2020,1077
+32,Thu,02/07/2020,18:00,Sheffield Utd,Tottenham,1.6,1.1,3–1,2019-2020,1078
+32,Thu,02/07/2020,20:15,Manchester City,Liverpool,2.4,1.1,4–0,2019-2020,1079
+33,Sat,04/07/2020,12:30,Norwich City,Brighton,0.6,1,0–1,2019-2020,1080
+33,Sat,04/07/2020,15:00,Leicester City,Crystal Palace,2.8,0.8,3–0,2019-2020,1081
+33,Sat,04/07/2020,15:00,Manchester Utd,Bournemouth,2.5,1.8,5–2,2019-2020,1082
+33,Sat,04/07/2020,17:30,Wolves,Arsenal,1.2,1.3,0–2,2019-2020,1083
+33,Sat,04/07/2020,20:00,Chelsea,Watford,2.5,0.6,3–0,2019-2020,1084
+33,Sun,05/07/2020,12:00,Burnley,Sheffield Utd,1.3,1.1,1–1,2019-2020,1085
+33,Sun,05/07/2020,14:15,Newcastle Utd,West Ham,1.4,2.1,2–2,2019-2020,1086
+33,Sun,05/07/2020,16:30,Liverpool,Aston Villa,0.7,0.7,2–0,2019-2020,1087
+33,Sun,05/07/2020,19:00,Southampton,Manchester City,0.6,3.2,1–0,2019-2020,1088
+33,Mon,06/07/2020,20:00,Tottenham,Everton,0.5,0.5,1–0,2019-2020,1089
+34,Tue,07/07/2020,18:00,Crystal Palace,Chelsea,1.5,1.9,2–3,2019-2020,1090
+34,Tue,07/07/2020,18:00,Watford,Norwich City,1.2,1.2,2–1,2019-2020,1091
+34,Tue,07/07/2020,20:15,Arsenal,Leicester City,1.1,0.9,1–1,2019-2020,1092
+34,Wed,08/07/2020,18:00,Manchester City,Newcastle Utd,2.8,0.3,5–0,2019-2020,1093
+34,Wed,08/07/2020,18:00,West Ham,Burnley,1.6,0.9,0–1,2019-2020,1094
+34,Wed,08/07/2020,18:00,Sheffield Utd,Wolves,0.5,0.4,1–0,2019-2020,1095
+34,Wed,08/07/2020,20:15,Brighton,Liverpool,2.4,2.5,1–3,2019-2020,1096
+34,Thu,09/07/2020,18:00,Everton,Southampton,1,2.4,1–1,2019-2020,1097
+34,Thu,09/07/2020,18:00,Bournemouth,Tottenham,1.4,0.5,0–0,2019-2020,1098
+34,Thu,09/07/2020,20:15,Aston Villa,Manchester Utd,0.5,2.3,0–3,2019-2020,1099
+35,Sat,11/07/2020,12:30,Norwich City,West Ham,0.6,3.5,0–4,2019-2020,1100
+35,Sat,11/07/2020,12:30,Watford,Newcastle Utd,3.4,1.3,2–1,2019-2020,1101
+35,Sat,11/07/2020,15:00,Liverpool,Burnley,1.7,0.4,1–1,2019-2020,1102
+35,Sat,11/07/2020,17:30,Sheffield Utd,Chelsea,2.3,1.2,3–0,2019-2020,1103
+35,Sat,11/07/2020,20:00,Brighton,Manchester City,0.2,4.4,0–5,2019-2020,1104
+35,Sun,12/07/2020,12:00,Wolves,Everton,2.6,0.3,3–0,2019-2020,1105
+35,Sun,12/07/2020,14:15,Aston Villa,Crystal Palace,1.7,1.2,2–0,2019-2020,1106
+35,Sun,12/07/2020,16:30,Tottenham,Arsenal,2,0.6,2–1,2019-2020,1107
+35,Sun,12/07/2020,19:00,Bournemouth,Leicester City,2.5,1.5,4–1,2019-2020,1108
+35,Mon,13/07/2020,20:00,Manchester Utd,Southampton,1.5,1.6,2–2,2019-2020,1109
+36,Tue,14/07/2020,20:15,Chelsea,Norwich City,2.5,0.1,1–0,2019-2020,1110
+36,Wed,15/07/2020,18:00,Newcastle Utd,Tottenham,1.1,1.5,1–3,2019-2020,1111
+36,Wed,15/07/2020,18:00,Burnley,Wolves,1.9,1.2,1–1,2019-2020,1112
+36,Wed,15/07/2020,18:00,Manchester City,Bournemouth,0.7,1.6,2–1,2019-2020,1113
+36,Wed,15/07/2020,20:15,Arsenal,Liverpool,0.8,2.1,2–1,2019-2020,1114
+36,Thu,16/07/2020,18:00,Leicester City,Sheffield Utd,2.6,0.7,2–0,2019-2020,1115
+36,Thu,16/07/2020,18:00,Everton,Aston Villa,0.9,1.3,1–1,2019-2020,1116
+36,Thu,16/07/2020,20:15,Crystal Palace,Manchester Utd,0.6,2.2,0–2,2019-2020,1117
+36,Thu,16/07/2020,20:15,Southampton,Brighton,2.5,0.7,1–1,2019-2020,1118
+36,Fri,17/07/2020,20:00,West Ham,Watford,0.9,1.5,3–1,2019-2020,1119
+37,Sat,18/07/2020,17:30,Norwich City,Burnley,0.3,1.8,0–2,2019-2020,1120
+37,Sun,19/07/2020,14:00,Bournemouth,Southampton,0.5,2.5,0–2,2019-2020,1121
+37,Sun,19/07/2020,16:00,Tottenham,Leicester City,0.8,1.7,3–0,2019-2020,1122
+37,Mon,20/07/2020,18:00,Brighton,Newcastle Utd,0.8,0.9,0–0,2019-2020,1123
+37,Mon,20/07/2020,18:00,Sheffield Utd,Everton,0.5,0.4,0–1,2019-2020,1124
+37,Mon,20/07/2020,20:15,Wolves,Crystal Palace,1.5,0.4,2–0,2019-2020,1125
+37,Tue,21/07/2020,18:00,Watford,Manchester City,0.1,3.3,0–4,2019-2020,1126
+37,Tue,21/07/2020,20:15,Aston Villa,Arsenal,0.6,0.6,1–0,2019-2020,1127
+37,Wed,22/07/2020,18:00,Manchester Utd,West Ham,0.6,1.5,1–1,2019-2020,1128
+37,Wed,22/07/2020,20:15,Liverpool,Chelsea,1.7,2.4,5–3,2019-2020,1129
+38,Sun,26/07/2020,16:00,Everton,Bournemouth,1.7,1.5,1–3,2019-2020,1130
+38,Sun,26/07/2020,16:00,Leicester City,Manchester Utd,0.8,1.3,0–2,2019-2020,1131
+38,Sun,26/07/2020,16:00,Southampton,Sheffield Utd,1.7,1.4,3–1,2019-2020,1132
+38,Sun,26/07/2020,16:00,Arsenal,Watford,2.3,3.7,3–2,2019-2020,1133
+38,Sun,26/07/2020,16:00,Crystal Palace,Tottenham,0.8,0.3,1–1,2019-2020,1134
+38,Sun,26/07/2020,16:00,Manchester City,Norwich City,3.2,1,5–0,2019-2020,1135
+38,Sun,26/07/2020,16:00,Chelsea,Wolves,1.4,0.2,2–0,2019-2020,1136
+38,Sun,26/07/2020,16:00,West Ham,Aston Villa,0.9,1,1–1,2019-2020,1137
+38,Sun,26/07/2020,16:00,Newcastle Utd,Liverpool,0.1,0.6,1–3,2019-2020,1138
+38,Sun,26/07/2020,16:00,Burnley,Brighton,1.7,1.2,1–2,2019-2020,1139
+1,Sat,12/09/2020,12:30,Fulham,Arsenal,0.1,1.9,0–3,2020-2021,1140
+1,Sat,12/09/2020,15:00,Crystal Palace,Southampton,1.1,0.9,1–0,2020-2021,1141
+1,Sat,12/09/2020,17:30,Liverpool,Leeds United,2.7,0.3,4–3,2020-2021,1142
+1,Sat,12/09/2020,20:00,West Ham,Newcastle Utd,1,1.6,0–2,2020-2021,1143
+1,Sun,13/09/2020,14:00,West Brom,Leicester City,0.4,2.8,0–3,2020-2021,1144
+1,Sun,13/09/2020,16:30,Tottenham,Everton,1.1,1.2,0–1,2020-2021,1145
+1,Mon,14/09/2020,18:00,Sheffield Utd,Wolves,1,1.4,0–2,2020-2021,1146
+1,Mon,14/09/2020,20:15,Brighton,Chelsea,1.1,1.2,1–3,2020-2021,1147
+2,Sat,19/09/2020,12:30,Everton,West Brom,3.9,0.3,5–2,2020-2021,1148
+2,Sat,19/09/2020,15:00,Leeds United,Fulham,1.4,1.7,4–3,2020-2021,1149
+2,Sat,19/09/2020,17:30,Manchester Utd,Crystal Palace,1.2,1.6,1–3,2020-2021,1150
+2,Sat,19/09/2020,20:00,Arsenal,West Ham,1.1,2,2–1,2020-2021,1151
+2,Sun,20/09/2020,12:00,Southampton,Tottenham,2,2.1,2–5,2020-2021,1152
+2,Sun,20/09/2020,14:00,Newcastle Utd,Brighton,0.5,1.8,0–3,2020-2021,1153
+2,Sun,20/09/2020,16:30,Chelsea,Liverpool,0.9,2.1,0–2,2020-2021,1154
+2,Sun,20/09/2020,19:00,Leicester City,Burnley,1.2,1.4,4–2,2020-2021,1155
+2,Mon,21/09/2020,18:00,Aston Villa,Sheffield Utd,1,0.9,1–0,2020-2021,1156
+2,Mon,21/09/2020,20:15,Wolves,Manchester City,0.6,1.9,1–3,2020-2021,1157
+3,Sat,26/09/2020,12:30,Brighton,Manchester Utd,2.5,1.5,2–3,2020-2021,1158
+3,Sat,26/09/2020,15:00,Crystal Palace,Everton,0.4,1.9,1–2,2020-2021,1159
+3,Sat,26/09/2020,17:30,West Brom,Chelsea,0.6,2,3–3,2020-2021,1160
+3,Sat,26/09/2020,20:00,Burnley,Southampton,0.5,0.6,0–1,2020-2021,1161
+3,Sun,27/09/2020,12:00,Sheffield Utd,Leeds United,1.4,1.2,0–1,2020-2021,1162
+3,Sun,27/09/2020,14:00,Tottenham,Newcastle Utd,2.9,1,1–1,2020-2021,1163
+3,Sun,27/09/2020,16:30,Manchester City,Leicester City,0.9,2.9,2–5,2020-2021,1164
+3,Sun,27/09/2020,19:00,West Ham,Wolves,2.4,0.5,4–0,2020-2021,1165
+3,Mon,28/09/2020,17:45,Fulham,Aston Villa,0.7,1.4,0–3,2020-2021,1166
+3,Mon,28/09/2020,20:00,Liverpool,Arsenal,2.7,1.3,3–1,2020-2021,1167
+4,Sat,03/10/2020,12:30,Chelsea,Crystal Palace,2.7,0.2,4–0,2020-2021,1168
+4,Sat,03/10/2020,15:00,Everton,Brighton,1.6,1.3,4–2,2020-2021,1169
+4,Sat,03/10/2020,17:30,Leeds United,Manchester City,2.4,1.2,1–1,2020-2021,1170
+4,Sat,03/10/2020,20:00,Newcastle Utd,Burnley,1.8,0.4,3–1,2020-2021,1171
+4,Sun,04/10/2020,12:00,Southampton,West Brom,1.2,0.2,2–0,2020-2021,1172
+4,Sun,04/10/2020,12:00,Leicester City,West Ham,0.6,2,0–3,2020-2021,1173
+4,Sun,04/10/2020,14:00,Arsenal,Sheffield Utd,0.6,0.2,2–1,2020-2021,1174
+4,Sun,04/10/2020,14:00,Wolves,Fulham,1.2,0.9,1–0,2020-2021,1175
+4,Sun,04/10/2020,16:30,Manchester Utd,Tottenham,0.9,3.4,1–6,2020-2021,1176
+4,Sun,04/10/2020,19:15,Aston Villa,Liverpool,2.7,1.8,7–2,2020-2021,1177
+5,Sat,17/10/2020,12:30,Everton,Liverpool,1.2,2.6,2–2,2020-2021,1178
+5,Sat,17/10/2020,15:00,Chelsea,Southampton,1.8,1.9,3–3,2020-2021,1179
+5,Sat,17/10/2020,17:30,Manchester City,Arsenal,1.3,0.9,1–0,2020-2021,1180
+5,Sat,17/10/2020,20:00,Newcastle Utd,Manchester Utd,0.9,2.3,1–4,2020-2021,1181
+5,Sun,18/10/2020,12:00,Sheffield Utd,Fulham,1.7,1.5,1–1,2020-2021,1182
+5,Sun,18/10/2020,14:00,Crystal Palace,Brighton,0.8,1.7,1–1,2020-2021,1183
+5,Sun,18/10/2020,16:30,Tottenham,West Ham,1.7,1.9,3–3,2020-2021,1184
+5,Sun,18/10/2020,19:15,Leicester City,Aston Villa,0.6,0.7,0–1,2020-2021,1185
+5,Mon,19/10/2020,17:30,West Brom,Burnley,0.8,1.1,0–0,2020-2021,1186
+5,Mon,19/10/2020,20:00,Leeds United,Wolves,1,0.4,0–1,2020-2021,1187
+6,Fri,23/10/2020,20:00,Aston Villa,Leeds United,1.4,2.7,0–3,2020-2021,1188
+6,Sat,24/10/2020,12:30,West Ham,Manchester City,0.3,1,1–1,2020-2021,1189
+6,Sat,24/10/2020,15:00,Fulham,Crystal Palace,1.1,2.5,1–2,2020-2021,1190
+6,Sat,24/10/2020,17:30,Manchester Utd,Chelsea,0.6,0.2,0–0,2020-2021,1191
+6,Sat,24/10/2020,20:00,Liverpool,Sheffield Utd,2.3,1.6,2–1,2020-2021,1192
+6,Sun,25/10/2020,14:00,Southampton,Everton,0.7,0.4,2–0,2020-2021,1193
+6,Sun,25/10/2020,16:30,Wolves,Newcastle Utd,0.7,0.3,1–1,2020-2021,1194
+6,Sun,25/10/2020,19:15,Arsenal,Leicester City,0.7,0.7,0–1,2020-2021,1195
+6,Mon,26/10/2020,17:30,Brighton,West Brom,0.5,0.4,1–1,2020-2021,1196
+6,Mon,26/10/2020,20:00,Burnley,Tottenham,1,0.6,0–1,2020-2021,1197
+7,Fri,30/10/2020,20:00,Wolves,Crystal Palace,1.3,0.7,2–0,2020-2021,1198
+7,Sat,31/10/2020,12:30,Sheffield Utd,Manchester City,0.5,1.6,0–1,2020-2021,1199
+7,Sat,31/10/2020,15:00,Burnley,Chelsea,0.5,0.9,0–3,2020-2021,1200
+7,Sat,31/10/2020,17:30,Liverpool,West Ham,1.7,0.3,2–1,2020-2021,1201
+7,Sun,01/11/2020,12:00,Aston Villa,Southampton,1.9,0.7,3–4,2020-2021,1202
+7,Sun,01/11/2020,14:00,Newcastle Utd,Everton,2.9,1.5,2–1,2020-2021,1203
+7,Sun,01/11/2020,16:30,Manchester Utd,Arsenal,0.4,1,0–1,2020-2021,1204
+7,Sun,01/11/2020,19:15,Tottenham,Brighton,1.7,0.3,2–1,2020-2021,1205
+7,Mon,02/11/2020,17:30,Fulham,West Brom,1.5,0.5,2–0,2020-2021,1206
+7,Mon,02/11/2020,20:00,Leeds United,Leicester City,2.1,2.9,1–4,2020-2021,1207
+8,Fri,06/11/2020,17:30,Brighton,Burnley,1.5,0.5,0–0,2020-2021,1208
+8,Fri,06/11/2020,20:00,Southampton,Newcastle Utd,0.7,0.3,2–0,2020-2021,1209
+8,Sat,07/11/2020,12:30,Everton,Manchester Utd,0.4,1.5,1–3,2020-2021,1210
+8,Sat,07/11/2020,15:00,Crystal Palace,Leeds United,0.9,0.8,4–1,2020-2021,1211
+8,Sat,07/11/2020,17:30,Chelsea,Sheffield Utd,2.2,0.4,4–1,2020-2021,1212
+8,Sat,07/11/2020,20:00,West Ham,Fulham,1.3,1.7,1–0,2020-2021,1213
+8,Sun,08/11/2020,12:00,West Brom,Tottenham,0.8,1.9,0–1,2020-2021,1214
+8,Sun,08/11/2020,14:00,Leicester City,Wolves,2,0.8,1–0,2020-2021,1215
+8,Sun,08/11/2020,16:30,Manchester City,Liverpool,1.4,1.2,1–1,2020-2021,1216
+8,Sun,08/11/2020,19:15,Arsenal,Aston Villa,1.5,1.8,0–3,2020-2021,1217
+9,Sat,21/11/2020,12:30,Newcastle Utd,Chelsea,0.3,1.5,0–2,2020-2021,1218
+9,Sat,21/11/2020,15:00,Aston Villa,Brighton,1.5,1.4,1–2,2020-2021,1219
+9,Sat,21/11/2020,17:30,Tottenham,Manchester City,0.7,1.4,2–0,2020-2021,1220
+9,Sat,21/11/2020,20:00,Manchester Utd,West Brom,2.4,0.6,1–0,2020-2021,1221
+9,Sun,22/11/2020,12:00,Fulham,Everton,1.9,2,2–3,2020-2021,1222
+9,Sun,22/11/2020,14:00,Sheffield Utd,West Ham,0.9,2.1,0–1,2020-2021,1223
+9,Sun,22/11/2020,16:30,Leeds United,Arsenal,1.8,0.9,0–0,2020-2021,1224
+9,Sun,22/11/2020,19:15,Liverpool,Leicester City,3.1,1.6,3–0,2020-2021,1225
+9,Mon,23/11/2020,17:30,Burnley,Crystal Palace,1.5,1.5,1–0,2020-2021,1226
+9,Mon,23/11/2020,20:00,Wolves,Southampton,1.5,1,1–1,2020-2021,1227
+10,Fri,27/11/2020,20:00,Crystal Palace,Newcastle Utd,0.6,1.3,0–2,2020-2021,1228
+10,Sat,28/11/2020,12:30,Brighton,Liverpool,2.3,0.2,1–1,2020-2021,1229
+10,Sat,28/11/2020,15:00,Manchester City,Burnley,1.7,0.5,5–0,2020-2021,1230
+10,Sat,28/11/2020,17:30,Everton,Leeds United,1.2,2.9,0–1,2020-2021,1231
+10,Sat,28/11/2020,20:00,West Brom,Sheffield Utd,1.2,2.9,1–0,2020-2021,1232
+10,Sun,29/11/2020,14:00,Southampton,Manchester Utd,0.5,2.1,2–3,2020-2021,1233
+10,Sun,29/11/2020,16:30,Chelsea,Tottenham,0.8,0.2,0–0,2020-2021,1234
+10,Sun,29/11/2020,19:15,Arsenal,Wolves,1.5,1.8,1–2,2020-2021,1235
+10,Mon,30/11/2020,17:30,Leicester City,Fulham,1.2,2.2,1–2,2020-2021,1236
+10,Mon,30/11/2020,20:00,West Ham,Aston Villa,0.4,2.5,2–1,2020-2021,1237
+11,Sat,05/12/2020,12:30,Burnley,Everton,0.8,2.2,1–1,2020-2021,1238
+11,Sat,05/12/2020,15:00,Manchester City,Fulham,2.9,0.3,2–0,2020-2021,1239
+11,Sat,05/12/2020,17:30,West Ham,Manchester Utd,2,1.7,1–3,2020-2021,1240
+11,Sat,05/12/2020,20:00,Chelsea,Leeds United,4.1,0.8,3–1,2020-2021,1241
+11,Sun,06/12/2020,12:00,West Brom,Crystal Palace,0.7,1.6,1–5,2020-2021,1242
+11,Sun,06/12/2020,14:15,Sheffield Utd,Leicester City,0.2,1.4,1–2,2020-2021,1243
+11,Sun,06/12/2020,16:30,Tottenham,Arsenal,0.3,0.6,2–0,2020-2021,1244
+11,Sun,06/12/2020,19:15,Liverpool,Wolves,1.2,0.4,4–0,2020-2021,1245
+11,Mon,07/12/2020,20:00,Brighton,Southampton,1.9,1.4,1–2,2020-2021,1246
+12,Fri,11/12/2020,20:00,Leeds United,West Ham,1.6,1.3,1–2,2020-2021,1247
+12,Sat,12/12/2020,12:30,Wolves,Aston Villa,1.1,1.4,0–1,2020-2021,1248
+12,Sat,12/12/2020,15:00,Newcastle Utd,West Brom,0.8,0.6,2–1,2020-2021,1249
+12,Sat,12/12/2020,17:30,Manchester Utd,Manchester City,0.6,1.3,0–0,2020-2021,1250
+12,Sat,12/12/2020,20:00,Everton,Chelsea,1.2,0.7,1–0,2020-2021,1251
+12,Sun,13/12/2020,12:00,Southampton,Sheffield Utd,2,0.3,3–0,2020-2021,1252
+12,Sun,13/12/2020,14:15,Crystal Palace,Tottenham,1.6,0.9,1–1,2020-2021,1253
+12,Sun,13/12/2020,16:30,Fulham,Liverpool,1.5,1.8,1–1,2020-2021,1254
+12,Sun,13/12/2020,19:15,Leicester City,Brighton,1.5,0.9,3–0,2020-2021,1255
+12,Sun,13/12/2020,19:15,Arsenal,Burnley,1.6,1.4,0–1,2020-2021,1256
+13,Tue,15/12/2020,18:00,Wolves,Chelsea,0.5,1,2–1,2020-2021,1257
+13,Tue,15/12/2020,20:00,Manchester City,West Brom,2.2,0.4,1–1,2020-2021,1258
+13,Wed,16/12/2020,18:00,Arsenal,Southampton,0.6,1.2,1–1,2020-2021,1259
+13,Wed,16/12/2020,18:00,Leicester City,Everton,0.8,1.4,0–2,2020-2021,1260
+13,Wed,16/12/2020,18:00,Leeds United,Newcastle Utd,2.7,1.5,5–2,2020-2021,1261
+13,Wed,16/12/2020,20:00,Liverpool,Tottenham,1,1.1,2–1,2020-2021,1262
+13,Wed,16/12/2020,20:00,West Ham,Crystal Palace,0.4,1.1,1–1,2020-2021,1263
+13,Wed,16/12/2020,20:00,Fulham,Brighton,1,0.5,0–0,2020-2021,1264
+13,Thu,17/12/2020,18:00,Aston Villa,Burnley,1.5,0.3,0–0,2020-2021,1265
+13,Thu,17/12/2020,20:00,Sheffield Utd,Manchester Utd,1.5,1.9,2–3,2020-2021,1266
+14,Sat,19/12/2020,12:30,Crystal Palace,Liverpool,0.3,2.5,0–7,2020-2021,1267
+14,Sat,19/12/2020,15:00,Southampton,Manchester City,0.7,0.9,0–1,2020-2021,1268
+14,Sat,19/12/2020,17:30,Everton,Arsenal,0.6,1.4,2–1,2020-2021,1269
+14,Sat,19/12/2020,20:00,Newcastle Utd,Fulham,1.4,1,1–1,2020-2021,1270
+14,Sun,20/12/2020,12:00,Brighton,Sheffield Utd,2.8,0.5,1–1,2020-2021,1271
+14,Sun,20/12/2020,14:15,Tottenham,Leicester City,0.7,1.7,0–2,2020-2021,1272
+14,Sun,20/12/2020,16:30,Manchester Utd,Leeds United,3.6,1.8,6–2,2020-2021,1273
+14,Sun,20/12/2020,19:15,West Brom,Aston Villa,0,2.4,0–3,2020-2021,1274
+14,Mon,21/12/2020,17:30,Burnley,Wolves,1.7,1.5,2–1,2020-2021,1275
+14,Mon,21/12/2020,20:00,Chelsea,West Ham,2,0.4,3–0,2020-2021,1276
+15,Sat,26/12/2020,12:30,Leicester City,Manchester Utd,0.9,1.7,2–2,2020-2021,1277
+15,Sat,26/12/2020,15:00,Aston Villa,Crystal Palace,3.9,0.9,3–0,2020-2021,1278
+15,Sat,26/12/2020,15:00,Fulham,Southampton,0.7,0.2,0–0,2020-2021,1279
+15,Sat,26/12/2020,17:30,Arsenal,Chelsea,2,2.6,3–1,2020-2021,1280
+15,Sat,26/12/2020,20:00,Sheffield Utd,Everton,1.4,0.7,0–1,2020-2021,1281
+15,Sat,26/12/2020,20:00,Manchester City,Newcastle Utd,3,0.3,2–0,2020-2021,1282
+15,Sun,27/12/2020,12:00,Leeds United,Burnley,1.9,1.5,1–0,2020-2021,1283
+15,Sun,27/12/2020,14:15,West Ham,Brighton,1.3,1.1,2–2,2020-2021,1284
+15,Sun,27/12/2020,16:30,Liverpool,West Brom,1.5,0.6,1–1,2020-2021,1285
+15,Sun,27/12/2020,19:15,Wolves,Tottenham,0.9,0.4,1–1,2020-2021,1286
+16,Mon,28/12/2020,15:00,Crystal Palace,Leicester City,0.5,1.9,1–1,2020-2021,1287
+16,Mon,28/12/2020,17:30,Chelsea,Aston Villa,1.7,0.7,1–1,2020-2021,1288
+16,Tue,29/12/2020,18:00,West Brom,Leeds United,0.5,1.2,0–5,2020-2021,1289
+16,Tue,29/12/2020,18:00,Southampton,West Ham,0.6,1.2,0–0,2020-2021,1290
+16,Tue,29/12/2020,18:00,Burnley,Sheffield Utd,1,0.7,1–0,2020-2021,1291
+16,Tue,29/12/2020,18:00,Brighton,Arsenal,0.8,1.1,0–1,2020-2021,1292
+16,Tue,29/12/2020,20:00,Manchester Utd,Wolves,1.5,0.5,1–0,2020-2021,1293
+16,Wed,30/12/2020,20:00,Newcastle Utd,Liverpool,0.5,1.4,0–0,2020-2021,1294
+17,Fri,01/01/2021,17:30,Everton,West Ham,0.4,1.3,0–1,2020-2021,1295
+17,Fri,01/01/2021,20:00,Manchester Utd,Aston Villa,2.1,1.4,2–1,2020-2021,1296
+17,Sat,02/01/2021,12:30,Tottenham,Leeds United,2.6,1.1,3–0,2020-2021,1297
+17,Sat,02/01/2021,15:00,Crystal Palace,Sheffield Utd,0.6,0.4,2–0,2020-2021,1298
+17,Sat,02/01/2021,17:30,Brighton,Wolves,2.2,1.6,3–3,2020-2021,1299
+17,Sat,02/01/2021,20:00,West Brom,Arsenal,1,3.7,0–4,2020-2021,1300
+17,Sun,03/01/2021,14:15,Newcastle Utd,Leicester City,0.5,0.6,1–2,2020-2021,1301
+17,Sun,03/01/2021,16:30,Chelsea,Manchester City,0.8,2.7,1–3,2020-2021,1302
+17,Mon,04/01/2021,20:00,Southampton,Liverpool,0.4,1.5,1–0,2020-2021,1303
+18,Tue,12/01/2021,18:00,Sheffield Utd,Newcastle Utd,2.1,0.6,1–0,2020-2021,1304
+1,Tue,12/01/2021,20:15,Burnley,Manchester Utd,0.9,1.2,0–1,2020-2021,1305
+18,Tue,12/01/2021,20:15,Wolves,Everton,0.7,0.6,1–2,2020-2021,1306
+18,Wed,13/01/2021,18:00,Manchester City,Brighton,2,0.2,1–0,2020-2021,1307
+16,Wed,13/01/2021,20:15,Tottenham,Fulham,2.4,1.1,1–1,2020-2021,1308
+18,Thu,14/01/2021,20:00,Arsenal,Crystal Palace,0.4,0.8,0–0,2020-2021,1309
+19,Sat,16/01/2021,12:30,Wolves,West Brom,1.5,2.4,2–3,2020-2021,1310
+19,Sat,16/01/2021,15:00,West Ham,Burnley,1.7,0.5,1–0,2020-2021,1311
+19,Sat,16/01/2021,15:00,Leeds United,Brighton,0.3,1.4,0–1,2020-2021,1312
+19,Sat,16/01/2021,17:30,Fulham,Chelsea,0.7,1.6,0–1,2020-2021,1313
+19,Sat,16/01/2021,20:00,Leicester City,Southampton,2.2,0.6,2–0,2020-2021,1314
+19,Sun,17/01/2021,14:00,Sheffield Utd,Tottenham,0.9,1,1–3,2020-2021,1315
+19,Sun,17/01/2021,16:30,Liverpool,Manchester Utd,1.2,1.1,0–0,2020-2021,1316
+19,Sun,17/01/2021,19:15,Manchester City,Crystal Palace,0.7,0.1,4–0,2020-2021,1317
+19,Mon,18/01/2021,20:00,Arsenal,Newcastle Utd,2.4,0.2,3–0,2020-2021,1318
+18,Tue,19/01/2021,18:00,West Ham,West Brom,2,0.5,2–1,2020-2021,1319
+18,Tue,19/01/2021,20:15,Leicester City,Chelsea,1.4,0.7,2–0,2020-2021,1320
+1,Wed,20/01/2021,18:00,Manchester City,Aston Villa,3.4,0.6,2–0,2020-2021,1321
+18,Wed,20/01/2021,20:15,Fulham,Manchester Utd,0.9,1.7,1–2,2020-2021,1322
+18,Thu,21/01/2021,20:00,Liverpool,Burnley,1.6,1.1,0–1,2020-2021,1323
+11,Sat,23/01/2021,20:00,Aston Villa,Newcastle Utd,2.3,0.5,2–0,2020-2021,1324
+20,Tue,26/01/2021,18:00,Newcastle Utd,Leeds United,1.4,0.7,1–2,2020-2021,1325
+20,Tue,26/01/2021,18:00,Crystal Palace,West Ham,0.7,2.8,2–3,2020-2021,1326
+20,Tue,26/01/2021,20:15,West Brom,Manchester City,0.5,1.8,0–5,2020-2021,1327
+20,Tue,26/01/2021,20:15,Southampton,Arsenal,0.8,2.2,1–3,2020-2021,1328
+20,Wed,27/01/2021,18:00,Chelsea,Wolves,0.7,0.5,0–0,2020-2021,1329
+20,Wed,27/01/2021,18:00,Burnley,Aston Villa,0.5,2.2,3–2,2020-2021,1330
+20,Wed,27/01/2021,19:30,Brighton,Fulham,1.8,0.5,0–0,2020-2021,1331
+20,Wed,27/01/2021,20:15,Everton,Leicester City,0.5,1.2,1–1,2020-2021,1332
+20,Wed,27/01/2021,20:15,Manchester Utd,Sheffield Utd,1.1,1,1–2,2020-2021,1333
+20,Thu,28/01/2021,20:00,Tottenham,Liverpool,0.1,2.5,1–3,2020-2021,1334
+21,Sat,30/01/2021,12:30,Everton,Newcastle Utd,0.8,1.7,0–2,2020-2021,1335
+21,Sat,30/01/2021,15:00,Crystal Palace,Wolves,1.4,0.4,1–0,2020-2021,1336
+21,Sat,30/01/2021,15:00,Manchester City,Sheffield Utd,1.5,0.2,1–0,2020-2021,1337
+21,Sat,30/01/2021,15:00,West Brom,Fulham,1,1.3,2–2,2020-2021,1338
+21,Sat,30/01/2021,17:30,Arsenal,Manchester Utd,0.9,1.6,0–0,2020-2021,1339
+21,Sat,30/01/2021,20:00,Southampton,Aston Villa,1.9,0.6,0–1,2020-2021,1340
+21,Sun,31/01/2021,12:00,Chelsea,Burnley,1.2,0.2,2–0,2020-2021,1341
+21,Sun,31/01/2021,14:00,Leicester City,Leeds United,1.8,2.1,1–3,2020-2021,1342
+21,Sun,31/01/2021,16:30,West Ham,Liverpool,0.8,2,1–3,2020-2021,1343
+21,Sun,31/01/2021,19:15,Brighton,Tottenham,1.6,0.4,1–0,2020-2021,1344
+22,Tue,02/02/2021,18:00,Sheffield Utd,West Brom,1.3,1.6,2–1,2020-2021,1345
+22,Tue,02/02/2021,18:00,Wolves,Arsenal,1.5,0.8,2–1,2020-2021,1346
+22,Tue,02/02/2021,20:15,Manchester Utd,Southampton,4.7,0.5,9–0,2020-2021,1347
+22,Tue,02/02/2021,20:15,Newcastle Utd,Crystal Palace,1.9,0.7,1–2,2020-2021,1348
+22,Wed,03/02/2021,18:00,Burnley,Manchester City,0.1,2,0–2,2020-2021,1349
+22,Wed,03/02/2021,18:00,Fulham,Leicester City,0.6,1.4,0–2,2020-2021,1350
+22,Wed,03/02/2021,19:30,Leeds United,Everton,1.3,1.6,1–2,2020-2021,1351
+22,Wed,03/02/2021,20:15,Liverpool,Brighton,1,1.3,0–1,2020-2021,1352
+22,Wed,03/02/2021,20:15,Aston Villa,West Ham,0.7,1.7,1–3,2020-2021,1353
+22,Thu,04/02/2021,20:00,Tottenham,Chelsea,0.6,1.6,0–1,2020-2021,1354
+23,Sat,06/02/2021,12:30,Aston Villa,Arsenal,1.2,0.8,1–0,2020-2021,1355
+23,Sat,06/02/2021,15:00,Burnley,Brighton,1.8,0.5,1–1,2020-2021,1356
+23,Sat,06/02/2021,15:00,Newcastle Utd,Southampton,0.7,1.3,3–2,2020-2021,1357
+23,Sat,06/02/2021,17:30,Fulham,West Ham,1.5,1,0–0,2020-2021,1358
+23,Sat,06/02/2021,20:00,Manchester Utd,Everton,1.8,1.5,3–3,2020-2021,1359
+23,Sun,07/02/2021,12:00,Tottenham,West Brom,1.5,0.6,2–0,2020-2021,1360
+23,Sun,07/02/2021,14:00,Wolves,Leicester City,1.1,0.8,0–0,2020-2021,1361
+23,Sun,07/02/2021,16:30,Liverpool,Manchester City,1.2,3.5,1–4,2020-2021,1362
+23,Sun,07/02/2021,19:15,Sheffield Utd,Chelsea,0.6,1.6,1–2,2020-2021,1363
+23,Mon,08/02/2021,20:00,Leeds United,Crystal Palace,1.9,0.4,2–0,2020-2021,1364
+24,Sat,13/02/2021,12:30,Leicester City,Liverpool,1.9,1.7,3–1,2020-2021,1365
+24,Sat,13/02/2021,15:00,Crystal Palace,Burnley,0.5,1.4,0–3,2020-2021,1366
+24,Sat,13/02/2021,17:30,Manchester City,Tottenham,2.2,0.3,3–0,2020-2021,1367
+24,Sat,13/02/2021,20:00,Brighton,Aston Villa,2.2,0.1,0–0,2020-2021,1368
+24,Sun,14/02/2021,12:00,Southampton,Wolves,0.8,1.1,1–2,2020-2021,1369
+24,Sun,14/02/2021,14:00,West Brom,Manchester Utd,1,0.5,1–1,2020-2021,1370
+24,Sun,14/02/2021,16:30,Arsenal,Leeds United,2.3,0.9,4–2,2020-2021,1371
+24,Sun,14/02/2021,19:00,Everton,Fulham,0.3,2.5,0–2,2020-2021,1372
+24,Mon,15/02/2021,18:00,West Ham,Sheffield Utd,1.9,0.7,3–0,2020-2021,1373
+24,Mon,15/02/2021,20:00,Chelsea,Newcastle Utd,2.2,0.6,2–0,2020-2021,1374
+17,Wed,17/02/2021,18:00,Burnley,Fulham,0.9,0.5,1–1,2020-2021,1375
+16,Wed,17/02/2021,20:15,Everton,Manchester City,1,1,1–3,2020-2021,1376
+25,Fri,19/02/2021,20:00,Wolves,Leeds United,0.6,1.7,1–0,2020-2021,1377
+25,Sat,20/02/2021,12:30,Southampton,Chelsea,0.6,1.2,1–1,2020-2021,1378
+25,Sat,20/02/2021,15:00,Burnley,West Brom,0.5,1.6,0–0,2020-2021,1379
+25,Sat,20/02/2021,17:30,Liverpool,Everton,1.4,1.6,0–2,2020-2021,1380
+25,Sat,20/02/2021,20:00,Fulham,Sheffield Utd,1.2,0.9,1–0,2020-2021,1381
+25,Sun,21/02/2021,12:00,West Ham,Tottenham,1.1,1.1,2–1,2020-2021,1382
+25,Sun,21/02/2021,14:05,Aston Villa,Leicester City,1.4,1.1,1–2,2020-2021,1383
+25,Sun,21/02/2021,16:30,Arsenal,Manchester City,0.3,1.8,0–1,2020-2021,1384
+25,Sun,21/02/2021,19:00,Manchester Utd,Newcastle Utd,1.7,0.4,3–1,2020-2021,1385
+25,Mon,22/02/2021,20:00,Brighton,Crystal Palace,2.4,0.2,1–2,2020-2021,1386
+18,Tue,23/02/2021,18:00,Leeds United,Southampton,1.3,0.9,3–0,2020-2021,1387
+26,Sat,27/02/2021,12:30,Manchester City,West Ham,0.5,1.5,2–1,2020-2021,1388
+26,Sat,27/02/2021,15:00,West Brom,Brighton,0.8,2.9,1–0,2020-2021,1389
+26,Sat,27/02/2021,17:30,Leeds United,Aston Villa,0.9,0.7,0–1,2020-2021,1390
+26,Sat,27/02/2021,20:00,Newcastle Utd,Wolves,1.7,1.1,1–1,2020-2021,1391
+26,Sun,28/02/2021,12:00,Crystal Palace,Fulham,0.1,1.4,0–0,2020-2021,1392
+26,Sun,28/02/2021,12:00,Leicester City,Arsenal,0.4,2.3,1–3,2020-2021,1393
+26,Sun,28/02/2021,14:00,Tottenham,Burnley,2.1,0.7,4–0,2020-2021,1394
+26,Sun,28/02/2021,16:30,Chelsea,Manchester Utd,1.1,0.4,0–0,2020-2021,1395
+26,Sun,28/02/2021,19:15,Sheffield Utd,Liverpool,0.7,2.7,0–2,2020-2021,1396
+26,Mon,01/03/2021,20:00,Everton,Southampton,1.2,0.6,1–0,2020-2021,1397
+29,Tue,02/03/2021,20:00,Manchester City,Wolves,3.3,0.3,4–1,2020-2021,1398
+29,Wed,03/03/2021,18:00,Sheffield Utd,Aston Villa,0.9,2.3,1–0,2020-2021,1399
+29,Wed,03/03/2021,18:00,Burnley,Leicester City,1.8,1.2,1–1,2020-2021,1400
+29,Wed,03/03/2021,20:15,Crystal Palace,Manchester Utd,0.9,0.9,0–0,2020-2021,1401
+29,Thu,04/03/2021,18:00,West Brom,Everton,1,1,0–1,2020-2021,1402
+33,Thu,04/03/2021,18:00,Fulham,Tottenham,0.7,1.6,0–1,2020-2021,1403
+29,Thu,04/03/2021,20:15,Liverpool,Chelsea,0.3,1,0–1,2020-2021,1404
+27,Sat,06/03/2021,12:30,Burnley,Arsenal,1.1,2.5,1–1,2020-2021,1405
+27,Sat,06/03/2021,15:00,Sheffield Utd,Southampton,0.7,1.9,0–2,2020-2021,1406
+27,Sat,06/03/2021,17:30,Aston Villa,Wolves,0.6,1.6,0–0,2020-2021,1407
+27,Sat,06/03/2021,20:00,Brighton,Leicester City,0.8,0.9,1–2,2020-2021,1408
+27,Sun,07/03/2021,12:00,West Brom,Newcastle Utd,2,0.5,0–0,2020-2021,1409
+27,Sun,07/03/2021,14:00,Liverpool,Fulham,0.9,1.3,0–1,2020-2021,1410
+27,Sun,07/03/2021,16:30,Manchester City,Manchester Utd,1.3,1.7,0–2,2020-2021,1411
+27,Sun,07/03/2021,19:15,Tottenham,Crystal Palace,2.7,0.5,4–1,2020-2021,1412
+27,Mon,08/03/2021,18:00,Chelsea,Everton,2.4,0.3,2–0,2020-2021,1413
+27,Mon,08/03/2021,20:00,West Ham,Leeds United,1.8,1.4,2–0,2020-2021,1414
+33,Wed,10/03/2021,18:00,Manchester City,Southampton,2.6,1.6,5–2,2020-2021,1415
+28,Fri,12/03/2021,20:00,Newcastle Utd,Aston Villa,1.5,0.9,1–1,2020-2021,1416
+28,Sat,13/03/2021,12:30,Leeds United,Chelsea,0.4,1,0–0,2020-2021,1417
+28,Sat,13/03/2021,15:00,Crystal Palace,West Brom,1.2,0.8,1–0,2020-2021,1418
+28,Sat,13/03/2021,17:30,Everton,Burnley,1.5,0.8,1–2,2020-2021,1419
+28,Sat,13/03/2021,20:00,Fulham,Manchester City,0.3,2.2,0–3,2020-2021,1420
+28,Sun,14/03/2021,12:00,Southampton,Brighton,0.6,0.8,1–2,2020-2021,1421
+28,Sun,14/03/2021,14:00,Leicester City,Sheffield Utd,4,0.1,5–0,2020-2021,1422
+28,Sun,14/03/2021,16:30,Arsenal,Tottenham,1.7,0.4,2–1,2020-2021,1423
+28,Sun,14/03/2021,19:15,Manchester Utd,West Ham,1.5,0.6,1–0,2020-2021,1424
+28,Mon,15/03/2021,20:00,Wolves,Liverpool,1.1,0.9,0–1,2020-2021,1425
+29,Fri,19/03/2021,20:00,Fulham,Leeds United,1.6,1.3,1–2,2020-2021,1426
+29,Sat,20/03/2021,20:00,Brighton,Newcastle Utd,0.9,0.1,3–0,2020-2021,1427
+29,Sun,21/03/2021,15:00,West Ham,Arsenal,2.4,1.4,3–3,2020-2021,1428
+18,Sun,21/03/2021,19:30,Aston Villa,Tottenham,0.4,1.8,0–2,2020-2021,1429
+30,Sat,03/04/2021,12:30,Chelsea,West Brom,2.1,1.6,2–5,2020-2021,1430
+30,Sat,03/04/2021,15:00,Leeds United,Sheffield Utd,2.4,1.1,2–1,2020-2021,1431
+30,Sat,03/04/2021,17:30,Leicester City,Manchester City,0.3,1.4,0–2,2020-2021,1432
+30,Sat,03/04/2021,20:00,Arsenal,Liverpool,0.1,2.4,0–3,2020-2021,1433
+30,Sun,04/04/2021,12:00,Southampton,Burnley,2.2,1.5,3–2,2020-2021,1434
+30,Sun,04/04/2021,14:05,Newcastle Utd,Tottenham,3.4,2.7,2–2,2020-2021,1435
+30,Sun,04/04/2021,16:30,Aston Villa,Fulham,1.5,1,3–1,2020-2021,1436
+30,Sun,04/04/2021,19:30,Manchester Utd,Brighton,1.5,1.2,2–1,2020-2021,1437
+30,Mon,05/04/2021,18:00,Everton,Crystal Palace,2.5,0.7,1–1,2020-2021,1438
+30,Mon,05/04/2021,20:15,Wolves,West Ham,2.1,1.3,2–3,2020-2021,1439
+31,Fri,09/04/2021,20:00,Fulham,Wolves,0.9,0.5,0–1,2020-2021,1440
+31,Sat,10/04/2021,12:30,Manchester City,Leeds United,2.1,0.1,1–2,2020-2021,1441
+31,Sat,10/04/2021,15:00,Liverpool,Aston Villa,2.3,0.5,2–1,2020-2021,1442
+31,Sat,10/04/2021,17:30,Crystal Palace,Chelsea,0.4,3.1,1–4,2020-2021,1443
+31,Sun,11/04/2021,12:00,Burnley,Newcastle Utd,2,1.2,1–2,2020-2021,1444
+31,Sun,11/04/2021,14:05,West Ham,Leicester City,0.8,0.9,3–2,2020-2021,1445
+31,Sun,11/04/2021,16:30,Tottenham,Manchester Utd,0.9,2.1,1–3,2020-2021,1446
+31,Sun,11/04/2021,19:00,Sheffield Utd,Arsenal,0.3,1.7,0–3,2020-2021,1447
+31,Mon,12/04/2021,18:00,West Brom,Southampton,3,1.5,3–0,2020-2021,1448
+31,Mon,12/04/2021,20:15,Brighton,Everton,1.2,0.4,0–0,2020-2021,1449
+32,Fri,16/04/2021,20:00,Everton,Tottenham,1.8,1.4,2–2,2020-2021,1450
+32,Sat,17/04/2021,12:30,Newcastle Utd,West Ham,2.2,1.9,3–2,2020-2021,1451
+32,Sat,17/04/2021,20:15,Wolves,Sheffield Utd,1.1,0.5,1–0,2020-2021,1452
+32,Sun,18/04/2021,13:30,Arsenal,Fulham,2.7,0.9,1–1,2020-2021,1453
+32,Sun,18/04/2021,16:00,Manchester Utd,Burnley,2.5,0.9,3–1,2020-2021,1454
+32,Mon,19/04/2021,20:00,Leeds United,Liverpool,2.3,1.4,1–1,2020-2021,1455
+32,Tue,20/04/2021,20:15,Chelsea,Brighton,0.7,0.5,0–0,2020-2021,1456
+29,Wed,21/04/2021,18:00,Tottenham,Southampton,1.4,0.8,2–1,2020-2021,1457
+32,Wed,21/04/2021,20:15,Aston Villa,Manchester City,0.7,1.2,1–2,2020-2021,1458
+32,Thu,22/04/2021,20:00,Leicester City,West Brom,2.1,0.5,3–0,2020-2021,1459
+33,Fri,23/04/2021,20:00,Arsenal,Everton,0.8,0.5,0–1,2020-2021,1460
+33,Sat,24/04/2021,12:30,Liverpool,Newcastle Utd,2.4,1,1–1,2020-2021,1461
+33,Sat,24/04/2021,17:30,West Ham,Chelsea,0.4,2.5,0–1,2020-2021,1462
+33,Sat,24/04/2021,20:00,Sheffield Utd,Brighton,0.7,2,1–0,2020-2021,1463
+33,Sun,25/04/2021,12:00,Wolves,Burnley,0.4,2,0–4,2020-2021,1464
+33,Sun,25/04/2021,14:00,Leeds United,Manchester Utd,0.3,1.2,0–0,2020-2021,1465
+33,Sun,25/04/2021,19:00,Aston Villa,West Brom,3.2,1.5,2–2,2020-2021,1466
+33,Mon,26/04/2021,20:00,Leicester City,Crystal Palace,1.5,0.7,2–1,2020-2021,1467
+34,Fri,30/04/2021,20:00,Southampton,Leicester City,0.9,1.9,1–1,2020-2021,1468
+34,Sat,01/05/2021,12:30,Crystal Palace,Manchester City,0.9,1.7,0–2,2020-2021,1469
+34,Sat,01/05/2021,15:00,Brighton,Leeds United,2.3,0.6,2–0,2020-2021,1470
+34,Sat,01/05/2021,17:30,Chelsea,Fulham,1.7,0.3,2–0,2020-2021,1471
+34,Sat,01/05/2021,20:00,Everton,Aston Villa,1,1.6,1–2,2020-2021,1472
+34,Sun,02/05/2021,14:00,Newcastle Utd,Arsenal,0.3,2,0–2,2020-2021,1473
+34,Sun,02/05/2021,19:15,Tottenham,Sheffield Utd,2.2,0.5,4–0,2020-2021,1474
+34,Mon,03/05/2021,18:00,West Brom,Wolves,1.1,1,1–1,2020-2021,1475
+34,Mon,03/05/2021,20:15,Burnley,West Ham,2,2.3,1–2,2020-2021,1476
+35,Fri,07/05/2021,20:00,Leicester City,Newcastle Utd,2.2,2.7,2–4,2020-2021,1477
+35,Sat,08/05/2021,12:30,Leeds United,Tottenham,2.5,0.9,3–1,2020-2021,1478
+35,Sat,08/05/2021,15:00,Sheffield Utd,Crystal Palace,0.7,2,0–2,2020-2021,1479
+35,Sat,08/05/2021,17:30,Manchester City,Chelsea,1.8,0.7,1–2,2020-2021,1480
+35,Sat,08/05/2021,20:15,Liverpool,Southampton,1.7,1.1,2–0,2020-2021,1481
+35,Sun,09/05/2021,12:00,Wolves,Brighton,1.1,0.3,2–1,2020-2021,1482
+35,Sun,09/05/2021,14:05,Aston Villa,Manchester Utd,0.5,1.7,1–3,2020-2021,1483
+35,Sun,09/05/2021,16:30,West Ham,Everton,1.3,1.5,0–1,2020-2021,1484
+35,Sun,09/05/2021,19:00,Arsenal,West Brom,0.9,1.8,3–1,2020-2021,1485
+35,Mon,10/05/2021,20:00,Fulham,Burnley,1,1.5,0–2,2020-2021,1486
+36,Tue,11/05/2021,18:00,Manchester Utd,Leicester City,0.2,0.9,1–2,2020-2021,1487
+32,Tue,11/05/2021,20:15,Southampton,Crystal Palace,1.2,1.5,3–1,2020-2021,1488
+36,Wed,12/05/2021,20:15,Chelsea,Arsenal,1.8,0.6,0–1,2020-2021,1489
+19,Thu,13/05/2021,18:00,Aston Villa,Everton,0.6,1,0–0,2020-2021,1490
+34,Thu,13/05/2021,20:15,Manchester Utd,Liverpool,1.9,2.7,2–4,2020-2021,1491
+36,Fri,14/05/2021,20:00,Newcastle Utd,Manchester City,2.2,1.5,3–4,2020-2021,1492
+36,Sat,15/05/2021,12:30,Burnley,Leeds United,1.3,1.5,0–4,2020-2021,1493
+36,Sat,15/05/2021,15:00,Southampton,Fulham,1.6,0.8,3–1,2020-2021,1494
+36,Sat,15/05/2021,20:00,Brighton,West Ham,0.8,1.7,1–1,2020-2021,1495
+36,Sun,16/05/2021,12:00,Crystal Palace,Aston Villa,1.9,1.4,3–2,2020-2021,1496
+36,Sun,16/05/2021,14:05,Tottenham,Wolves,3.2,0.9,2–0,2020-2021,1497
+36,Sun,16/05/2021,16:30,West Brom,Liverpool,1,1.9,1–2,2020-2021,1498
+36,Sun,16/05/2021,19:00,Everton,Sheffield Utd,1.4,1.2,0–1,2020-2021,1499
+37,Tue,18/05/2021,18:00,Manchester Utd,Fulham,0.9,0.9,1–1,2020-2021,1500
+37,Tue,18/05/2021,18:00,Southampton,Leeds United,1.6,1.7,0–2,2020-2021,1501
+37,Tue,18/05/2021,19:00,Brighton,Manchester City,1.1,0.9,3–2,2020-2021,1502
+37,Tue,18/05/2021,20:15,Chelsea,Leicester City,3.1,0.8,2–1,2020-2021,1503
+37,Wed,19/05/2021,18:00,Newcastle Utd,Sheffield Utd,1.6,0.9,1–0,2020-2021,1504
+37,Wed,19/05/2021,18:00,Tottenham,Aston Villa,0.8,1.4,1–2,2020-2021,1505
+37,Wed,19/05/2021,18:00,Everton,Wolves,0.7,0.3,1–0,2020-2021,1506
+37,Wed,19/05/2021,19:00,Crystal Palace,Arsenal,1,1.8,1–3,2020-2021,1507
+37,Wed,19/05/2021,20:15,Burnley,Liverpool,0.8,2.6,0–3,2020-2021,1508
+37,Wed,19/05/2021,20:15,West Brom,West Ham,1.1,3.4,1–3,2020-2021,1509
+38,Sun,23/05/2021,16:00,Aston Villa,Chelsea,1.1,3.3,2–1,2020-2021,1510
+38,Sun,23/05/2021,16:00,Leicester City,Tottenham,1.9,1.5,2–4,2020-2021,1511
+38,Sun,23/05/2021,16:00,Manchester City,Everton,2.5,1.1,5–0,2020-2021,1512
+38,Sun,23/05/2021,16:00,Sheffield Utd,Burnley,0.5,1.1,1–0,2020-2021,1513
+38,Sun,23/05/2021,16:00,Wolves,Manchester Utd,0.9,2,1–2,2020-2021,1514
+38,Sun,23/05/2021,16:00,West Ham,Southampton,1.3,1.5,3–0,2020-2021,1515
+38,Sun,23/05/2021,16:00,Leeds United,West Brom,2.3,1,3–1,2020-2021,1516
+38,Sun,23/05/2021,16:00,Arsenal,Brighton,0.8,0.2,2–0,2020-2021,1517
+38,Sun,23/05/2021,16:00,Liverpool,Crystal Palace,1.6,0.6,2–0,2020-2021,1518
+38,Sun,23/05/2021,16:00,Fulham,Newcastle Utd,1,1.3,0–2,2020-2021,1519
+1,Fri,13/08/2021,20:00,Brentford,Arsenal,1.2,1.3,2–0,2021-2022,1520
+1,Sat,14/08/2021,12:30,Manchester Utd,Leeds United,1.5,0.5,5–1,2021-2022,1521
+1,Sat,14/08/2021,15:00,Leicester City,Wolves,0.5,1.3,1–0,2021-2022,1522
+1,Sat,14/08/2021,15:00,Burnley,Brighton,1.5,1,1–2,2021-2022,1523
+1,Sat,14/08/2021,15:00,Chelsea,Crystal Palace,0.7,0.2,3–0,2021-2022,1524
+1,Sat,14/08/2021,15:00,Watford,Aston Villa,1.2,1.2,3–2,2021-2022,1525
+1,Sat,14/08/2021,15:00,Everton,Southampton,2.4,0.8,3–1,2021-2022,1526
+1,Sat,14/08/2021,17:30,Norwich City,Liverpool,1.4,1.6,0–3,2021-2022,1527
+1,Sun,15/08/2021,14:00,Newcastle Utd,West Ham,1.8,2.7,2–4,2021-2022,1528
+1,Sun,15/08/2021,16:30,Tottenham,Manchester City,1,1.8,1–0,2021-2022,1529
+2,Sat,21/08/2021,12:30,Liverpool,Burnley,2.7,0.9,2–0,2021-2022,1530
+2,Sat,21/08/2021,15:00,Aston Villa,Newcastle Utd,1.2,0.7,2–0,2021-2022,1531
+2,Sat,21/08/2021,15:00,Manchester City,Norwich City,2.6,0.1,5–0,2021-2022,1532
+2,Sat,21/08/2021,15:00,Leeds United,Everton,1.2,1.8,2–2,2021-2022,1533
+2,Sat,21/08/2021,15:00,Crystal Palace,Brentford,0.5,0.9,0–0,2021-2022,1534
+2,Sat,21/08/2021,17:30,Brighton,Watford,1.3,0.5,2–0,2021-2022,1535
+2,Sun,22/08/2021,14:00,Wolves,Tottenham,1.7,1.7,0–1,2021-2022,1536
+2,Sun,22/08/2021,14:00,Southampton,Manchester Utd,0.7,1.8,1–1,2021-2022,1537
+2,Sun,22/08/2021,16:30,Arsenal,Chelsea,0.3,3.1,0–2,2021-2022,1538
+2,Mon,23/08/2021,20:00,West Ham,Leicester City,2.3,0.6,4–1,2021-2022,1539
+3,Sat,28/08/2021,12:30,Manchester City,Arsenal,4.4,0.2,5–0,2021-2022,1540
+3,Sat,28/08/2021,15:00,Norwich City,Leicester City,1.5,1.5,1–2,2021-2022,1541
+3,Sat,28/08/2021,15:00,West Ham,Crystal Palace,1.3,1.1,2–2,2021-2022,1542
+3,Sat,28/08/2021,15:00,Aston Villa,Brentford,0.7,0.9,1–1,2021-2022,1543
+3,Sat,28/08/2021,15:00,Newcastle Utd,Southampton,1,3.6,2–2,2021-2022,1544
+3,Sat,28/08/2021,15:00,Brighton,Everton,0.7,1.4,0–2,2021-2022,1545
+3,Sat,28/08/2021,17:30,Liverpool,Chelsea,2.5,0.6,1–1,2021-2022,1546
+3,Sun,29/08/2021,14:00,Burnley,Leeds United,1,1.2,1–1,2021-2022,1547
+3,Sun,29/08/2021,14:00,Tottenham,Watford,1,0.8,1–0,2021-2022,1548
+3,Sun,29/08/2021,16:30,Wolves,Manchester Utd,2.1,0.6,0–1,2021-2022,1549
+4,Sat,11/09/2021,12:30,Crystal Palace,Tottenham,2.1,0.1,3–0,2021-2022,1550
+4,Sat,11/09/2021,15:00,Watford,Wolves,0.2,2.2,0–2,2021-2022,1551
+4,Sat,11/09/2021,15:00,Brentford,Brighton,0.4,0.3,0–1,2021-2022,1552
+4,Sat,11/09/2021,15:00,Arsenal,Norwich City,2.7,0.7,1–0,2021-2022,1553
+4,Sat,11/09/2021,15:00,Manchester Utd,Newcastle Utd,2.5,0.4,4–1,2021-2022,1554
+4,Sat,11/09/2021,15:00,Leicester City,Manchester City,0.6,2.8,0–1,2021-2022,1555
+4,Sat,11/09/2021,15:00,Southampton,West Ham,0.7,0.7,0–0,2021-2022,1556
+4,Sat,11/09/2021,17:30,Chelsea,Aston Villa,1.3,1.2,3–0,2021-2022,1557
+4,Sun,12/09/2021,16:30,Leeds United,Liverpool,1.2,4.3,0–3,2021-2022,1558
+4,Mon,13/09/2021,20:00,Everton,Burnley,1.4,1,3–1,2021-2022,1559
+5,Fri,17/09/2021,20:00,Newcastle Utd,Leeds United,1.3,1.5,1–1,2021-2022,1560
+5,Sat,18/09/2021,12:30,Wolves,Brentford,0.6,2.5,0–2,2021-2022,1561
+5,Sat,18/09/2021,15:00,Manchester City,Southampton,1,0.4,0–0,2021-2022,1562
+5,Sat,18/09/2021,15:00,Liverpool,Crystal Palace,3.1,0.6,3–0,2021-2022,1563
+5,Sat,18/09/2021,15:00,Norwich City,Watford,1,2.4,1–3,2021-2022,1564
+5,Sat,18/09/2021,15:00,Burnley,Arsenal,1,1.1,0–1,2021-2022,1565
+5,Sat,18/09/2021,17:30,Aston Villa,Everton,0.8,0.7,3–0,2021-2022,1566
+5,Sun,19/09/2021,14:00,West Ham,Manchester Utd,1.6,2,1–2,2021-2022,1567
+5,Sun,19/09/2021,14:00,Brighton,Leicester City,1.7,1.6,2–1,2021-2022,1568
+5,Sun,19/09/2021,16:30,Tottenham,Chelsea,0.5,2.1,0–3,2021-2022,1569
+6,Sat,25/09/2021,12:30,Manchester Utd,Aston Villa,2.2,1,0–1,2021-2022,1570
+6,Sat,25/09/2021,12:30,Chelsea,Manchester City,0.2,1.7,0–1,2021-2022,1571
+6,Sat,25/09/2021,15:00,Leicester City,Burnley,2.4,0.5,2–2,2021-2022,1572
+6,Sat,25/09/2021,15:00,Leeds United,West Ham,1.2,1.6,1–2,2021-2022,1573
+6,Sat,25/09/2021,15:00,Watford,Newcastle Utd,0.9,1.9,1–1,2021-2022,1574
+6,Sat,25/09/2021,15:00,Everton,Norwich City,1.9,0.5,2–0,2021-2022,1575
+6,Sat,25/09/2021,17:30,Brentford,Liverpool,2.1,2.8,3–3,2021-2022,1576
+6,Sun,26/09/2021,14:00,Southampton,Wolves,1,1,0–1,2021-2022,1577
+6,Sun,26/09/2021,16:30,Arsenal,Tottenham,1.1,1,3–1,2021-2022,1578
+6,Mon,27/09/2021,20:00,Crystal Palace,Brighton,1.4,0.8,1–1,2021-2022,1579
+7,Sat,02/10/2021,12:30,Manchester Utd,Everton,1,1.3,1–1,2021-2022,1580
+7,Sat,02/10/2021,15:00,Wolves,Newcastle Utd,1,0.6,2–1,2021-2022,1581
+7,Sat,02/10/2021,15:00,Burnley,Norwich City,1.2,0.6,0–0,2021-2022,1582
+7,Sat,02/10/2021,15:00,Chelsea,Southampton,3.3,1.3,3–1,2021-2022,1583
+7,Sat,02/10/2021,15:00,Leeds United,Watford,1.3,0.2,1–0,2021-2022,1584
+7,Sat,02/10/2021,17:30,Brighton,Arsenal,1.1,0.4,0–0,2021-2022,1585
+7,Sun,03/10/2021,14:00,Tottenham,Aston Villa,1.3,1.2,2–1,2021-2022,1586
+7,Sun,03/10/2021,14:00,Crystal Palace,Leicester City,1.5,1.2,2–2,2021-2022,1587
+7,Sun,03/10/2021,14:00,West Ham,Brentford,1.5,1.2,1–2,2021-2022,1588
+7,Sun,03/10/2021,16:30,Liverpool,Manchester City,0.9,1.2,2–2,2021-2022,1589
+8,Sat,16/10/2021,12:30,Watford,Liverpool,0.5,3.3,0–5,2021-2022,1590
+8,Sat,16/10/2021,15:00,Leicester City,Manchester Utd,2.4,1.2,4–2,2021-2022,1591
+8,Sat,16/10/2021,15:00,Manchester City,Burnley,2.1,0.9,2–0,2021-2022,1592
+8,Sat,16/10/2021,15:00,Southampton,Leeds United,1.9,0.2,1–0,2021-2022,1593
+8,Sat,16/10/2021,15:00,Aston Villa,Wolves,1,2,2–3,2021-2022,1594
+8,Sat,16/10/2021,15:00,Norwich City,Brighton,1.2,0.8,0–0,2021-2022,1595
+8,Sat,16/10/2021,17:30,Brentford,Chelsea,1.4,0.3,0–1,2021-2022,1596
+8,Sun,17/10/2021,14:00,Everton,West Ham,0.9,1.2,0–1,2021-2022,1597
+8,Sun,17/10/2021,16:30,Newcastle Utd,Tottenham,0.4,1.7,2–3,2021-2022,1598
+8,Mon,18/10/2021,20:00,Arsenal,Crystal Palace,1.7,0.7,2–2,2021-2022,1599
+9,Fri,22/10/2021,20:00,Arsenal,Aston Villa,2.7,1.4,3–1,2021-2022,1600
+9,Sat,23/10/2021,12:30,Chelsea,Norwich City,3.1,0.1,7–0,2021-2022,1601
+9,Sat,23/10/2021,15:00,Leeds United,Wolves,1.6,0.9,1–1,2021-2022,1602
+9,Sat,23/10/2021,15:00,Crystal Palace,Newcastle Utd,1.9,0.3,1–1,2021-2022,1603
+9,Sat,23/10/2021,15:00,Everton,Watford,1.5,3.7,2–5,2021-2022,1604
+9,Sat,23/10/2021,15:00,Southampton,Burnley,1.6,0.7,2–2,2021-2022,1605
+9,Sat,23/10/2021,17:30,Brighton,Manchester City,1.3,3.8,1–4,2021-2022,1606
+9,Sun,24/10/2021,14:00,West Ham,Tottenham,1.3,0.7,1–0,2021-2022,1607
+9,Sun,24/10/2021,14:00,Brentford,Leicester City,1,1.5,1–2,2021-2022,1608
+9,Sun,24/10/2021,16:30,Manchester Utd,Liverpool,1.6,3.4,0–5,2021-2022,1609
+10,Sat,30/10/2021,12:30,Leicester City,Arsenal,1.3,0.7,0–2,2021-2022,1610
+10,Sat,30/10/2021,15:00,Newcastle Utd,Chelsea,0.2,2.2,0–3,2021-2022,1611
+10,Sat,30/10/2021,15:00,Liverpool,Brighton,1.5,1,2–2,2021-2022,1612
+10,Sat,30/10/2021,15:00,Burnley,Brentford,2.3,0.8,3–1,2021-2022,1613
+10,Sat,30/10/2021,15:00,Watford,Southampton,1,1.8,0–1,2021-2022,1614
+10,Sat,30/10/2021,15:00,Manchester City,Crystal Palace,0.7,0.7,0–2,2021-2022,1615
+10,Sat,30/10/2021,17:30,Tottenham,Manchester Utd,1,1.5,0–3,2021-2022,1616
+10,Sun,31/10/2021,14:00,Norwich City,Leeds United,0.8,0.7,1–2,2021-2022,1617
+10,Sun,31/10/2021,16:30,Aston Villa,West Ham,0.7,2.3,1–4,2021-2022,1618
+10,Mon,01/11/2021,20:00,Wolves,Everton,1.7,1.5,2–1,2021-2022,1619
+11,Fri,05/11/2021,20:00,Southampton,Aston Villa,0.6,0.6,1–0,2021-2022,1620
+11,Sat,06/11/2021,12:30,Manchester Utd,Manchester City,0.9,1.6,0–2,2021-2022,1621
+11,Sat,06/11/2021,15:00,Brentford,Norwich City,2.5,1.2,1–2,2021-2022,1622
+11,Sat,06/11/2021,15:00,Chelsea,Burnley,1.8,0.7,1–1,2021-2022,1623
+11,Sat,06/11/2021,15:00,Crystal Palace,Wolves,1.9,0.3,2–0,2021-2022,1624
+11,Sat,06/11/2021,17:30,Brighton,Newcastle Utd,1.5,0.3,1–1,2021-2022,1625
+11,Sun,07/11/2021,14:00,Everton,Tottenham,0.6,0.7,0–0,2021-2022,1626
+11,Sun,07/11/2021,14:00,Leeds United,Leicester City,1.3,0.7,1–1,2021-2022,1627
+11,Sun,07/11/2021,14:00,Arsenal,Watford,1.6,0.5,1–0,2021-2022,1628
+11,Sun,07/11/2021,16:30,West Ham,Liverpool,1,1.2,3–2,2021-2022,1629
+12,Sat,20/11/2021,12:30,Leicester City,Chelsea,0.4,2,0–3,2021-2022,1630
+12,Sat,20/11/2021,15:00,Wolves,West Ham,1.4,0.4,1–0,2021-2022,1631
+12,Sat,20/11/2021,15:00,Watford,Manchester Utd,2.7,1.4,4–1,2021-2022,1632
+12,Sat,20/11/2021,15:00,Norwich City,Southampton,0.5,1,2–1,2021-2022,1633
+12,Sat,20/11/2021,15:00,Aston Villa,Brighton,0.7,0.4,2–0,2021-2022,1634
+12,Sat,20/11/2021,15:00,Newcastle Utd,Brentford,1.5,0.9,3–3,2021-2022,1635
+12,Sat,20/11/2021,15:00,Burnley,Crystal Palace,1.5,1.9,3–3,2021-2022,1636
+12,Sat,20/11/2021,17:30,Liverpool,Arsenal,4.3,0.4,4–0,2021-2022,1637
+12,Sun,21/11/2021,14:00,Manchester City,Everton,2.5,0.2,3–0,2021-2022,1638
+12,Sun,21/11/2021,16:30,Tottenham,Leeds United,2.1,1.4,2–1,2021-2022,1639
+13,Sat,27/11/2021,12:30,Arsenal,Newcastle Utd,2.5,0.3,2–0,2021-2022,1640
+13,Sat,27/11/2021,15:00,Crystal Palace,Aston Villa,1,0.5,1–2,2021-2022,1641
+13,Sat,27/11/2021,15:00,Liverpool,Southampton,2.9,1,4–0,2021-2022,1642
+13,Sat,27/11/2021,15:00,Norwich City,Wolves,1.6,0.3,0–0,2021-2022,1643
+13,Sat,27/11/2021,17:30,Brighton,Leeds United,2.1,0.6,0–0,2021-2022,1644
+13,Sun,28/11/2021,14:00,Brentford,Everton,1.2,1,1–0,2021-2022,1645
+13,Sun,28/11/2021,14:00,Leicester City,Watford,2.1,2.8,4–2,2021-2022,1646
+13,Sun,28/11/2021,14:00,Manchester City,West Ham,2.1,0.2,2–1,2021-2022,1647
+13,Sun,28/11/2021,16:30,Chelsea,Manchester Utd,2.7,0.9,1–1,2021-2022,1648
+14,Tue,30/11/2021,19:30,Newcastle Utd,Norwich City,1.1,1.2,1–1,2021-2022,1649
+14,Tue,30/11/2021,20:15,Leeds United,Crystal Palace,1.4,1.1,1–0,2021-2022,1650
+14,Wed,01/12/2021,19:30,Southampton,Leicester City,1.5,1.5,2–2,2021-2022,1651
+14,Wed,01/12/2021,19:30,West Ham,Brighton,1.3,1.3,1–1,2021-2022,1652
+14,Wed,01/12/2021,19:30,Wolves,Burnley,0.7,0.2,0–0,2021-2022,1653
+14,Wed,01/12/2021,19:30,Watford,Chelsea,1,0.9,1–2,2021-2022,1654
+14,Wed,01/12/2021,20:15,Aston Villa,Manchester City,0.8,1,1–2,2021-2022,1655
+14,Wed,01/12/2021,20:15,Everton,Liverpool,0.7,2.4,1–4,2021-2022,1656
+14,Thu,02/12/2021,19:30,Tottenham,Brentford,1.9,0.3,2–0,2021-2022,1657
+14,Thu,02/12/2021,20:15,Manchester Utd,Arsenal,1.9,1.4,3–2,2021-2022,1658
+15,Sat,04/12/2021,12:30,West Ham,Chelsea,1.8,1.1,3–2,2021-2022,1659
+15,Sat,04/12/2021,15:00,Newcastle Utd,Burnley,1,0.6,1–0,2021-2022,1660
+15,Sat,04/12/2021,15:00,Southampton,Brighton,1.6,1.6,1–1,2021-2022,1661
+15,Sat,04/12/2021,15:00,Wolves,Liverpool,0.1,2.7,0–1,2021-2022,1662
+15,Sat,04/12/2021,17:30,Watford,Manchester City,0.8,3.1,1–3,2021-2022,1663
+15,Sun,05/12/2021,14:00,Leeds United,Brentford,1.2,1,2–2,2021-2022,1664
+15,Sun,05/12/2021,14:00,Tottenham,Norwich City,1.6,1.2,3–0,2021-2022,1665
+15,Sun,05/12/2021,14:00,Manchester Utd,Crystal Palace,0.9,0.5,1–0,2021-2022,1666
+15,Sun,05/12/2021,16:30,Aston Villa,Leicester City,2.1,1.1,2–1,2021-2022,1667
+15,Mon,06/12/2021,20:00,Everton,Arsenal,0.9,1,2–1,2021-2022,1668
+16,Fri,10/12/2021,20:00,Brentford,Watford,1.6,0.5,2–1,2021-2022,1669
+16,Sat,11/12/2021,12:30,Manchester City,Wolves,3.2,0.2,1–0,2021-2022,1670
+16,Sat,11/12/2021,15:00,Liverpool,Aston Villa,2.2,0.2,1–0,2021-2022,1671
+16,Sat,11/12/2021,15:00,Arsenal,Southampton,1.8,0.6,3–0,2021-2022,1672
+16,Sat,11/12/2021,15:00,Chelsea,Leeds United,2.5,1.4,3–2,2021-2022,1673
+16,Sat,11/12/2021,17:30,Norwich City,Manchester Utd,1.2,2,0–1,2021-2022,1674
+16,Sun,12/12/2021,14:00,Burnley,West Ham,0.8,0.8,0–0,2021-2022,1675
+16,Sun,12/12/2021,14:00,Leicester City,Newcastle Utd,2.6,1,4–0,2021-2022,1676
+16,Sun,12/12/2021,16:30,Crystal Palace,Everton,1.8,1,3–1,2021-2022,1677
+17,Tue,14/12/2021,19:45,Norwich City,Aston Villa,0.5,2,0–2,2021-2022,1678
+17,Tue,14/12/2021,20:00,Manchester City,Leeds United,3.1,0.3,7–0,2021-2022,1679
+17,Wed,15/12/2021,19:30,Brighton,Wolves,1.2,1,0–1,2021-2022,1680
+17,Wed,15/12/2021,19:30,Crystal Palace,Southampton,1.2,0.6,2–2,2021-2022,1681
+17,Wed,15/12/2021,20:00,Arsenal,West Ham,2.8,0.4,2–0,2021-2022,1682
+17,Thu,16/12/2021,19:45,Chelsea,Everton,2.9,0.6,1–1,2021-2022,1683
+17,Thu,16/12/2021,20:00,Liverpool,Newcastle Utd,2.7,0.3,3–1,2021-2022,1684
+18,Sat,18/12/2021,17:30,Leeds United,Arsenal,1.6,3.5,1–4,2021-2022,1685
+18,Sun,19/12/2021,14:00,Wolves,Chelsea,0.2,0.9,0–0,2021-2022,1686
+18,Sun,19/12/2021,14:15,Newcastle Utd,Manchester City,0.3,2.9,0–4,2021-2022,1687
+18,Sun,19/12/2021,16:30,Tottenham,Liverpool,3,1.1,2–2,2021-2022,1688
+19,Sun,26/12/2021,15:00,West Ham,Southampton,1.6,1.2,2–3,2021-2022,1689
+19,Sun,26/12/2021,15:00,Manchester City,Leicester City,3.6,2.7,6–3,2021-2022,1690
+19,Sun,26/12/2021,15:00,Norwich City,Arsenal,0.1,2.5,0–5,2021-2022,1691
+19,Sun,26/12/2021,15:00,Tottenham,Crystal Palace,2.3,0.2,3–0,2021-2022,1692
+19,Sun,26/12/2021,17:30,Aston Villa,Chelsea,0.4,2.6,1–3,2021-2022,1693
+19,Sun,26/12/2021,20:00,Brighton,Brentford,0.8,0.7,2–0,2021-2022,1694
+19,Mon,27/12/2021,20:00,Newcastle Utd,Manchester Utd,1.3,1.6,1–1,2021-2022,1695
+20,Tue,28/12/2021,15:00,Southampton,Tottenham,0.4,2.3,1–1,2021-2022,1696
+20,Tue,28/12/2021,15:00,Crystal Palace,Norwich City,1.9,0.9,3–0,2021-2022,1697
+20,Tue,28/12/2021,15:00,Watford,West Ham,1.6,3.6,1–4,2021-2022,1698
+20,Tue,28/12/2021,20:00,Leicester City,Liverpool,0.4,2.3,1–0,2021-2022,1699
+20,Wed,29/12/2021,19:30,Chelsea,Brighton,0.7,0.9,1–1,2021-2022,1700
+20,Wed,29/12/2021,20:15,Brentford,Manchester City,0.4,1.1,0–1,2021-2022,1701
+20,Thu,30/12/2021,20:15,Manchester Utd,Burnley,2.4,1.1,3–1,2021-2022,1702
+21,Sat,01/01/2022,12:30,Arsenal,Manchester City,0.8,2,1–2,2021-2022,1703
+21,Sat,01/01/2022,15:00,Watford,Tottenham,0.3,2.2,0–1,2021-2022,1704
+21,Sat,01/01/2022,17:30,Crystal Palace,West Ham,2.4,2.2,2–3,2021-2022,1705
+21,Sun,02/01/2022,14:00,Leeds United,Burnley,1.9,1,3–1,2021-2022,1706
+21,Sun,02/01/2022,14:00,Brentford,Aston Villa,0.6,0.8,2–1,2021-2022,1707
+21,Sun,02/01/2022,14:00,Everton,Brighton,1.6,1.7,2–3,2021-2022,1708
+21,Sun,02/01/2022,16:30,Chelsea,Liverpool,1.2,1.3,2–2,2021-2022,1709
+21,Mon,03/01/2022,17:30,Manchester Utd,Wolves,0.8,0.7,0–1,2021-2022,1710
+18,Tue,11/01/2022,19:45,Southampton,Brentford,1.4,0.5,4–1,2021-2022,1711
+18,Wed,12/01/2022,19:45,West Ham,Norwich City,2.5,0.3,2–0,2021-2022,1712
+22,Fri,14/01/2022,20:00,Brighton,Crystal Palace,2,0.2,1–1,2021-2022,1713
+22,Sat,15/01/2022,12:30,Manchester City,Chelsea,1,0.3,1–0,2021-2022,1714
+22,Sat,15/01/2022,15:00,Norwich City,Everton,1,0.6,2–1,2021-2022,1715
+22,Sat,15/01/2022,15:00,Newcastle Utd,Watford,1.2,1.4,1–1,2021-2022,1716
+22,Sat,15/01/2022,15:00,Wolves,Southampton,2.5,0.8,3–1,2021-2022,1717
+22,Sat,15/01/2022,17:30,Aston Villa,Manchester Utd,1.9,1,2–2,2021-2022,1718
+22,Sun,16/01/2022,14:00,West Ham,Leeds United,2.4,2.2,2–3,2021-2022,1719
+22,Sun,16/01/2022,14:00,Liverpool,Brentford,2.7,0.7,3–0,2021-2022,1720
+24,Tue,18/01/2022,20:00,Brighton,Chelsea,0.7,0.7,1–1,2021-2022,1721
+17,Wed,19/01/2022,19:30,Leicester City,Tottenham,1.2,3.1,2–3,2021-2022,1722
+17,Wed,19/01/2022,20:00,Brentford,Manchester Utd,2.3,2.3,1–3,2021-2022,1723
+23,Fri,21/01/2022,20:00,Watford,Norwich City,1.2,1.1,0–3,2021-2022,1724
+23,Sat,22/01/2022,12:30,Everton,Aston Villa,1.6,0.8,0–1,2021-2022,1725
+23,Sat,22/01/2022,15:00,Leeds United,Newcastle Utd,0.7,0.9,0–1,2021-2022,1726
+23,Sat,22/01/2022,15:00,Manchester Utd,West Ham,1.9,0.3,1–0,2021-2022,1727
+23,Sat,22/01/2022,15:00,Brentford,Wolves,1.1,0.2,1–2,2021-2022,1728
+23,Sat,22/01/2022,17:30,Southampton,Manchester City,0.8,1.8,1–1,2021-2022,1729
+23,Sun,23/01/2022,14:00,Crystal Palace,Liverpool,2.2,1.9,1–3,2021-2022,1730
+23,Sun,23/01/2022,14:00,Arsenal,Burnley,1.2,0.4,0–0,2021-2022,1731
+23,Sun,23/01/2022,14:00,Leicester City,Brighton,1.4,1.1,1–1,2021-2022,1732
+23,Sun,23/01/2022,16:30,Chelsea,Tottenham,1.2,0.5,2–0,2021-2022,1733
+17,Sat,05/02/2022,18:00,Burnley,Watford,0.6,0.8,0–0,2021-2022,1734
+24,Tue,08/02/2022,19:45,West Ham,Watford,0.8,0.3,1–0,2021-2022,1735
+24,Tue,08/02/2022,19:45,Newcastle Utd,Everton,1.9,0.7,3–1,2021-2022,1736
+24,Tue,08/02/2022,20:00,Burnley,Manchester Utd,0.4,1.8,1–1,2021-2022,1737
+24,Wed,09/02/2022,19:45,Tottenham,Southampton,1.4,2.2,2–3,2021-2022,1738
+24,Wed,09/02/2022,19:45,Norwich City,Crystal Palace,0.4,1.3,1–1,2021-2022,1739
+24,Wed,09/02/2022,19:45,Manchester City,Brentford,1.9,0.4,2–0,2021-2022,1740
+24,Wed,09/02/2022,20:00,Aston Villa,Leeds United,1.6,1.8,3–3,2021-2022,1741
+24,Thu,10/02/2022,19:45,Liverpool,Leicester City,1.8,0.5,2–0,2021-2022,1742
+24,Thu,10/02/2022,19:45,Wolves,Arsenal,0.8,1.8,0–1,2021-2022,1743
+25,Sat,12/02/2022,12:30,Manchester Utd,Southampton,2.1,0.8,1–1,2021-2022,1744
+25,Sat,12/02/2022,15:00,Everton,Leeds United,2.7,0.3,3–0,2021-2022,1745
+25,Sat,12/02/2022,15:00,Brentford,Crystal Palace,1.6,0.3,0–0,2021-2022,1746
+25,Sat,12/02/2022,15:00,Watford,Brighton,0.5,1.6,0–2,2021-2022,1747
+25,Sat,12/02/2022,17:30,Norwich City,Manchester City,0.4,4.6,0–4,2021-2022,1748
+25,Sun,13/02/2022,14:00,Newcastle Utd,Aston Villa,0.5,0.6,1–0,2021-2022,1749
+25,Sun,13/02/2022,14:00,Burnley,Liverpool,1.5,1.7,0–1,2021-2022,1750
+25,Sun,13/02/2022,14:00,Tottenham,Wolves,1.2,1.3,0–2,2021-2022,1751
+25,Sun,13/02/2022,16:30,Leicester City,West Ham,1.4,1.1,2–2,2021-2022,1752
+18,Tue,15/02/2022,20:15,Manchester Utd,Brighton,1.7,0.7,2–0,2021-2022,1753
+26,Sat,19/02/2022,12:30,West Ham,Newcastle Utd,0.6,0.8,1–1,2021-2022,1754
+26,Sat,19/02/2022,15:00,Aston Villa,Watford,1.3,1.2,0–1,2021-2022,1755
+26,Sat,19/02/2022,15:00,Arsenal,Brentford,1.7,0.6,2–1,2021-2022,1756
+26,Sat,19/02/2022,15:00,Southampton,Everton,2.5,0.3,2–0,2021-2022,1757
+26,Sat,19/02/2022,15:00,Liverpool,Norwich City,3.6,0.6,3–1,2021-2022,1758
+26,Sat,19/02/2022,15:00,Brighton,Burnley,0.6,0.7,0–3,2021-2022,1759
+26,Sat,19/02/2022,15:00,Crystal Palace,Chelsea,0.5,0.9,0–1,2021-2022,1760
+26,Sat,19/02/2022,17:30,Manchester City,Tottenham,2.1,1.4,2–3,2021-2022,1761
+26,Sun,20/02/2022,14:00,Leeds United,Manchester Utd,1.8,2.2,2–4,2021-2022,1762
+26,Sun,20/02/2022,16:30,Wolves,Leicester City,0.5,1.7,2–1,2021-2022,1763
+13,Wed,23/02/2022,19:30,Burnley,Tottenham,0.9,0.7,1–0,2021-2022,1764
+18,Wed,23/02/2022,19:30,Watford,Crystal Palace,1.4,1.1,1–4,2021-2022,1765
+19,Wed,23/02/2022,19:45,Liverpool,Leeds United,5.9,0.2,6–0,2021-2022,1766
+20,Thu,24/02/2022,19:45,Arsenal,Wolves,3.1,1,2–1,2021-2022,1767
+27,Fri,25/02/2022,20:00,Southampton,Norwich City,2.6,0.6,2–0,2021-2022,1768
+27,Sat,26/02/2022,12:30,Leeds United,Tottenham,1.5,1.9,0–4,2021-2022,1769
+27,Sat,26/02/2022,15:00,Crystal Palace,Burnley,1,0.2,1–1,2021-2022,1770
+27,Sat,26/02/2022,15:00,Manchester Utd,Watford,2.8,0.6,0–0,2021-2022,1771
+27,Sat,26/02/2022,15:00,Brighton,Aston Villa,0.7,1,0–2,2021-2022,1772
+27,Sat,26/02/2022,15:00,Brentford,Newcastle Utd,0.4,2.7,0–2,2021-2022,1773
+27,Sat,26/02/2022,17:30,Everton,Manchester City,0.5,1.8,0–1,2021-2022,1774
+27,Sun,27/02/2022,14:00,West Ham,Wolves,1.8,0.7,1–0,2021-2022,1775
+22,Tue,01/03/2022,19:45,Burnley,Leicester City,0.9,1.5,0–2,2021-2022,1776
+28,Sat,05/03/2022,12:30,Leicester City,Leeds United,0.4,1.7,1–0,2021-2022,1777
+28,Sat,05/03/2022,15:00,Newcastle Utd,Brighton,1.7,1.5,2–1,2021-2022,1778
+28,Sat,05/03/2022,15:00,Aston Villa,Southampton,2.5,1.1,4–0,2021-2022,1779
+28,Sat,05/03/2022,15:00,Burnley,Chelsea,0.7,2.3,0–4,2021-2022,1780
+28,Sat,05/03/2022,15:00,Wolves,Crystal Palace,0.7,2.7,0–2,2021-2022,1781
+28,Sat,05/03/2022,15:00,Norwich City,Brentford,1,2,1–3,2021-2022,1782
+28,Sat,05/03/2022,17:30,Liverpool,West Ham,2.4,1.3,1–0,2021-2022,1783
+28,Sun,06/03/2022,14:00,Watford,Arsenal,1,1,2–3,2021-2022,1784
+28,Sun,06/03/2022,16:30,Manchester City,Manchester Utd,2.7,0.5,4–1,2021-2022,1785
+28,Mon,07/03/2022,20:00,Tottenham,Everton,2.5,0.2,5–0,2021-2022,1786
+19,Thu,10/03/2022,19:30,Wolves,Watford,0.7,0.6,4–0,2021-2022,1787
+21,Thu,10/03/2022,19:30,Southampton,Newcastle Utd,1.1,0.6,1–2,2021-2022,1788
+30,Thu,10/03/2022,19:30,Norwich City,Chelsea,1,1.8,1–3,2021-2022,1789
+20,Thu,10/03/2022,19:45,Leeds United,Aston Villa,0.2,1.5,0–3,2021-2022,1790
+29,Sat,12/03/2022,12:30,Brighton,Liverpool,0.5,2.2,0–2,2021-2022,1791
+29,Sat,12/03/2022,15:00,Brentford,Burnley,1.9,0.7,2–0,2021-2022,1792
+29,Sat,12/03/2022,17:30,Manchester Utd,Tottenham,1,1.5,3–2,2021-2022,1793
+29,Sun,13/03/2022,14:00,Chelsea,Newcastle Utd,1.1,0.3,1–0,2021-2022,1794
+29,Sun,13/03/2022,14:00,Southampton,Watford,1.4,1.7,1–2,2021-2022,1795
+29,Sun,13/03/2022,14:00,West Ham,Aston Villa,1.2,1.1,2–1,2021-2022,1796
+29,Sun,13/03/2022,14:00,Everton,Wolves,0.4,0.8,0–1,2021-2022,1797
+29,Sun,13/03/2022,14:00,Leeds United,Norwich City,2.5,1.5,2–1,2021-2022,1798
+29,Sun,13/03/2022,16:30,Arsenal,Leicester City,2.4,0.4,2–0,2021-2022,1799
+29,Mon,14/03/2022,20:00,Crystal Palace,Manchester City,0.6,2.8,0–0,2021-2022,1800
+16,Wed,16/03/2022,19:30,Brighton,Tottenham,0.7,2.2,0–2,2021-2022,1801
+27,Wed,16/03/2022,20:15,Arsenal,Liverpool,0.5,0.8,0–2,2021-2022,1802
+20,Thu,17/03/2022,19:45,Everton,Newcastle Utd,0.7,0.9,1–0,2021-2022,1803
+30,Fri,18/03/2022,20:00,Wolves,Leeds United,1.2,2,2–3,2021-2022,1804
+30,Sat,19/03/2022,12:30,Aston Villa,Arsenal,0.5,1.3,0–1,2021-2022,1805
+30,Sun,20/03/2022,14:00,Leicester City,Brentford,1,1.3,2–1,2021-2022,1806
+30,Sun,20/03/2022,16:30,Tottenham,West Ham,3,0.6,3–1,2021-2022,1807
+31,Sat,02/04/2022,12:30,Liverpool,Watford,2.2,0.6,2–0,2021-2022,1808
+31,Sat,02/04/2022,15:00,Wolves,Aston Villa,1.3,2.1,2–1,2021-2022,1809
+31,Sat,02/04/2022,15:00,Leeds United,Southampton,1.2,1.4,1–1,2021-2022,1810
+31,Sat,02/04/2022,15:00,Chelsea,Brentford,1.3,1.8,1–4,2021-2022,1811
+31,Sat,02/04/2022,15:00,Burnley,Manchester City,0.1,1.8,0–2,2021-2022,1812
+31,Sat,02/04/2022,15:00,Brighton,Norwich City,2.8,0.4,0–0,2021-2022,1813
+31,Sat,02/04/2022,17:30,Manchester Utd,Leicester City,0.9,0.8,1–1,2021-2022,1814
+31,Sun,03/04/2022,14:00,West Ham,Everton,1.2,0.7,2–1,2021-2022,1815
+31,Sun,03/04/2022,16:30,Tottenham,Newcastle Utd,3.1,0.5,5–1,2021-2022,1816
+31,Mon,04/04/2022,20:00,Crystal Palace,Arsenal,1.5,0.8,3–0,2021-2022,1817
+19,Wed,06/04/2022,19:30,Burnley,Everton,2,2.4,3–2,2021-2022,1818
+32,Fri,08/04/2022,20:00,Newcastle Utd,Wolves,1.5,0.4,1–0,2021-2022,1819
+32,Sat,09/04/2022,12:30,Everton,Manchester Utd,0.4,0.8,1–0,2021-2022,1820
+32,Sat,09/04/2022,15:00,Arsenal,Brighton,1.9,0.6,1–2,2021-2022,1821
+32,Sat,09/04/2022,15:00,Southampton,Chelsea,0.5,4.2,0–6,2021-2022,1822
+32,Sat,09/04/2022,15:00,Watford,Leeds United,1.1,0.7,0–3,2021-2022,1823
+32,Sat,09/04/2022,17:30,Aston Villa,Tottenham,1.6,1.1,0–4,2021-2022,1824
+32,Sun,10/04/2022,14:00,Brentford,West Ham,1.4,0.3,2–0,2021-2022,1825
+32,Sun,10/04/2022,14:00,Leicester City,Crystal Palace,1,1.4,2–1,2021-2022,1826
+32,Sun,10/04/2022,14:00,Norwich City,Burnley,1.7,1.7,2–0,2021-2022,1827
+32,Sun,10/04/2022,16:30,Manchester City,Liverpool,1.3,1.3,2–2,2021-2022,1828
+33,Sat,16/04/2022,12:30,Tottenham,Brighton,0.5,0.6,0–1,2021-2022,1829
+33,Sat,16/04/2022,15:00,Manchester Utd,Norwich City,1.9,1.5,3–2,2021-2022,1830
+33,Sat,16/04/2022,15:00,Watford,Brentford,1.7,1.9,1–2,2021-2022,1831
+33,Sat,16/04/2022,15:00,Southampton,Arsenal,0.8,1.7,1–0,2021-2022,1832
+33,Sun,17/04/2022,14:15,Newcastle Utd,Leicester City,1.8,0.6,2–1,2021-2022,1833
+33,Sun,17/04/2022,14:15,West Ham,Burnley,2.2,1.8,1–1,2021-2022,1834
+30,Tue,19/04/2022,20:00,Liverpool,Manchester Utd,2,0.1,4–0,2021-2022,1835
+18,Wed,20/04/2022,19:45,Everton,Leicester City,1.8,0.9,1–1,2021-2022,1836
+25,Wed,20/04/2022,19:45,Chelsea,Arsenal,0.7,2,2–4,2021-2022,1837
+30,Wed,20/04/2022,19:45,Newcastle Utd,Crystal Palace,0.9,0.5,1–0,2021-2022,1838
+30,Wed,20/04/2022,20:00,Manchester City,Brighton,1.3,0.2,3–0,2021-2022,1839
+30,Thu,21/04/2022,19:45,Burnley,Southampton,1.5,0.9,2–0,2021-2022,1840
+34,Sat,23/04/2022,12:30,Arsenal,Manchester Utd,2.3,1.8,3–1,2021-2022,1841
+34,Sat,23/04/2022,15:00,Leicester City,Aston Villa,0.3,0.9,0–0,2021-2022,1842
+34,Sat,23/04/2022,15:00,Manchester City,Watford,3.6,0.5,5–1,2021-2022,1843
+34,Sat,23/04/2022,15:00,Norwich City,Newcastle Utd,0.6,1.9,0–3,2021-2022,1844
+34,Sat,23/04/2022,17:30,Brentford,Tottenham,0.9,0.6,0–0,2021-2022,1845
+34,Sun,24/04/2022,14:00,Brighton,Southampton,1.7,0.9,2–2,2021-2022,1846
+34,Sun,24/04/2022,14:00,Burnley,Wolves,1.4,0.6,1–0,2021-2022,1847
+34,Sun,24/04/2022,14:00,Chelsea,West Ham,3,0.5,1–0,2021-2022,1848
+34,Sun,24/04/2022,16:30,Liverpool,Everton,1.7,0.4,2–0,2021-2022,1849
+34,Mon,25/04/2022,20:00,Crystal Palace,Leeds United,1.9,0.5,0–0,2021-2022,1850
+37,Thu,28/04/2022,19:45,Manchester Utd,Chelsea,0.5,1.9,1–1,2021-2022,1851
+35,Sat,30/04/2022,12:30,Newcastle Utd,Liverpool,0.2,2.3,0–1,2021-2022,1852
+35,Sat,30/04/2022,15:00,Watford,Burnley,1,1.6,1–2,2021-2022,1853
+35,Sat,30/04/2022,15:00,Wolves,Brighton,0.7,2.6,0–3,2021-2022,1854
+35,Sat,30/04/2022,15:00,Aston Villa,Norwich City,1.8,0.5,2–0,2021-2022,1855
+35,Sat,30/04/2022,15:00,Southampton,Crystal Palace,0.6,1.1,1–2,2021-2022,1856
+35,Sat,30/04/2022,17:30,Leeds United,Manchester City,1.3,2.4,0–4,2021-2022,1857
+35,Sun,01/05/2022,14:00,Tottenham,Leicester City,1.2,0.5,3–1,2021-2022,1858
+35,Sun,01/05/2022,14:00,Everton,Chelsea,0.8,0.8,1–0,2021-2022,1859
+35,Sun,01/05/2022,16:30,West Ham,Arsenal,0.5,0.9,1–2,2021-2022,1860
+35,Mon,02/05/2022,20:00,Manchester Utd,Brentford,2,0.6,3–0,2021-2022,1861
+36,Sat,07/05/2022,15:00,Crystal Palace,Watford,2.2,0.4,1–0,2021-2022,1862
+36,Sat,07/05/2022,15:00,Brentford,Southampton,2.6,1.4,3–0,2021-2022,1863
+36,Sat,07/05/2022,15:00,Chelsea,Wolves,1.7,2,2–2,2021-2022,1864
+36,Sat,07/05/2022,15:00,Burnley,Aston Villa,1.9,2.1,1–3,2021-2022,1865
+36,Sat,07/05/2022,17:30,Brighton,Manchester Utd,2.3,0.9,4–0,2021-2022,1866
+36,Sat,07/05/2022,19:45,Liverpool,Tottenham,1.3,0.9,1–1,2021-2022,1867
+36,Sun,08/05/2022,14:00,Leicester City,Everton,1.5,1.1,1–2,2021-2022,1868
+36,Sun,08/05/2022,14:00,Norwich City,West Ham,0.8,3,0–4,2021-2022,1869
+36,Sun,08/05/2022,14:00,Arsenal,Leeds United,2,0.3,2–1,2021-2022,1870
+36,Sun,08/05/2022,16:30,Manchester City,Newcastle Utd,3.1,0.8,5–0,2021-2022,1871
+33,Tue,10/05/2022,20:00,Aston Villa,Liverpool,1.4,1.8,1–2,2021-2022,1872
+33,Wed,11/05/2022,19:30,Leeds United,Chelsea,0.4,1.3,0–3,2021-2022,1873
+21,Wed,11/05/2022,19:45,Leicester City,Norwich City,2,1.1,3–0,2021-2022,1874
+30,Wed,11/05/2022,19:45,Watford,Everton,0.3,0.7,0–0,2021-2022,1875
+33,Wed,11/05/2022,20:15,Wolves,Manchester City,0.5,2.3,1–5,2021-2022,1876
+22,Thu,12/05/2022,19:45,Tottenham,Arsenal,2.7,0.5,3–0,2021-2022,1877
+37,Sun,15/05/2022,12:00,Tottenham,Burnley,2.2,0.7,1–0,2021-2022,1878
+37,Sun,15/05/2022,14:00,Leeds United,Brighton,1.6,2.2,1–1,2021-2022,1879
+37,Sun,15/05/2022,14:00,Watford,Leicester City,1.4,2.5,1–5,2021-2022,1880
+37,Sun,15/05/2022,14:00,Wolves,Norwich City,0.9,1.1,1–1,2021-2022,1881
+37,Sun,15/05/2022,14:00,Aston Villa,Crystal Palace,1,1.4,1–1,2021-2022,1882
+37,Sun,15/05/2022,14:00,West Ham,Manchester City,1.1,2.4,2–2,2021-2022,1883
+37,Sun,15/05/2022,16:30,Everton,Brentford,2.1,1.4,2–3,2021-2022,1884
+37,Mon,16/05/2022,20:00,Newcastle Utd,Arsenal,1.6,0.6,2–0,2021-2022,1885
+37,Tue,17/05/2022,19:45,Southampton,Liverpool,0.1,1.3,1–2,2021-2022,1886
+33,Thu,19/05/2022,19:45,Everton,Crystal Palace,0.8,1.1,3–2,2021-2022,1887
+18,Thu,19/05/2022,20:00,Aston Villa,Burnley,1.5,1.6,1–1,2021-2022,1888
+27,Thu,19/05/2022,20:00,Chelsea,Leicester City,1.6,0.1,1–1,2021-2022,1889
+38,Sun,22/05/2022,16:00,Brentford,Leeds United,0.8,1.3,1–2,2021-2022,1890
+38,Sun,22/05/2022,16:00,Leicester City,Southampton,3.4,1.1,4–1,2021-2022,1891
+38,Sun,22/05/2022,16:00,Crystal Palace,Manchester Utd,0.6,0.7,1–0,2021-2022,1892
+38,Sun,22/05/2022,16:00,Arsenal,Everton,4.2,1.1,5–1,2021-2022,1893
+38,Sun,22/05/2022,16:00,Brighton,West Ham,1.6,0.2,3–1,2021-2022,1894
+38,Sun,22/05/2022,16:00,Norwich City,Tottenham,0.5,3.4,0–5,2021-2022,1895
+38,Sun,22/05/2022,16:00,Manchester City,Aston Villa,3.4,0.2,3–2,2021-2022,1896
+38,Sun,22/05/2022,16:00,Liverpool,Wolves,2.7,1.3,3–1,2021-2022,1897
+38,Sun,22/05/2022,16:00,Burnley,Newcastle Utd,1.6,1.8,1–2,2021-2022,1898
+38,Sun,22/05/2022,16:00,Chelsea,Watford,2.2,0.6,2–1,2021-2022,1899
+1,Fri,05/08/2022,20:00,Crystal Palace,Arsenal,1.2,1,0–2,2022-2023,1900
+1,Sat,06/08/2022,12:30,Fulham,Liverpool,1.2,1.2,2–2,2022-2023,1901
+1,Sat,06/08/2022,15:00,Tottenham,Southampton,1.5,0.5,4–1,2022-2023,1902
+1,Sat,06/08/2022,15:00,Newcastle Utd,Nott'ham Forest,1.7,0.3,2–0,2022-2023,1903
+1,Sat,06/08/2022,15:00,Leeds United,Wolves,0.8,1.3,2–1,2022-2023,1904
+1,Sat,06/08/2022,15:00,Bournemouth,Aston Villa,0.6,0.7,2–0,2022-2023,1905
+1,Sat,06/08/2022,17:30,Everton,Chelsea,0.7,1.5,0–1,2022-2023,1906
+1,Sun,07/08/2022,14:00,Leicester City,Brentford,0.6,0.8,2–2,2022-2023,1907
+1,Sun,07/08/2022,14:00,Manchester Utd,Brighton,1.4,1.5,1–2,2022-2023,1908
+1,Sun,07/08/2022,16:30,West Ham,Manchester City,0.5,2.2,0–2,2022-2023,1909
+2,Sat,13/08/2022,12:30,Aston Villa,Everton,2.3,1.6,2–1,2022-2023,1910
+2,Sat,13/08/2022,15:00,Manchester City,Bournemouth,1.7,0.1,4–0,2022-2023,1911
+2,Sat,13/08/2022,15:00,Southampton,Leeds United,1.2,1.8,2–2,2022-2023,1912
+2,Sat,13/08/2022,15:00,Wolves,Fulham,0.9,1.5,0–0,2022-2023,1913
+2,Sat,13/08/2022,15:00,Arsenal,Leicester City,2.7,0.5,4–2,2022-2023,1914
+2,Sat,13/08/2022,15:00,Brighton,Newcastle Utd,1.5,0.2,0–0,2022-2023,1915
+2,Sat,13/08/2022,17:30,Brentford,Manchester Utd,1.6,0.9,4–0,2022-2023,1916
+2,Sun,14/08/2022,14:00,Nott'ham Forest,West Ham,1.3,2.1,1–0,2022-2023,1917
+2,Sun,14/08/2022,16:30,Chelsea,Tottenham,1.6,1,2–2,2022-2023,1918
+2,Mon,15/08/2022,20:00,Liverpool,Crystal Palace,2,1,1–1,2022-2023,1919
+3,Sat,20/08/2022,12:30,Tottenham,Wolves,1.7,0.7,1–0,2022-2023,1920
+3,Sat,20/08/2022,15:00,Leicester City,Southampton,0.3,0.9,1–2,2022-2023,1921
+3,Sat,20/08/2022,15:00,Everton,Nott'ham Forest,1.5,1,1–1,2022-2023,1922
+3,Sat,20/08/2022,15:00,Crystal Palace,Aston Villa,2.6,0.9,3–1,2022-2023,1923
+3,Sat,20/08/2022,15:00,Fulham,Brentford,2.4,1.8,3–2,2022-2023,1924
+3,Sat,20/08/2022,17:30,Bournemouth,Arsenal,0.3,1.3,0–3,2022-2023,1925
+3,Sun,21/08/2022,14:00,Leeds United,Chelsea,2.1,0.9,3–0,2022-2023,1926
+3,Sun,21/08/2022,14:00,West Ham,Brighton,0.8,1.7,0–2,2022-2023,1927
+3,Sun,21/08/2022,16:30,Newcastle Utd,Manchester City,1.8,2.1,3–3,2022-2023,1928
+3,Mon,22/08/2022,20:00,Manchester Utd,Liverpool,1.8,1.3,2–1,2022-2023,1929
+4,Sat,27/08/2022,12:30,Southampton,Manchester Utd,1.4,1.1,0–1,2022-2023,1930
+4,Sat,27/08/2022,15:00,Manchester City,Crystal Palace,2.2,0.1,4–2,2022-2023,1931
+4,Sat,27/08/2022,15:00,Brighton,Leeds United,2,1.8,1–0,2022-2023,1932
+4,Sat,27/08/2022,15:00,Chelsea,Leicester City,1.8,2.5,2–1,2022-2023,1933
+4,Sat,27/08/2022,15:00,Brentford,Everton,2.1,1.1,1–1,2022-2023,1934
+4,Sat,27/08/2022,15:00,Liverpool,Bournemouth,3.3,0.3,9–0,2022-2023,1935
+4,Sat,27/08/2022,17:30,Arsenal,Fulham,2.6,0.8,2–1,2022-2023,1936
+4,Sun,28/08/2022,14:00,Wolves,Newcastle Utd,0.7,1.7,1–1,2022-2023,1937
+4,Sun,28/08/2022,14:00,Aston Villa,West Ham,0.5,0.6,0–1,2022-2023,1938
+4,Sun,28/08/2022,16:30,Nott'ham Forest,Tottenham,0.9,2.4,0–2,2022-2023,1939
+5,Tue,30/08/2022,19:30,Fulham,Brighton,0.7,1.4,2–1,2022-2023,1940
+5,Tue,30/08/2022,19:30,Crystal Palace,Brentford,1,1.4,1–1,2022-2023,1941
+5,Tue,30/08/2022,19:45,Southampton,Chelsea,1.1,1.1,2–1,2022-2023,1942
+5,Tue,30/08/2022,20:00,Leeds United,Everton,1,1,1–1,2022-2023,1943
+5,Wed,31/08/2022,19:30,Bournemouth,Wolves,0.4,1.5,0–0,2022-2023,1944
+5,Wed,31/08/2022,19:30,Manchester City,Nott'ham Forest,3.3,0.7,6–0,2022-2023,1945
+5,Wed,31/08/2022,19:30,Arsenal,Aston Villa,2.4,0.4,2–1,2022-2023,1946
+5,Wed,31/08/2022,19:45,West Ham,Tottenham,1.2,0.6,1–1,2022-2023,1947
+5,Wed,31/08/2022,20:00,Liverpool,Newcastle Utd,1.5,0.7,2–1,2022-2023,1948
+5,Thu,01/09/2022,20:00,Leicester City,Manchester Utd,0.7,1.5,0–1,2022-2023,1949
+6,Sat,03/09/2022,12:30,Everton,Liverpool,1.7,2.1,0–0,2022-2023,1950
+6,Sat,03/09/2022,15:00,Nott'ham Forest,Bournemouth,1.9,0.8,2–3,2022-2023,1951
+6,Sat,03/09/2022,15:00,Wolves,Southampton,0.8,1.2,1–0,2022-2023,1952
+6,Sat,03/09/2022,15:00,Newcastle Utd,Crystal Palace,2.8,1,0–0,2022-2023,1953
+6,Sat,03/09/2022,15:00,Brentford,Leeds United,2.3,1.7,5–2,2022-2023,1954
+6,Sat,03/09/2022,15:00,Tottenham,Fulham,2.9,0.7,2–1,2022-2023,1955
+6,Sat,03/09/2022,15:00,Chelsea,West Ham,0.9,1.1,2–1,2022-2023,1956
+6,Sat,03/09/2022,17:30,Aston Villa,Manchester City,0.3,2.1,1–1,2022-2023,1957
+6,Sun,04/09/2022,14:00,Brighton,Leicester City,2.6,1.4,5–2,2022-2023,1958
+6,Sun,04/09/2022,16:30,Manchester Utd,Arsenal,1.5,1.3,3–1,2022-2023,1959
+8,Fri,16/09/2022,20:00,Aston Villa,Southampton,1.5,0.3,1–0,2022-2023,1960
+8,Fri,16/09/2022,20:00,Nott'ham Forest,Fulham,1.4,0.9,2–3,2022-2023,1961
+8,Sat,17/09/2022,12:30,Wolves,Manchester City,0.4,1.1,0–3,2022-2023,1962
+8,Sat,17/09/2022,15:00,Newcastle Utd,Bournemouth,1.9,0.7,1–1,2022-2023,1963
+8,Sat,17/09/2022,17:30,Tottenham,Leicester City,2.2,1.8,6–2,2022-2023,1964
+8,Sun,18/09/2022,12:00,Brentford,Arsenal,0.5,1.5,0–3,2022-2023,1965
+8,Sun,18/09/2022,14:15,Everton,West Ham,0.4,1,1–0,2022-2023,1966
+9,Sat,01/10/2022,12:30,Arsenal,Tottenham,2.4,1.6,3–1,2022-2023,1967
+9,Sat,01/10/2022,15:00,Southampton,Everton,1.7,2,1–2,2022-2023,1968
+9,Sat,01/10/2022,15:00,Crystal Palace,Chelsea,0.4,1.1,1–2,2022-2023,1969
+9,Sat,01/10/2022,15:00,Liverpool,Brighton,1.5,1.4,3–3,2022-2023,1970
+9,Sat,01/10/2022,15:00,Fulham,Newcastle Utd,0.5,3.3,1–4,2022-2023,1971
+9,Sat,01/10/2022,15:00,Bournemouth,Brentford,0.4,0.9,0–0,2022-2023,1972
+9,Sat,01/10/2022,17:30,West Ham,Wolves,0.9,0.7,2–0,2022-2023,1973
+9,Sun,02/10/2022,14:00,Manchester City,Manchester Utd,3.2,1.7,6–3,2022-2023,1974
+9,Sun,02/10/2022,16:30,Leeds United,Aston Villa,0.4,2.2,0–0,2022-2023,1975
+9,Mon,03/10/2022,20:00,Leicester City,Nott'ham Forest,1.3,1.1,4–0,2022-2023,1976
+10,Sat,08/10/2022,15:00,Bournemouth,Leicester City,1.1,1,2–1,2022-2023,1977
+10,Sat,08/10/2022,15:00,Newcastle Utd,Brentford,1.5,1.2,5–1,2022-2023,1978
+10,Sat,08/10/2022,15:00,Manchester City,Southampton,2.4,0.2,4–0,2022-2023,1979
+10,Sat,08/10/2022,15:00,Chelsea,Wolves,1.9,1.1,3–0,2022-2023,1980
+10,Sat,08/10/2022,17:30,Brighton,Tottenham,0.7,0.8,0–1,2022-2023,1981
+10,Sun,09/10/2022,14:00,West Ham,Fulham,2.4,0.7,3–1,2022-2023,1982
+10,Sun,09/10/2022,14:00,Crystal Palace,Leeds United,1.1,1,2–1,2022-2023,1983
+10,Sun,09/10/2022,16:30,Arsenal,Liverpool,2.7,1.1,3–2,2022-2023,1984
+10,Sun,09/10/2022,19:00,Everton,Manchester Utd,0.6,1.4,1–2,2022-2023,1985
+10,Mon,10/10/2022,20:00,Nott'ham Forest,Aston Villa,0.3,0.7,1–1,2022-2023,1986
+11,Fri,14/10/2022,20:00,Brentford,Brighton,1.5,1.9,2–0,2022-2023,1987
+11,Sat,15/10/2022,12:30,Leicester City,Crystal Palace,1,0.4,0–0,2022-2023,1988
+11,Sat,15/10/2022,15:00,Fulham,Bournemouth,2.1,1,2–2,2022-2023,1989
+11,Sat,15/10/2022,15:00,Wolves,Nott'ham Forest,1.3,1.5,1–0,2022-2023,1990
+11,Sat,15/10/2022,17:30,Tottenham,Everton,2.2,0.4,2–0,2022-2023,1991
+11,Sun,16/10/2022,14:00,Southampton,West Ham,0.5,1.7,1–1,2022-2023,1992
+11,Sun,16/10/2022,14:00,Aston Villa,Chelsea,1.8,0.9,0–2,2022-2023,1993
+11,Sun,16/10/2022,14:00,Leeds United,Arsenal,1.8,0.5,0–1,2022-2023,1994
+11,Sun,16/10/2022,14:00,Manchester Utd,Newcastle Utd,0.8,0.8,0–0,2022-2023,1995
+11,Sun,16/10/2022,16:30,Liverpool,Manchester City,2.1,1,1–0,2022-2023,1996
+12,Tue,18/10/2022,19:30,Brighton,Nott'ham Forest,1.7,0.1,0–0,2022-2023,1997
+12,Tue,18/10/2022,20:15,Crystal Palace,Wolves,1.2,0.8,2–1,2022-2023,1998
+12,Wed,19/10/2022,19:30,Bournemouth,Southampton,1,1,0–1,2022-2023,1999
+12,Wed,19/10/2022,19:30,Brentford,Chelsea,1.3,0.9,0–0,2022-2023,2000
+12,Wed,19/10/2022,19:30,Liverpool,West Ham,1.7,1.7,1–0,2022-2023,2001
+12,Wed,19/10/2022,19:30,Newcastle Utd,Everton,1.5,0.2,1–0,2022-2023,2002
+12,Wed,19/10/2022,20:15,Manchester Utd,Tottenham,1.5,0.6,2–0,2022-2023,2003
+12,Thu,20/10/2022,19:30,Fulham,Aston Villa,2.1,1.2,3–0,2022-2023,2004
+12,Thu,20/10/2022,20:15,Leicester City,Leeds United,0.8,1.3,2–0,2022-2023,2005
+13,Sat,22/10/2022,12:30,Nott'ham Forest,Liverpool,1.9,1.6,1–0,2022-2023,2006
+13,Sat,22/10/2022,15:00,Everton,Crystal Palace,1.4,0.9,3–0,2022-2023,2007
+13,Sat,22/10/2022,15:00,Manchester City,Brighton,1.6,0.5,3–1,2022-2023,2008
+13,Sat,22/10/2022,17:30,Chelsea,Manchester Utd,1.1,0.8,1–1,2022-2023,2009
+13,Sun,23/10/2022,14:00,Aston Villa,Brentford,2.8,0.9,4–0,2022-2023,2010
+13,Sun,23/10/2022,14:00,Wolves,Leicester City,2.1,0.9,0–4,2022-2023,2011
+13,Sun,23/10/2022,14:00,Leeds United,Fulham,1.6,1.8,2–3,2022-2023,2012
+13,Sun,23/10/2022,14:00,Southampton,Arsenal,0.7,1,1–1,2022-2023,2013
+13,Sun,23/10/2022,16:30,Tottenham,Newcastle Utd,1.6,1.2,1–2,2022-2023,2014
+13,Mon,24/10/2022,20:00,West Ham,Bournemouth,1.9,0.4,2–0,2022-2023,2015
+14,Sat,29/10/2022,12:30,Leicester City,Manchester City,0.7,1,0–1,2022-2023,2016
+14,Sat,29/10/2022,15:00,Brentford,Wolves,1.4,0.6,1–1,2022-2023,2017
+14,Sat,29/10/2022,15:00,Crystal Palace,Southampton,0.9,1.3,1–0,2022-2023,2018
+14,Sat,29/10/2022,15:00,Newcastle Utd,Aston Villa,3.4,0.4,4–0,2022-2023,2019
+14,Sat,29/10/2022,15:00,Brighton,Chelsea,2.4,1.4,4–1,2022-2023,2020
+14,Sat,29/10/2022,15:00,Bournemouth,Tottenham,0.5,2,2–3,2022-2023,2021
+14,Sat,29/10/2022,17:30,Fulham,Everton,1.9,0.9,0–0,2022-2023,2022
+14,Sat,29/10/2022,19:45,Liverpool,Leeds United,1.7,1.8,1–2,2022-2023,2023
+14,Sun,30/10/2022,14:00,Arsenal,Nott'ham Forest,2.3,0.4,5–0,2022-2023,2024
+14,Sun,30/10/2022,16:15,Manchester Utd,West Ham,1.2,1.1,1–0,2022-2023,2025
+15,Sat,05/11/2022,15:00,Nott'ham Forest,Brentford,1.5,1.5,2–2,2022-2023,2026
+15,Sat,05/11/2022,15:00,Leeds United,Bournemouth,2.2,1.5,4–3,2022-2023,2027
+15,Sat,05/11/2022,15:00,Manchester City,Fulham,2.1,1,2–1,2022-2023,2028
+15,Sat,05/11/2022,15:00,Wolves,Brighton,1.2,1.5,2–3,2022-2023,2029
+15,Sat,05/11/2022,17:30,Everton,Leicester City,1.2,2.3,0–2,2022-2023,2030
+15,Sun,06/11/2022,12:00,Chelsea,Arsenal,0.3,2.1,0–1,2022-2023,2031
+15,Sun,06/11/2022,14:00,West Ham,Crystal Palace,0.3,1,1–2,2022-2023,2032
+15,Sun,06/11/2022,14:00,Southampton,Newcastle Utd,1.7,0.9,1–4,2022-2023,2033
+15,Sun,06/11/2022,14:00,Aston Villa,Manchester Utd,0.6,0.5,3–1,2022-2023,2034
+15,Sun,06/11/2022,16:30,Tottenham,Liverpool,1.2,1.2,1–2,2022-2023,2035
+16,Sat,12/11/2022,12:30,Manchester City,Brentford,1.6,1.3,1–2,2022-2023,2036
+16,Sat,12/11/2022,15:00,Tottenham,Leeds United,1.8,1.1,4–3,2022-2023,2037
+16,Sat,12/11/2022,15:00,Liverpool,Southampton,1.9,1.1,3–1,2022-2023,2038
+16,Sat,12/11/2022,15:00,Bournemouth,Everton,2.4,0.8,3–0,2022-2023,2039
+16,Sat,12/11/2022,15:00,West Ham,Leicester City,1.4,1.8,0–2,2022-2023,2040
+16,Sat,12/11/2022,15:00,Nott'ham Forest,Crystal Palace,1.1,1.2,1–0,2022-2023,2041
+16,Sat,12/11/2022,17:30,Newcastle Utd,Chelsea,1,0.3,1–0,2022-2023,2042
+16,Sat,12/11/2022,19:45,Wolves,Arsenal,0.7,2.1,0–2,2022-2023,2043
+16,Sun,13/11/2022,14:00,Brighton,Aston Villa,0.6,1.5,1–2,2022-2023,2044
+16,Sun,13/11/2022,16:30,Fulham,Manchester Utd,1.4,2.5,1–2,2022-2023,2045
+17,Mon,26/12/2022,12:30,Brentford,Tottenham,2,1.1,2–2,2022-2023,2046
+17,Mon,26/12/2022,15:00,Southampton,Brighton,1.9,0.6,1–3,2022-2023,2047
+17,Mon,26/12/2022,15:00,Leicester City,Newcastle Utd,0.5,1.9,0–3,2022-2023,2048
+17,Mon,26/12/2022,15:00,Crystal Palace,Fulham,0.4,2.5,0–3,2022-2023,2049
+17,Mon,26/12/2022,15:00,Everton,Wolves,1.7,0.8,1–2,2022-2023,2050
+17,Mon,26/12/2022,17:30,Aston Villa,Liverpool,1.4,2.7,1–3,2022-2023,2051
+17,Mon,26/12/2022,20:00,Arsenal,West Ham,2.1,1,3–1,2022-2023,2052
+17,Tue,27/12/2022,17:30,Chelsea,Bournemouth,1.8,0.5,2–0,2022-2023,2053
+17,Tue,27/12/2022,20:00,Manchester Utd,Nott'ham Forest,2.4,0.7,3–0,2022-2023,2054
+17,Wed,28/12/2022,20:00,Leeds United,Manchester City,0.6,4.3,1–3,2022-2023,2055
+18,Fri,30/12/2022,19:45,West Ham,Brentford,1.3,1.6,0–2,2022-2023,2056
+18,Fri,30/12/2022,20:00,Liverpool,Leicester City,2.2,1,2–1,2022-2023,2057
+18,Sat,31/12/2022,12:30,Wolves,Manchester Utd,0.7,2,0–1,2022-2023,2058
+18,Sat,31/12/2022,15:00,Newcastle Utd,Leeds United,2.2,0.4,0–0,2022-2023,2059
+18,Sat,31/12/2022,15:00,Fulham,Southampton,1.5,0.8,2–1,2022-2023,2060
+18,Sat,31/12/2022,15:00,Manchester City,Everton,1.7,0.1,1–1,2022-2023,2061
+18,Sat,31/12/2022,15:00,Bournemouth,Crystal Palace,0.6,1.6,0–2,2022-2023,2062
+18,Sat,31/12/2022,17:30,Brighton,Arsenal,1.2,2.9,2–4,2022-2023,2063
+18,Sun,01/01/2023,14:00,Tottenham,Aston Villa,0.7,1,0–2,2022-2023,2064
+18,Sun,01/01/2023,16:30,Nott'ham Forest,Chelsea,1.4,0.9,1–1,2022-2023,2065
+19,Mon,02/01/2023,17:30,Brentford,Liverpool,1.7,2,3–1,2022-2023,2066
+19,Tue,03/01/2023,19:45,Leicester City,Fulham,1.7,1.7,0–1,2022-2023,2067
+19,Tue,03/01/2023,19:45,Everton,Brighton,1.3,2.2,1–4,2022-2023,2068
+19,Tue,03/01/2023,19:45,Arsenal,Newcastle Utd,1.1,1,0–0,2022-2023,2069
+19,Tue,03/01/2023,20:00,Manchester Utd,Bournemouth,2.2,0.6,3–0,2022-2023,2070
+19,Wed,04/01/2023,19:30,Southampton,Nott'ham Forest,0.5,1.4,0–1,2022-2023,2071
+19,Wed,04/01/2023,19:45,Leeds United,West Ham,1.6,1.4,2–2,2022-2023,2072
+19,Wed,04/01/2023,20:00,Aston Villa,Wolves,1.8,0.9,1–1,2022-2023,2073
+19,Wed,04/01/2023,20:00,Crystal Palace,Tottenham,0.8,1.4,0–4,2022-2023,2074
+19,Thu,05/01/2023,20:00,Chelsea,Manchester City,0.4,2.1,0–1,2022-2023,2075
+7,Thu,12/01/2023,20:00,Fulham,Chelsea,1,2.1,2–1,2022-2023,2076
+20,Fri,13/01/2023,20:00,Aston Villa,Leeds United,1.2,2.4,2–1,2022-2023,2077
+20,Sat,14/01/2023,12:30,Manchester Utd,Manchester City,1.7,0.6,2–1,2022-2023,2078
+20,Sat,14/01/2023,15:00,Everton,Southampton,1.4,1.2,1–2,2022-2023,2079
+20,Sat,14/01/2023,15:00,Wolves,West Ham,0.9,1.1,1–0,2022-2023,2080
+20,Sat,14/01/2023,15:00,Nott'ham Forest,Leicester City,2.4,1,2–0,2022-2023,2081
+20,Sat,14/01/2023,15:00,Brighton,Liverpool,1.9,1,3–0,2022-2023,2082
+20,Sat,14/01/2023,17:30,Brentford,Bournemouth,1.4,0.6,2–0,2022-2023,2083
+20,Sun,15/01/2023,14:00,Chelsea,Crystal Palace,1.5,0.7,1–0,2022-2023,2084
+20,Sun,15/01/2023,14:00,Newcastle Utd,Fulham,2.2,1.1,1–0,2022-2023,2085
+20,Sun,15/01/2023,16:30,Tottenham,Arsenal,1.6,1.8,0–2,2022-2023,2086
+7,Wed,18/01/2023,20:00,Crystal Palace,Manchester Utd,0.5,2.1,1–1,2022-2023,2087
+7,Thu,19/01/2023,20:00,Manchester City,Tottenham,2.3,0.8,4–2,2022-2023,2088
+21,Sat,21/01/2023,12:30,Liverpool,Chelsea,1.4,1.6,0–0,2022-2023,2089
+21,Sat,21/01/2023,15:00,Bournemouth,Nott'ham Forest,1.4,1.9,1–1,2022-2023,2090
+21,Sat,21/01/2023,15:00,Southampton,Aston Villa,0.6,1.4,0–1,2022-2023,2091
+21,Sat,21/01/2023,15:00,Leicester City,Brighton,0.9,1.7,2–2,2022-2023,2092
+21,Sat,21/01/2023,15:00,West Ham,Everton,2.2,0.5,2–0,2022-2023,2093
+21,Sat,21/01/2023,17:30,Crystal Palace,Newcastle Utd,0.3,1.2,0–0,2022-2023,2094
+21,Sun,22/01/2023,14:00,Manchester City,Wolves,2.8,0.8,3–0,2022-2023,2095
+21,Sun,22/01/2023,14:00,Leeds United,Brentford,0.5,0.4,0–0,2022-2023,2096
+21,Sun,22/01/2023,16:30,Arsenal,Manchester Utd,3.1,0.4,3–2,2022-2023,2097
+21,Mon,23/01/2023,20:00,Fulham,Tottenham,1,0.9,0–1,2022-2023,2098
+22,Fri,03/02/2023,20:00,Chelsea,Fulham,1.3,0.6,0–0,2022-2023,2099
+22,Sat,04/02/2023,12:30,Everton,Arsenal,1.7,0.9,1–0,2022-2023,2100
+22,Sat,04/02/2023,15:00,Aston Villa,Leicester City,1.7,2.6,2–4,2022-2023,2101
+22,Sat,04/02/2023,15:00,Wolves,Liverpool,2,1.8,3–0,2022-2023,2102
+22,Sat,04/02/2023,15:00,Manchester Utd,Crystal Palace,2,1.3,2–1,2022-2023,2103
+22,Sat,04/02/2023,15:00,Brighton,Bournemouth,2.2,1.1,1–0,2022-2023,2104
+22,Sat,04/02/2023,15:00,Brentford,Southampton,2.2,0.7,3–0,2022-2023,2105
+22,Sat,04/02/2023,17:30,Newcastle Utd,West Ham,1,1,1–1,2022-2023,2106
+22,Sun,05/02/2023,14:00,Nott'ham Forest,Leeds United,0.4,0.9,1–0,2022-2023,2107
+22,Sun,05/02/2023,16:30,Tottenham,Manchester City,1.4,1.3,1–0,2022-2023,2108
+8,Wed,08/02/2023,20:00,Manchester Utd,Leeds United,2,0.6,2–2,2022-2023,2109
+23,Sat,11/02/2023,12:30,West Ham,Chelsea,1.3,1.1,1–1,2022-2023,2110
+23,Sat,11/02/2023,15:00,Leicester City,Tottenham,1.7,1.3,4–1,2022-2023,2111
+23,Sat,11/02/2023,15:00,Crystal Palace,Brighton,1.1,2.5,1–1,2022-2023,2112
+23,Sat,11/02/2023,15:00,Arsenal,Brentford,1.6,2,1–1,2022-2023,2113
+23,Sat,11/02/2023,15:00,Southampton,Wolves,1.1,0.8,1–2,2022-2023,2114
+23,Sat,11/02/2023,15:00,Fulham,Nott'ham Forest,1.5,0.7,2–0,2022-2023,2115
+23,Sat,11/02/2023,17:30,Bournemouth,Newcastle Utd,1.5,1.3,1–1,2022-2023,2116
+23,Sun,12/02/2023,14:00,Leeds United,Manchester Utd,1.8,1.1,0–2,2022-2023,2117
+23,Sun,12/02/2023,16:30,Manchester City,Aston Villa,3.3,0.3,3–1,2022-2023,2118
+23,Mon,13/02/2023,20:00,Liverpool,Everton,2.3,0.4,2–0,2022-2023,2119
+12,Wed,15/02/2023,19:30,Arsenal,Manchester City,1.6,1.8,1–3,2022-2023,2120
+24,Sat,18/02/2023,12:30,Aston Villa,Arsenal,0.5,3.2,2–4,2022-2023,2121
+24,Sat,18/02/2023,15:00,Brighton,Fulham,2.2,0.3,0–1,2022-2023,2122
+24,Sat,18/02/2023,15:00,Nott'ham Forest,Manchester City,0.9,2.4,1–1,2022-2023,2123
+24,Sat,18/02/2023,15:00,Chelsea,Southampton,1.6,0.6,0–1,2022-2023,2124
+24,Sat,18/02/2023,15:00,Everton,Leeds United,1.4,0.5,1–0,2022-2023,2125
+24,Sat,18/02/2023,15:00,Wolves,Bournemouth,1.3,1.1,0–1,2022-2023,2126
+24,Sat,18/02/2023,15:00,Brentford,Crystal Palace,0.9,1.1,1–1,2022-2023,2127
+24,Sat,18/02/2023,17:30,Newcastle Utd,Liverpool,2,1.9,0–2,2022-2023,2128
+24,Sun,19/02/2023,14:00,Manchester Utd,Leicester City,4.4,1.6,3–0,2022-2023,2129
+24,Sun,19/02/2023,16:30,Tottenham,West Ham,1.5,0.5,2–0,2022-2023,2130
+25,Fri,24/02/2023,20:00,Fulham,Wolves,0.5,0.8,1–1,2022-2023,2131
+25,Sat,25/02/2023,15:00,Leicester City,Arsenal,0,0.7,0–1,2022-2023,2132
+25,Sat,25/02/2023,15:00,Everton,Aston Villa,1.6,1.9,0–2,2022-2023,2133
+25,Sat,25/02/2023,15:00,West Ham,Nott'ham Forest,2.7,0.4,4–0,2022-2023,2134
+25,Sat,25/02/2023,15:00,Leeds United,Southampton,0.9,0.4,1–0,2022-2023,2135
+25,Sat,25/02/2023,17:30,Bournemouth,Manchester City,1,2.4,1–4,2022-2023,2136
+25,Sat,25/02/2023,19:45,Crystal Palace,Liverpool,0.7,0.9,0–0,2022-2023,2137
+25,Sun,26/02/2023,13:30,Tottenham,Chelsea,0.8,0.4,2–0,2022-2023,2138
+7,Wed,01/03/2023,19:45,Arsenal,Everton,2.6,1.2,4–0,2022-2023,2139
+7,Wed,01/03/2023,20:00,Liverpool,Wolves,2.6,0.8,2–0,2022-2023,2140
+26,Sat,04/03/2023,12:30,Manchester City,Newcastle Utd,1.3,0.4,2–0,2022-2023,2141
+26,Sat,04/03/2023,15:00,Arsenal,Bournemouth,2.1,1.3,3–2,2022-2023,2142
+26,Sat,04/03/2023,15:00,Aston Villa,Crystal Palace,1.2,0.2,1–0,2022-2023,2143
+26,Sat,04/03/2023,15:00,Chelsea,Leeds United,1.5,1,1–0,2022-2023,2144
+26,Sat,04/03/2023,15:00,Brighton,West Ham,3.5,0.3,4–0,2022-2023,2145
+26,Sat,04/03/2023,15:00,Wolves,Tottenham,0.5,1.2,1–0,2022-2023,2146
+26,Sat,04/03/2023,17:30,Southampton,Leicester City,1.4,1.9,1–0,2022-2023,2147
+26,Sun,05/03/2023,14:00,Nott'ham Forest,Everton,0.8,1.7,2–2,2022-2023,2148
+26,Sun,05/03/2023,16:30,Liverpool,Manchester Utd,2.8,0.8,7–0,2022-2023,2149
+26,Mon,06/03/2023,20:00,Brentford,Fulham,2.2,1.4,3–2,2022-2023,2150
+27,Sat,11/03/2023,12:30,Bournemouth,Liverpool,0.9,1.7,1–0,2022-2023,2151
+27,Sat,11/03/2023,15:00,Leeds United,Brighton,0.9,2.7,2–2,2022-2023,2152
+27,Sat,11/03/2023,15:00,Everton,Brentford,1,2,1–0,2022-2023,2153
+27,Sat,11/03/2023,15:00,Leicester City,Chelsea,2.4,1.6,1–3,2022-2023,2154
+27,Sat,11/03/2023,15:00,Tottenham,Nott'ham Forest,2,1.5,3–1,2022-2023,2155
+27,Sat,11/03/2023,17:30,Crystal Palace,Manchester City,0.2,2.1,0–1,2022-2023,2156
+27,Sun,12/03/2023,14:00,Manchester Utd,Southampton,0.8,1,0–0,2022-2023,2157
+27,Sun,12/03/2023,14:00,Fulham,Arsenal,0.8,2.3,0–3,2022-2023,2158
+27,Sun,12/03/2023,14:00,West Ham,Aston Villa,2.1,1.5,1–1,2022-2023,2159
+27,Sun,12/03/2023,16:30,Newcastle Utd,Wolves,1.8,1.1,2–1,2022-2023,2160
+7,Wed,15/03/2023,19:30,Southampton,Brentford,0.5,1.9,0–2,2022-2023,2161
+8,Wed,15/03/2023,19:30,Brighton,Crystal Palace,0.6,1.1,1–0,2022-2023,2162
+28,Fri,17/03/2023,20:00,Nott'ham Forest,Newcastle Utd,0.4,2.4,1–2,2022-2023,2163
+28,Sat,18/03/2023,15:00,Wolves,Leeds United,2.7,1.6,2–4,2022-2023,2164
+28,Sat,18/03/2023,15:00,Brentford,Leicester City,0.6,1.3,1–1,2022-2023,2165
+28,Sat,18/03/2023,15:00,Aston Villa,Bournemouth,3.5,1.3,3–0,2022-2023,2166
+28,Sat,18/03/2023,15:00,Southampton,Tottenham,2.4,2.3,3–3,2022-2023,2167
+28,Sat,18/03/2023,17:30,Chelsea,Everton,2.3,1.2,2–2,2022-2023,2168
+28,Sun,19/03/2023,14:00,Arsenal,Crystal Palace,1.6,0.8,4–1,2022-2023,2169
+29,Sat,01/04/2023,12:30,Manchester City,Liverpool,2.9,0.3,4–1,2022-2023,2170
+29,Sat,01/04/2023,15:00,Arsenal,Leeds United,3.8,0.7,4–1,2022-2023,2171
+29,Sat,01/04/2023,15:00,Nott'ham Forest,Wolves,1.3,0.5,1–1,2022-2023,2172
+29,Sat,01/04/2023,15:00,Brighton,Brentford,4.2,1.6,3–3,2022-2023,2173
+29,Sat,01/04/2023,15:00,Crystal Palace,Leicester City,2.3,0.2,2–1,2022-2023,2174
+29,Sat,01/04/2023,15:00,Bournemouth,Fulham,2.6,0.8,2–1,2022-2023,2175
+29,Sat,01/04/2023,17:30,Chelsea,Aston Villa,2.1,0.9,0–2,2022-2023,2176
+29,Sun,02/04/2023,14:00,West Ham,Southampton,1.4,0.3,1–0,2022-2023,2177
+29,Sun,02/04/2023,16:30,Newcastle Utd,Manchester Utd,3.7,0.4,2–0,2022-2023,2178
+29,Mon,03/04/2023,20:00,Everton,Tottenham,0.9,1.4,1–1,2022-2023,2179
+7,Tue,04/04/2023,19:45,Leeds United,Nott'ham Forest,1.8,0.8,2–1,2022-2023,2180
+7,Tue,04/04/2023,19:45,Bournemouth,Brighton,1.7,2.7,0–2,2022-2023,2181
+7,Tue,04/04/2023,19:45,Leicester City,Aston Villa,0.5,1,1–2,2022-2023,2182
+8,Tue,04/04/2023,20:00,Chelsea,Liverpool,2.2,0.3,0–0,2022-2023,2183
+7,Wed,05/04/2023,20:00,West Ham,Newcastle Utd,1,3.3,1–5,2022-2023,2184
+25,Wed,05/04/2023,20:00,Manchester Utd,Brentford,1.2,0.7,1–0,2022-2023,2185
+30,Sat,08/04/2023,12:30,Manchester Utd,Everton,3.4,1,2–0,2022-2023,2186
+30,Sat,08/04/2023,15:00,Fulham,West Ham,0.7,1.1,0–1,2022-2023,2187
+30,Sat,08/04/2023,15:00,Aston Villa,Nott'ham Forest,1.3,0.2,2–0,2022-2023,2188
+30,Sat,08/04/2023,15:00,Leicester City,Bournemouth,0.7,2,0–1,2022-2023,2189
+30,Sat,08/04/2023,15:00,Brentford,Newcastle Utd,2.6,1.3,1–2,2022-2023,2190
+30,Sat,08/04/2023,15:00,Wolves,Chelsea,0.6,1.1,1–0,2022-2023,2191
+30,Sat,08/04/2023,15:00,Tottenham,Brighton,0.8,1.4,2–1,2022-2023,2192
+30,Sat,08/04/2023,17:30,Southampton,Manchester City,0.4,2.9,1–4,2022-2023,2193
+30,Sun,09/04/2023,14:00,Leeds United,Crystal Palace,0.9,3,1–5,2022-2023,2194
+30,Sun,09/04/2023,16:30,Liverpool,Arsenal,3.9,1.4,2–2,2022-2023,2195
+31,Sat,15/04/2023,12:30,Aston Villa,Newcastle Utd,1.9,0.5,3–0,2022-2023,2196
+31,Sat,15/04/2023,15:00,Chelsea,Brighton,0.5,2.9,1–2,2022-2023,2197
+31,Sat,15/04/2023,15:00,Southampton,Crystal Palace,0.8,0.9,0–2,2022-2023,2198
+31,Sat,15/04/2023,15:00,Wolves,Brentford,0.8,1.1,2–0,2022-2023,2199
+31,Sat,15/04/2023,15:00,Tottenham,Bournemouth,2.2,1.3,2–3,2022-2023,2200
+31,Sat,15/04/2023,15:00,Everton,Fulham,1.4,1.8,1–3,2022-2023,2201
+31,Sat,15/04/2023,17:30,Manchester City,Leicester City,1.6,2.3,3–1,2022-2023,2202
+31,Sun,16/04/2023,14:00,West Ham,Arsenal,1.8,2.7,2–2,2022-2023,2203
+31,Sun,16/04/2023,16:30,Nott'ham Forest,Manchester Utd,0.7,3.5,0–2,2022-2023,2204
+31,Mon,17/04/2023,20:00,Leeds United,Liverpool,1.4,2.7,1–6,2022-2023,2205
+32,Fri,21/04/2023,20:00,Arsenal,Southampton,2.5,1.3,3–3,2022-2023,2206
+32,Sat,22/04/2023,12:30,Fulham,Leeds United,1.7,0.8,2–1,2022-2023,2207
+32,Sat,22/04/2023,15:00,Crystal Palace,Everton,0.5,0.4,0–0,2022-2023,2208
+32,Sat,22/04/2023,15:00,Brentford,Aston Villa,2.7,1.5,1–1,2022-2023,2209
+32,Sat,22/04/2023,15:00,Liverpool,Nott'ham Forest,2.8,0.9,3–2,2022-2023,2210
+32,Sat,22/04/2023,15:00,Leicester City,Wolves,2.4,0.9,2–1,2022-2023,2211
+32,Sun,23/04/2023,14:00,Bournemouth,West Ham,1.5,2.4,0–4,2022-2023,2212
+32,Sun,23/04/2023,14:00,Newcastle Utd,Tottenham,3.7,1,6–1,2022-2023,2213
+33,Tue,25/04/2023,19:30,Wolves,Crystal Palace,1.4,0.8,2–0,2022-2023,2214
+33,Tue,25/04/2023,19:45,Aston Villa,Fulham,1,0.1,1–0,2022-2023,2215
+33,Tue,25/04/2023,20:00,Leeds United,Leicester City,1.5,2.1,1–1,2022-2023,2216
+33,Wed,26/04/2023,19:30,Nott'ham Forest,Brighton,2.4,2.3,3–1,2022-2023,2217
+33,Wed,26/04/2023,19:45,Chelsea,Brentford,1.3,1.1,0–2,2022-2023,2218
+33,Wed,26/04/2023,19:45,West Ham,Liverpool,0.8,1.9,1–2,2022-2023,2219
+33,Wed,26/04/2023,20:00,Manchester City,Arsenal,2.5,0.5,4–1,2022-2023,2220
+33,Thu,27/04/2023,19:45,Everton,Newcastle Utd,0.9,2.4,1–4,2022-2023,2221
+33,Thu,27/04/2023,19:45,Southampton,Bournemouth,0.5,0.9,0–1,2022-2023,2222
+33,Thu,27/04/2023,20:15,Tottenham,Manchester Utd,2.5,2,2–2,2022-2023,2223
+34,Sat,29/04/2023,12:30,Crystal Palace,West Ham,2.1,1.7,4–3,2022-2023,2224
+34,Sat,29/04/2023,15:00,Brighton,Wolves,3.3,0.8,6–0,2022-2023,2225
+34,Sat,29/04/2023,15:00,Brentford,Nott'ham Forest,1.6,0.7,2–1,2022-2023,2226
+34,Sun,30/04/2023,14:00,Manchester Utd,Aston Villa,1.2,0.6,1–0,2022-2023,2227
+34,Sun,30/04/2023,14:00,Bournemouth,Leeds United,1.9,1.6,4–1,2022-2023,2228
+34,Sun,30/04/2023,14:00,Newcastle Utd,Southampton,4.3,0.8,3–1,2022-2023,2229
+34,Sun,30/04/2023,14:00,Fulham,Manchester City,0.2,2.5,1–2,2022-2023,2230
+34,Sun,30/04/2023,16:30,Liverpool,Tottenham,2.2,2,4–3,2022-2023,2231
+34,Mon,01/05/2023,20:00,Leicester City,Everton,3.4,3.1,2–2,2022-2023,2232
+34,Tue,02/05/2023,20:00,Arsenal,Chelsea,1.7,0.8,3–1,2022-2023,2233
+28,Wed,03/05/2023,20:00,Liverpool,Fulham,1.8,0.9,1–0,2022-2023,2234
+28,Wed,03/05/2023,20:00,Manchester City,West Ham,2.3,0.4,3–0,2022-2023,2235
+28,Thu,04/05/2023,20:00,Brighton,Manchester Utd,2.3,1.4,1–0,2022-2023,2236
+35,Sat,06/05/2023,15:00,Tottenham,Crystal Palace,0.9,0.4,1–0,2022-2023,2237
+35,Sat,06/05/2023,15:00,Wolves,Aston Villa,0.8,1.5,1–0,2022-2023,2238
+35,Sat,06/05/2023,15:00,Bournemouth,Chelsea,1.2,1.3,1–3,2022-2023,2239
+35,Sat,06/05/2023,15:00,Manchester City,Leeds United,2.6,0.2,2–1,2022-2023,2240
+35,Sat,06/05/2023,17:30,Liverpool,Brentford,2.2,0.2,1–0,2022-2023,2241
+35,Sun,07/05/2023,16:30,Newcastle Utd,Arsenal,1.3,1.3,0–2,2022-2023,2242
+35,Sun,07/05/2023,19:00,West Ham,Manchester Utd,1.3,1.2,1–0,2022-2023,2243
+35,Mon,08/05/2023,15:00,Fulham,Leicester City,1.6,2.8,5–3,2022-2023,2244
+35,Mon,08/05/2023,17:30,Brighton,Everton,3.2,2.3,1–5,2022-2023,2245
+35,Mon,08/05/2023,20:00,Nott'ham Forest,Southampton,1.8,3.1,4–3,2022-2023,2246
+36,Sat,13/05/2023,12:30,Leeds United,Newcastle Utd,2.1,2.4,2–2,2022-2023,2247
+36,Sat,13/05/2023,15:00,Aston Villa,Tottenham,1.2,1.4,2–1,2022-2023,2248
+36,Sat,13/05/2023,15:00,Chelsea,Nott'ham Forest,1.2,1.3,2–2,2022-2023,2249
+36,Sat,13/05/2023,15:00,Crystal Palace,Bournemouth,1.5,0.3,2–0,2022-2023,2250
+36,Sat,13/05/2023,15:00,Southampton,Fulham,0.4,1.4,0–2,2022-2023,2251
+36,Sat,13/05/2023,15:00,Manchester Utd,Wolves,3.2,0.3,2–0,2022-2023,2252
+36,Sun,14/05/2023,14:00,Everton,Manchester City,1.6,0.8,0–3,2022-2023,2253
+36,Sun,14/05/2023,14:00,Brentford,West Ham,3.4,0.2,2–0,2022-2023,2254
+36,Sun,14/05/2023,16:30,Arsenal,Brighton,0.9,1.7,0–3,2022-2023,2255
+36,Mon,15/05/2023,20:00,Leicester City,Liverpool,0.4,2.2,0–3,2022-2023,2256
+25,Thu,18/05/2023,19:30,Newcastle Utd,Brighton,3.6,0.5,4–1,2022-2023,2257
+37,Sat,20/05/2023,12:30,Tottenham,Brentford,1.8,1.3,1–3,2022-2023,2258
+37,Sat,20/05/2023,15:00,Liverpool,Aston Villa,0.7,1.3,1–1,2022-2023,2259
+37,Sat,20/05/2023,15:00,Fulham,Crystal Palace,1.7,1.6,2–2,2022-2023,2260
+37,Sat,20/05/2023,15:00,Bournemouth,Manchester Utd,1,1.4,0–1,2022-2023,2261
+37,Sat,20/05/2023,15:00,Wolves,Everton,1.6,2,1–1,2022-2023,2262
+37,Sat,20/05/2023,17:30,Nott'ham Forest,Arsenal,0.6,0.6,1–0,2022-2023,2263
+37,Sun,21/05/2023,13:30,West Ham,Leeds United,2.1,0.9,3–1,2022-2023,2264
+37,Sun,21/05/2023,14:00,Brighton,Southampton,2.5,0.6,3–1,2022-2023,2265
+37,Sun,21/05/2023,16:00,Manchester City,Chelsea,1.2,1.2,1–0,2022-2023,2266
+37,Mon,22/05/2023,20:00,Newcastle Utd,Leicester City,2.1,0.1,0–0,2022-2023,2267
+32,Wed,24/05/2023,20:00,Brighton,Manchester City,2.2,1.8,1–1,2022-2023,2268
+32,Thu,25/05/2023,20:00,Manchester Utd,Chelsea,5.2,1.9,4–1,2022-2023,2269
+38,Sun,28/05/2023,16:30,Crystal Palace,Nott'ham Forest,1.4,0.5,1–1,2022-2023,2270
+38,Sun,28/05/2023,16:30,Chelsea,Newcastle Utd,2.2,1.7,1–1,2022-2023,2271
+38,Sun,28/05/2023,16:30,Manchester Utd,Fulham,2.9,1.8,2–1,2022-2023,2272
+38,Sun,28/05/2023,16:30,Arsenal,Wolves,2.8,0.5,5–0,2022-2023,2273
+38,Sun,28/05/2023,16:30,Southampton,Liverpool,1.8,4,4–4,2022-2023,2274
+38,Sun,28/05/2023,16:30,Everton,Bournemouth,1,0.5,1–0,2022-2023,2275
+38,Sun,28/05/2023,16:30,Leicester City,West Ham,1.4,1.4,2–1,2022-2023,2276
+38,Sun,28/05/2023,16:30,Aston Villa,Brighton,2.8,1.4,2–1,2022-2023,2277
+38,Sun,28/05/2023,16:30,Leeds United,Tottenham,1.5,2.2,1–4,2022-2023,2278
+38,Sun,28/05/2023,16:30,Brentford,Manchester City,1.3,1.6,1–0,2022-2023,2279
