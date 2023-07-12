@@ -1,4 +1,4 @@
-# fantasy_football_data_wrangling_pandas
+# Fantasy Football: Data Wrangling
 FPL 1 - Wrangling data to create a data set ready for machine learning
 
 ## Other Fantasy Football repositories
